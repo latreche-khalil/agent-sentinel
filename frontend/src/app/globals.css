@@ -1,0 +1,307 @@
+@import "tailwindcss";
+
+:root {
+  --background: #090d16;
+  --foreground: #f1f5f9;
+  --card-bg: #0f172a;
+  --card-border: #1e293b;
+  --accent-blue: #38bdf8;
+  --accent-cyan: #06b6d4;
+  --danger: #ef4444;
+  --warning: #f59e0b;
+  --success: #10b981;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  overflow-x: hidden;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* Custom scrollbar for security logs and code blocks */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #090d16;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #334155;
+}
+
+/* Grid background pattern for security command feel */
+.bg-grid-pattern {
+  background-image: radial-gradient(rgba(56, 189, 248, 0.08) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+.radar-sweep {
+  position: relative;
+  overflow: hidden;
+}
+
+.radar-sweep::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(56, 189, 248, 0.08), transparent);
+  animation: sweep 4s infinite linear;
+}
+
+@keyframes sweep {
+  0% { left: -100%; }
+  100% { left: 100%; }
+}
+
+/* ========================================================
+   LIGHT MODE OVERRIDES
+   Enterprise SIEM Light Theme (Clean, Crisp, High Contrast)
+   ======================================================== */
+
+html.light, body.light {
+  --background: #f8fafc;
+  --foreground: #0f172a;
+}
+
+.light body {
+  background-color: #f8fafc !important;
+  color: #0f172a !important;
+}
+
+/* Navigation Shell */
+.light aside {
+  background-color: #ffffff !important;
+  border-color: #e2e8f0 !important;
+}
+
+.light aside .bg-zinc-900\/30,
+.light aside .bg-zinc-900\/20,
+.light aside .bg-zinc-900\/40 {
+  background-color: #f8fafc !important;
+  border-color: #e2e8f0 !important;
+}
+
+.light aside a {
+  color: #475569 !important;
+}
+
+.light aside a:hover {
+  background-color: #f1f5f9 !important;
+  color: #0f172a !important;
+}
+
+.light aside a.bg-sky-500\/10 {
+  background-color: #e0f2fe !important;
+  color: #0284c7 !important;
+  border-color: #7dd3fc !important;
+}
+
+.light header {
+  background-color: rgba(255, 255, 255, 0.92) !important;
+  border-color: #e2e8f0 !important;
+}
+
+/* Top Hero Banners & Gradients */
+.light .bg-gradient-to-r,
+.light [class*="from-sky-950"],
+.light [class*="from-purple-950"] {
+  background: linear-gradient(135deg, #e0f2fe 0%, #f0f9ff 60%, #ffffff 100%) !important;
+  border-color: #bae6fd !important;
+}
+
+.light .bg-gradient-to-r h1 {
+  color: #0369a1 !important;
+}
+
+.light .bg-gradient-to-r p {
+  color: #334155 !important;
+}
+
+/* Surfaces and Cards */
+.light .bg-zinc-950,
+.light .bg-zinc-950\/80,
+.light .bg-zinc-950\/70,
+.light .bg-zinc-950\/60 {
+  background-color: #f1f5f9 !important;
+  border-color: #e2e8f0 !important;
+  color: #0f172a !important;
+}
+
+.light .bg-zinc-900,
+.light .bg-zinc-900\/80,
+.light .bg-zinc-900\/70,
+.light .bg-zinc-900\/60,
+.light .bg-zinc-900\/50,
+.light .bg-zinc-900\/40,
+.light .bg-zinc-900\/30,
+.light .bg-zinc-900\/20 {
+  background-color: #ffffff !important;
+  border-color: #e2e8f0 !important;
+}
+
+.light .border-zinc-800,
+.light .border-zinc-800\/80,
+.light .border-zinc-800\/60,
+.light .border-zinc-700 {
+  border-color: #e2e8f0 !important;
+}
+
+/* Text Hierarchy */
+.light .text-white,
+.light h1, .light h2, .light h3, .light h4 {
+  color: #0f172a !important;
+}
+
+.light .text-zinc-100,
+.light .text-zinc-200 {
+  color: #0f172a !important;
+}
+
+.light .text-zinc-300 {
+  color: #1e293b !important;
+}
+
+.light .text-zinc-400 {
+  color: #475569 !important;
+}
+
+.light .text-zinc-500 {
+  color: #64748b !important;
+}
+
+.light .text-zinc-600 {
+  color: #94a3b8 !important;
+}
+
+/* Secondary Buttons & Pills */
+.light .bg-zinc-800,
+.light .bg-zinc-800\/80,
+.light .bg-zinc-800\/50,
+.light .bg-zinc-800\/40,
+.light .bg-zinc-800\/30 {
+  background-color: #f1f5f9 !important;
+  border-color: #cbd5e1 !important;
+  color: #1e293b !important;
+}
+
+/* Specific Hover States in Light Mode - No dark black hovers */
+.light .hover\:bg-zinc-700:hover,
+.light .hover\:bg-zinc-800:hover,
+.light .hover\:bg-zinc-900:hover,
+.light .hover\:bg-zinc-900\/70:hover,
+.light .hover\:bg-zinc-800\/80:hover,
+.light .hover\:bg-zinc-800\/50:hover,
+.light .hover\:bg-zinc-800\/40:hover,
+.light .hover\:bg-zinc-800\/30:hover {
+  background-color: #e2e8f0 !important;
+  color: #0f172a !important;
+}
+
+/* Primary and Accent Buttons in Light Mode */
+.light .bg-sky-500 {
+  background-color: #0284c7 !important;
+  color: #ffffff !important;
+}
+.light .bg-sky-500:hover,
+.light .hover\:bg-sky-400:hover {
+  background-color: #0369a1 !important;
+  color: #ffffff !important;
+}
+
+.light tr:hover {
+  background-color: #f1f5f9 !important;
+}
+
+.light tr.hover\:bg-zinc-800\/40:hover,
+.light tr.hover\:bg-zinc-800\/30:hover {
+  background-color: #f1f5f9 !important;
+}
+
+.light .hover\:border-zinc-700:hover {
+  border-color: #94a3b8 !important;
+}
+
+/* Inputs, Textareas, Selects */
+.light input,
+.light select,
+.light textarea {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+  border-color: #cbd5e1 !important;
+}
+
+.light input::placeholder,
+.light textarea::placeholder {
+  color: #94a3b8 !important;
+}
+
+/* Code & Pre Blocks */
+.light pre {
+  background-color: #f1f5f9 !important;
+  color: #0f172a !important;
+  border-color: #e2e8f0 !important;
+}
+
+/* Alert & Context Panels */
+.light .bg-sky-950\/20, .light .bg-sky-950\/10 {
+  background-color: #f0f9ff !important;
+  border-color: #bae6fd !important;
+}
+
+.light .bg-rose-950\/20, .light .bg-rose-950\/10 {
+  background-color: #fff1f2 !important;
+  border-color: #fecdd3 !important;
+}
+
+.light .bg-emerald-950\/20, .light .bg-emerald-950\/10 {
+  background-color: #f0fdf4 !important;
+  border-color: #bbf7d0 !important;
+}
+
+.light .bg-amber-950\/20, .light .bg-amber-950\/10 {
+  background-color: #fffbeb !important;
+  border-color: #fde68a !important;
+}
+
+.light .bg-purple-950\/20, .light .bg-purple-950\/10 {
+  background-color: #faf5ff !important;
+  border-color: #e9d5ff !important;
+}
+
+/* Custom Scrollbars in Light Mode */
+.light ::-webkit-scrollbar-track {
+  background: #f8fafc;
+}
+
+.light ::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+}
+
+.light ::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Background Grids */
+.light .bg-grid-pattern {
+  background-image: radial-gradient(rgba(14, 165, 233, 0.15) 1px, transparent 1px);
+}

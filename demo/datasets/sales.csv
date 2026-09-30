@@ -1,0 +1,1201 @@
+sale_id,customer_id,product_name,category,unit_price,units,total_amount,sale_date,region,status
+SALE-000001,CUST-00127,Developer Seat Annual,Software,600.0,1,600.0,2025-01-21,APAC-South,completed
+SALE-000002,CUST-00382,Vector Index Storage 1TB,Storage,150.0,8,1200.0,2025-07-21,NA-West,completed
+SALE-000003,CUST-00182,Vector Index Storage 1TB,Storage,150.0,11,1650.0,2025-06-30,APAC-East,completed
+SALE-000004,CUST-00416,Autonomous Agent License,Software,1200.0,9,10800.0,2025-05-22,NA-East,completed
+SALE-000005,CUST-00016,Security Audit Telemetry Add-on,Security,850.0,15,12750.0,2026-02-22,APAC-South,completed
+SALE-000006,CUST-00460,Autonomous Agent License,Software,1200.0,3,3600.0,2025-06-24,EMEA-Central,completed
+SALE-000007,CUST-00267,Cloud Infrastructure Node v2,Compute,450.0,12,5400.0,2025-07-15,APAC-East,refunded
+SALE-000008,CUST-00214,Developer Seat Annual,Software,600.0,11,6600.0,2025-04-27,NA-West,refunded
+SALE-000009,CUST-00466,Autonomous Agent License,Software,1200.0,7,8400.0,2025-06-09,APAC-South,completed
+SALE-000010,CUST-00106,Security Audit Telemetry Add-on,Security,850.0,9,7650.0,2025-03-09,APAC-East,completed
+SALE-000011,CUST-00410,Enterprise Support Plan (Monthly),Support,2500.0,9,22500.0,2025-12-17,NA-West,completed
+SALE-000012,CUST-00461,Vector Index Storage 1TB,Storage,150.0,12,1800.0,2025-12-28,APAC-South,completed
+SALE-000013,CUST-00075,Security Audit Telemetry Add-on,Security,850.0,15,12750.0,2026-01-30,APAC-East,refunded
+SALE-000014,CUST-00286,Autonomous Agent License,Software,1200.0,6,7200.0,2025-02-04,APAC-South,completed
+SALE-000015,CUST-00451,Autonomous Agent License,Software,1200.0,6,7200.0,2026-03-06,NA-West,completed
+SALE-000016,CUST-00493,Vector Index Storage 1TB,Storage,150.0,15,2250.0,2025-07-31,EMEA-Central,completed
+SALE-000017,CUST-00458,Security Audit Telemetry Add-on,Security,850.0,12,10200.0,2026-02-25,APAC-East,completed
+SALE-000018,CUST-00055,Autonomous Agent License,Software,1200.0,13,15600.0,2025-04-07,NA-West,completed
+SALE-000019,CUST-00316,Cloud Infrastructure Node v2,Compute,450.0,13,5850.0,2025-11-10,EMEA-North,refunded
+SALE-000020,CUST-00306,Enterprise Support Plan (Monthly),Support,2500.0,10,25000.0,2025-04-29,NA-West,completed
+SALE-000021,CUST-00041,Developer Seat Annual,Software,600.0,1,600.0,2025-07-03,APAC-East,pending
+SALE-000022,CUST-00310,Autonomous Agent License,Software,1200.0,9,10800.0,2026-03-10,EMEA-Central,completed
+SALE-000023,CUST-00252,Autonomous Agent License,Software,1200.0,14,16800.0,2025-07-18,EMEA-Central,completed
+SALE-000024,CUST-00017,Autonomous Agent License,Software,1200.0,4,4800.0,2025-04-26,EMEA-Central,completed
+SALE-000025,CUST-00381,Vector Index Storage 1TB,Storage,150.0,7,1050.0,2025-04-24,APAC-East,completed
+SALE-000026,CUST-00475,Autonomous Agent License,Software,1200.0,2,2400.0,2025-04-01,EMEA-Central,refunded
+SALE-000027,CUST-00444,Security Audit Telemetry Add-on,Security,850.0,12,10200.0,2025-06-16,EMEA-Central,completed
+SALE-000028,CUST-00022,Security Audit Telemetry Add-on,Security,850.0,7,5950.0,2026-02-02,APAC-South,pending
+SALE-000029,CUST-00314,Developer Seat Annual,Software,600.0,6,3600.0,2025-07-21,APAC-East,refunded
+SALE-000030,CUST-00329,Enterprise Support Plan (Monthly),Support,2500.0,9,22500.0,2025-09-26,APAC-East,completed
+SALE-000031,CUST-00234,Enterprise Support Plan (Monthly),Support,2500.0,2,5000.0,2025-08-20,NA-East,completed
+SALE-000032,CUST-00377,Enterprise Support Plan (Monthly),Support,2500.0,9,22500.0,2025-07-22,NA-East,refunded
+SALE-000033,CUST-00323,Security Audit Telemetry Add-on,Security,850.0,9,7650.0,2026-01-27,NA-East,completed
+SALE-000034,CUST-00453,Vector Index Storage 1TB,Storage,150.0,8,1200.0,2025-07-23,EMEA-North,completed
+SALE-000035,CUST-00151,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2025-08-05,APAC-South,completed
+SALE-000036,CUST-00238,Developer Seat Annual,Software,600.0,9,5400.0,2025-03-14,APAC-East,pending
+SALE-000037,CUST-00058,Cloud Infrastructure Node v2,Compute,450.0,12,5400.0,2025-09-14,NA-West,refunded
+SALE-000038,CUST-00202,Developer Seat Annual,Software,600.0,9,5400.0,2025-03-11,EMEA-Central,completed
+SALE-000039,CUST-00233,Security Audit Telemetry Add-on,Security,850.0,1,850.0,2025-04-02,APAC-South,completed
+SALE-000040,CUST-00166,Security Audit Telemetry Add-on,Security,850.0,2,1700.0,2025-05-09,APAC-East,completed
+SALE-000041,CUST-00047,Developer Seat Annual,Software,600.0,12,7200.0,2025-03-05,NA-East,pending
+SALE-000042,CUST-00269,Developer Seat Annual,Software,600.0,6,3600.0,2025-02-13,APAC-East,pending
+SALE-000043,CUST-00314,Developer Seat Annual,Software,600.0,13,7800.0,2025-09-19,NA-West,pending
+SALE-000044,CUST-00394,Enterprise Support Plan (Monthly),Support,2500.0,7,17500.0,2025-01-23,NA-West,completed
+SALE-000045,CUST-00442,Enterprise Support Plan (Monthly),Support,2500.0,14,35000.0,2025-12-04,NA-West,completed
+SALE-000046,CUST-00365,Autonomous Agent License,Software,1200.0,3,3600.0,2026-01-29,NA-East,pending
+SALE-000047,CUST-00394,Vector Index Storage 1TB,Storage,150.0,5,750.0,2026-01-09,EMEA-Central,completed
+SALE-000048,CUST-00461,Developer Seat Annual,Software,600.0,3,1800.0,2025-03-02,NA-West,completed
+SALE-000049,CUST-00130,Cloud Infrastructure Node v2,Compute,450.0,10,4500.0,2026-01-27,NA-East,pending
+SALE-000050,CUST-00279,Security Audit Telemetry Add-on,Security,850.0,14,11900.0,2025-09-13,NA-East,refunded
+SALE-000051,CUST-00302,Security Audit Telemetry Add-on,Security,850.0,4,3400.0,2025-04-22,APAC-East,pending
+SALE-000052,CUST-00041,Security Audit Telemetry Add-on,Security,850.0,7,5950.0,2025-08-15,APAC-South,refunded
+SALE-000053,CUST-00143,Cloud Infrastructure Node v2,Compute,450.0,4,1800.0,2025-10-08,APAC-South,refunded
+SALE-000054,CUST-00076,Autonomous Agent License,Software,1200.0,1,1200.0,2025-04-05,NA-East,completed
+SALE-000055,CUST-00017,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2026-03-14,APAC-East,refunded
+SALE-000056,CUST-00472,Enterprise Support Plan (Monthly),Support,2500.0,5,12500.0,2025-06-19,NA-East,completed
+SALE-000057,CUST-00083,Cloud Infrastructure Node v2,Compute,450.0,7,3150.0,2025-04-02,APAC-East,completed
+SALE-000058,CUST-00359,Enterprise Support Plan (Monthly),Support,2500.0,11,27500.0,2025-12-21,APAC-South,refunded
+SALE-000059,CUST-00384,Enterprise Support Plan (Monthly),Support,2500.0,3,7500.0,2025-08-22,APAC-South,completed
+SALE-000060,CUST-00154,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2026-01-29,EMEA-North,completed
+SALE-000061,CUST-00389,Security Audit Telemetry Add-on,Security,850.0,14,11900.0,2025-02-04,EMEA-Central,refunded
+SALE-000062,CUST-00069,Cloud Infrastructure Node v2,Compute,450.0,5,2250.0,2025-08-30,NA-East,completed
+SALE-000063,CUST-00269,Vector Index Storage 1TB,Storage,150.0,9,1350.0,2025-07-31,NA-West,completed
+SALE-000064,CUST-00293,Enterprise Support Plan (Monthly),Support,2500.0,1,2500.0,2025-02-25,APAC-East,refunded
+SALE-000065,CUST-00353,Cloud Infrastructure Node v2,Compute,450.0,8,3600.0,2026-01-06,APAC-South,completed
+SALE-000066,CUST-00163,Security Audit Telemetry Add-on,Security,850.0,10,8500.0,2026-03-11,EMEA-North,refunded
+SALE-000067,CUST-00475,Enterprise Support Plan (Monthly),Support,2500.0,10,25000.0,2025-07-01,NA-West,refunded
+SALE-000068,CUST-00374,Enterprise Support Plan (Monthly),Support,2500.0,8,20000.0,2025-09-24,APAC-East,pending
+SALE-000069,CUST-00453,Security Audit Telemetry Add-on,Security,850.0,13,11050.0,2025-04-03,APAC-South,completed
+SALE-000070,CUST-00001,Developer Seat Annual,Software,600.0,5,3000.0,2025-04-10,NA-East,completed
+SALE-000071,CUST-00061,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2026-02-12,APAC-East,completed
+SALE-000072,CUST-00024,Enterprise Support Plan (Monthly),Support,2500.0,7,17500.0,2025-07-31,EMEA-North,completed
+SALE-000073,CUST-00109,Enterprise Support Plan (Monthly),Support,2500.0,13,32500.0,2025-11-23,NA-East,completed
+SALE-000074,CUST-00405,Developer Seat Annual,Software,600.0,5,3000.0,2025-05-11,NA-East,completed
+SALE-000075,CUST-00166,Vector Index Storage 1TB,Storage,150.0,9,1350.0,2025-10-09,NA-East,completed
+SALE-000076,CUST-00203,Developer Seat Annual,Software,600.0,6,3600.0,2025-06-24,APAC-East,refunded
+SALE-000077,CUST-00090,Enterprise Support Plan (Monthly),Support,2500.0,1,2500.0,2026-03-03,NA-West,completed
+SALE-000078,CUST-00246,Vector Index Storage 1TB,Storage,150.0,15,2250.0,2025-12-11,EMEA-Central,completed
+SALE-000079,CUST-00080,Developer Seat Annual,Software,600.0,3,1800.0,2025-09-04,APAC-East,pending
+SALE-000080,CUST-00237,Enterprise Support Plan (Monthly),Support,2500.0,15,37500.0,2025-06-21,EMEA-Central,completed
+SALE-000081,CUST-00372,Enterprise Support Plan (Monthly),Support,2500.0,5,12500.0,2025-10-17,APAC-East,completed
+SALE-000082,CUST-00107,Enterprise Support Plan (Monthly),Support,2500.0,9,22500.0,2025-01-10,APAC-South,completed
+SALE-000083,CUST-00144,Vector Index Storage 1TB,Storage,150.0,2,300.0,2025-03-18,NA-East,completed
+SALE-000084,CUST-00432,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2025-10-01,NA-West,refunded
+SALE-000085,CUST-00305,Enterprise Support Plan (Monthly),Support,2500.0,7,17500.0,2025-04-06,NA-East,completed
+SALE-000086,CUST-00364,Developer Seat Annual,Software,600.0,14,8400.0,2025-06-11,NA-East,completed
+SALE-000087,CUST-00450,Security Audit Telemetry Add-on,Security,850.0,2,1700.0,2025-09-12,NA-West,completed
+SALE-000088,CUST-00111,Security Audit Telemetry Add-on,Security,850.0,14,11900.0,2025-06-04,APAC-South,completed
+SALE-000089,CUST-00402,Autonomous Agent License,Software,1200.0,2,2400.0,2025-07-11,NA-East,completed
+SALE-000090,CUST-00013,Cloud Infrastructure Node v2,Compute,450.0,8,3600.0,2025-09-17,EMEA-Central,refunded
+SALE-000091,CUST-00473,Autonomous Agent License,Software,1200.0,4,4800.0,2025-06-24,EMEA-Central,refunded
+SALE-000092,CUST-00074,Vector Index Storage 1TB,Storage,150.0,13,1950.0,2025-06-17,NA-East,refunded
+SALE-000093,CUST-00371,Developer Seat Annual,Software,600.0,3,1800.0,2025-04-16,NA-East,pending
+SALE-000094,CUST-00268,Security Audit Telemetry Add-on,Security,850.0,12,10200.0,2026-03-19,NA-East,completed
+SALE-000095,CUST-00352,Vector Index Storage 1TB,Storage,150.0,15,2250.0,2025-01-23,APAC-South,completed
+SALE-000096,CUST-00053,Vector Index Storage 1TB,Storage,150.0,8,1200.0,2025-01-24,APAC-South,completed
+SALE-000097,CUST-00160,Cloud Infrastructure Node v2,Compute,450.0,10,4500.0,2026-01-24,APAC-East,completed
+SALE-000098,CUST-00147,Vector Index Storage 1TB,Storage,150.0,4,600.0,2025-04-09,EMEA-North,refunded
+SALE-000099,CUST-00344,Vector Index Storage 1TB,Storage,150.0,13,1950.0,2025-08-14,NA-East,completed
+SALE-000100,CUST-00059,Autonomous Agent License,Software,1200.0,3,3600.0,2025-05-21,NA-East,refunded
+SALE-000101,CUST-00106,Enterprise Support Plan (Monthly),Support,2500.0,9,22500.0,2025-02-22,APAC-South,completed
+SALE-000102,CUST-00073,Enterprise Support Plan (Monthly),Support,2500.0,6,15000.0,2025-05-19,APAC-East,completed
+SALE-000103,CUST-00037,Enterprise Support Plan (Monthly),Support,2500.0,4,10000.0,2025-03-29,EMEA-North,refunded
+SALE-000104,CUST-00026,Vector Index Storage 1TB,Storage,150.0,9,1350.0,2025-08-16,NA-West,completed
+SALE-000105,CUST-00026,Security Audit Telemetry Add-on,Security,850.0,15,12750.0,2025-12-12,NA-East,pending
+SALE-000106,CUST-00201,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2025-08-07,NA-West,refunded
+SALE-000107,CUST-00354,Enterprise Support Plan (Monthly),Support,2500.0,11,27500.0,2026-03-05,APAC-East,pending
+SALE-000108,CUST-00171,Enterprise Support Plan (Monthly),Support,2500.0,6,15000.0,2025-06-09,NA-West,refunded
+SALE-000109,CUST-00392,Cloud Infrastructure Node v2,Compute,450.0,15,6750.0,2026-01-22,EMEA-Central,refunded
+SALE-000110,CUST-00411,Autonomous Agent License,Software,1200.0,2,2400.0,2026-02-21,APAC-East,pending
+SALE-000111,CUST-00351,Cloud Infrastructure Node v2,Compute,450.0,8,3600.0,2025-06-08,APAC-East,pending
+SALE-000112,CUST-00074,Security Audit Telemetry Add-on,Security,850.0,4,3400.0,2025-04-25,APAC-South,completed
+SALE-000113,CUST-00359,Vector Index Storage 1TB,Storage,150.0,7,1050.0,2025-04-04,APAC-East,completed
+SALE-000114,CUST-00016,Vector Index Storage 1TB,Storage,150.0,8,1200.0,2025-09-07,NA-East,pending
+SALE-000115,CUST-00237,Cloud Infrastructure Node v2,Compute,450.0,6,2700.0,2025-09-03,NA-West,completed
+SALE-000116,CUST-00066,Vector Index Storage 1TB,Storage,150.0,10,1500.0,2025-10-22,APAC-South,completed
+SALE-000117,CUST-00408,Security Audit Telemetry Add-on,Security,850.0,14,11900.0,2026-01-01,NA-East,completed
+SALE-000118,CUST-00406,Enterprise Support Plan (Monthly),Support,2500.0,11,27500.0,2025-02-06,EMEA-North,refunded
+SALE-000119,CUST-00212,Security Audit Telemetry Add-on,Security,850.0,7,5950.0,2025-10-30,NA-West,refunded
+SALE-000120,CUST-00499,Autonomous Agent License,Software,1200.0,9,10800.0,2025-03-23,EMEA-Central,pending
+SALE-000121,CUST-00417,Cloud Infrastructure Node v2,Compute,450.0,6,2700.0,2025-04-17,APAC-East,refunded
+SALE-000122,CUST-00291,Security Audit Telemetry Add-on,Security,850.0,13,11050.0,2025-08-11,EMEA-North,refunded
+SALE-000123,CUST-00340,Developer Seat Annual,Software,600.0,4,2400.0,2025-03-30,APAC-East,completed
+SALE-000124,CUST-00294,Developer Seat Annual,Software,600.0,15,9000.0,2025-12-31,EMEA-Central,completed
+SALE-000125,CUST-00167,Enterprise Support Plan (Monthly),Support,2500.0,10,25000.0,2025-08-26,APAC-South,completed
+SALE-000126,CUST-00490,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2025-06-07,EMEA-Central,completed
+SALE-000127,CUST-00417,Enterprise Support Plan (Monthly),Support,2500.0,2,5000.0,2025-12-17,APAC-South,pending
+SALE-000128,CUST-00339,Vector Index Storage 1TB,Storage,150.0,8,1200.0,2025-11-27,NA-East,completed
+SALE-000129,CUST-00455,Autonomous Agent License,Software,1200.0,14,16800.0,2025-03-13,APAC-South,completed
+SALE-000130,CUST-00232,Autonomous Agent License,Software,1200.0,11,13200.0,2025-03-18,APAC-South,completed
+SALE-000131,CUST-00229,Security Audit Telemetry Add-on,Security,850.0,10,8500.0,2025-10-23,NA-West,completed
+SALE-000132,CUST-00154,Developer Seat Annual,Software,600.0,15,9000.0,2025-06-12,APAC-South,completed
+SALE-000133,CUST-00046,Security Audit Telemetry Add-on,Security,850.0,12,10200.0,2025-06-26,APAC-South,completed
+SALE-000134,CUST-00434,Enterprise Support Plan (Monthly),Support,2500.0,9,22500.0,2025-07-26,NA-West,completed
+SALE-000135,CUST-00496,Cloud Infrastructure Node v2,Compute,450.0,6,2700.0,2025-10-09,NA-East,completed
+SALE-000136,CUST-00184,Developer Seat Annual,Software,600.0,9,5400.0,2026-02-25,NA-East,completed
+SALE-000137,CUST-00360,Cloud Infrastructure Node v2,Compute,450.0,4,1800.0,2025-08-10,APAC-South,pending
+SALE-000138,CUST-00196,Developer Seat Annual,Software,600.0,6,3600.0,2025-12-31,EMEA-Central,pending
+SALE-000139,CUST-00340,Security Audit Telemetry Add-on,Security,850.0,9,7650.0,2025-04-19,NA-West,pending
+SALE-000140,CUST-00197,Autonomous Agent License,Software,1200.0,4,4800.0,2025-10-12,EMEA-North,pending
+SALE-000141,CUST-00344,Autonomous Agent License,Software,1200.0,5,6000.0,2026-03-23,NA-West,completed
+SALE-000142,CUST-00009,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2025-11-28,NA-West,pending
+SALE-000143,CUST-00044,Developer Seat Annual,Software,600.0,7,4200.0,2025-03-11,NA-West,pending
+SALE-000144,CUST-00357,Security Audit Telemetry Add-on,Security,850.0,15,12750.0,2026-02-08,APAC-South,pending
+SALE-000145,CUST-00261,Enterprise Support Plan (Monthly),Support,2500.0,3,7500.0,2025-08-21,EMEA-Central,refunded
+SALE-000146,CUST-00116,Security Audit Telemetry Add-on,Security,850.0,7,5950.0,2025-07-01,NA-West,pending
+SALE-000147,CUST-00256,Enterprise Support Plan (Monthly),Support,2500.0,1,2500.0,2025-10-23,APAC-East,completed
+SALE-000148,CUST-00211,Developer Seat Annual,Software,600.0,9,5400.0,2025-05-18,APAC-South,refunded
+SALE-000149,CUST-00291,Vector Index Storage 1TB,Storage,150.0,1,150.0,2025-01-20,EMEA-Central,completed
+SALE-000150,CUST-00493,Cloud Infrastructure Node v2,Compute,450.0,10,4500.0,2025-09-04,APAC-East,completed
+SALE-000151,CUST-00270,Autonomous Agent License,Software,1200.0,12,14400.0,2026-01-10,EMEA-North,pending
+SALE-000152,CUST-00456,Enterprise Support Plan (Monthly),Support,2500.0,2,5000.0,2025-09-25,APAC-South,completed
+SALE-000153,CUST-00380,Autonomous Agent License,Software,1200.0,8,9600.0,2025-11-19,APAC-East,completed
+SALE-000154,CUST-00409,Developer Seat Annual,Software,600.0,11,6600.0,2025-10-04,APAC-South,completed
+SALE-000155,CUST-00274,Enterprise Support Plan (Monthly),Support,2500.0,1,2500.0,2025-06-25,NA-East,pending
+SALE-000156,CUST-00294,Security Audit Telemetry Add-on,Security,850.0,9,7650.0,2025-08-29,APAC-East,completed
+SALE-000157,CUST-00151,Security Audit Telemetry Add-on,Security,850.0,6,5100.0,2026-02-13,EMEA-North,completed
+SALE-000158,CUST-00384,Cloud Infrastructure Node v2,Compute,450.0,12,5400.0,2025-11-02,EMEA-North,refunded
+SALE-000159,CUST-00243,Vector Index Storage 1TB,Storage,150.0,1,150.0,2025-11-19,APAC-South,completed
+SALE-000160,CUST-00150,Enterprise Support Plan (Monthly),Support,2500.0,1,2500.0,2025-12-03,APAC-East,refunded
+SALE-000161,CUST-00043,Cloud Infrastructure Node v2,Compute,450.0,5,2250.0,2025-09-06,NA-West,refunded
+SALE-000162,CUST-00143,Cloud Infrastructure Node v2,Compute,450.0,14,6300.0,2026-02-06,EMEA-North,completed
+SALE-000163,CUST-00440,Enterprise Support Plan (Monthly),Support,2500.0,5,12500.0,2025-05-21,EMEA-North,completed
+SALE-000164,CUST-00090,Developer Seat Annual,Software,600.0,2,1200.0,2025-11-06,APAC-South,completed
+SALE-000165,CUST-00414,Developer Seat Annual,Software,600.0,8,4800.0,2025-07-09,NA-West,completed
+SALE-000166,CUST-00093,Developer Seat Annual,Software,600.0,4,2400.0,2025-09-06,APAC-South,completed
+SALE-000167,CUST-00305,Vector Index Storage 1TB,Storage,150.0,2,300.0,2025-03-16,NA-West,pending
+SALE-000168,CUST-00122,Security Audit Telemetry Add-on,Security,850.0,13,11050.0,2025-07-16,APAC-East,pending
+SALE-000169,CUST-00108,Developer Seat Annual,Software,600.0,11,6600.0,2025-03-27,APAC-South,completed
+SALE-000170,CUST-00387,Cloud Infrastructure Node v2,Compute,450.0,11,4950.0,2025-05-16,NA-East,completed
+SALE-000171,CUST-00244,Autonomous Agent License,Software,1200.0,8,9600.0,2025-07-24,EMEA-North,pending
+SALE-000172,CUST-00120,Developer Seat Annual,Software,600.0,13,7800.0,2025-09-30,EMEA-Central,pending
+SALE-000173,CUST-00272,Security Audit Telemetry Add-on,Security,850.0,5,4250.0,2025-03-16,EMEA-Central,completed
+SALE-000174,CUST-00230,Vector Index Storage 1TB,Storage,150.0,15,2250.0,2026-02-13,EMEA-Central,completed
+SALE-000175,CUST-00050,Enterprise Support Plan (Monthly),Support,2500.0,11,27500.0,2025-01-22,APAC-South,completed
+SALE-000176,CUST-00440,Security Audit Telemetry Add-on,Security,850.0,10,8500.0,2025-11-30,EMEA-North,completed
+SALE-000177,CUST-00051,Vector Index Storage 1TB,Storage,150.0,5,750.0,2026-02-15,EMEA-North,refunded
+SALE-000178,CUST-00346,Security Audit Telemetry Add-on,Security,850.0,8,6800.0,2026-01-31,APAC-East,completed
+SALE-000179,CUST-00395,Developer Seat Annual,Software,600.0,11,6600.0,2025-10-29,NA-West,refunded
+SALE-000180,CUST-00093,Vector Index Storage 1TB,Storage,150.0,11,1650.0,2025-12-20,EMEA-North,refunded
+SALE-000181,CUST-00426,Cloud Infrastructure Node v2,Compute,450.0,11,4950.0,2025-01-05,NA-East,completed
+SALE-000182,CUST-00054,Security Audit Telemetry Add-on,Security,850.0,2,1700.0,2025-09-26,APAC-East,pending
+SALE-000183,CUST-00146,Vector Index Storage 1TB,Storage,150.0,4,600.0,2026-01-07,EMEA-North,completed
+SALE-000184,CUST-00048,Cloud Infrastructure Node v2,Compute,450.0,1,450.0,2025-11-14,NA-East,refunded
+SALE-000185,CUST-00112,Developer Seat Annual,Software,600.0,15,9000.0,2026-03-04,APAC-South,completed
+SALE-000186,CUST-00439,Developer Seat Annual,Software,600.0,2,1200.0,2025-02-14,APAC-South,completed
+SALE-000187,CUST-00461,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2026-01-27,APAC-East,refunded
+SALE-000188,CUST-00357,Autonomous Agent License,Software,1200.0,15,18000.0,2025-02-26,NA-West,completed
+SALE-000189,CUST-00480,Vector Index Storage 1TB,Storage,150.0,8,1200.0,2025-12-05,NA-East,pending
+SALE-000190,CUST-00355,Vector Index Storage 1TB,Storage,150.0,13,1950.0,2025-08-07,APAC-East,completed
+SALE-000191,CUST-00038,Vector Index Storage 1TB,Storage,150.0,3,450.0,2026-02-04,EMEA-North,completed
+SALE-000192,CUST-00031,Security Audit Telemetry Add-on,Security,850.0,7,5950.0,2025-06-20,EMEA-North,completed
+SALE-000193,CUST-00252,Autonomous Agent License,Software,1200.0,8,9600.0,2025-02-05,NA-West,refunded
+SALE-000194,CUST-00252,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2025-11-27,NA-East,completed
+SALE-000195,CUST-00112,Enterprise Support Plan (Monthly),Support,2500.0,13,32500.0,2025-08-09,APAC-South,completed
+SALE-000196,CUST-00053,Security Audit Telemetry Add-on,Security,850.0,12,10200.0,2025-05-13,NA-East,completed
+SALE-000197,CUST-00129,Cloud Infrastructure Node v2,Compute,450.0,10,4500.0,2026-01-08,EMEA-Central,completed
+SALE-000198,CUST-00328,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2025-12-01,NA-East,completed
+SALE-000199,CUST-00078,Developer Seat Annual,Software,600.0,7,4200.0,2025-05-17,APAC-East,completed
+SALE-000200,CUST-00264,Security Audit Telemetry Add-on,Security,850.0,10,8500.0,2025-01-02,APAC-East,pending
+SALE-000201,CUST-00433,Security Audit Telemetry Add-on,Security,850.0,7,5950.0,2025-07-26,APAC-East,completed
+SALE-000202,CUST-00197,Enterprise Support Plan (Monthly),Support,2500.0,4,10000.0,2025-01-02,APAC-East,pending
+SALE-000203,CUST-00479,Cloud Infrastructure Node v2,Compute,450.0,10,4500.0,2025-10-02,EMEA-North,completed
+SALE-000204,CUST-00029,Developer Seat Annual,Software,600.0,5,3000.0,2025-07-25,APAC-East,completed
+SALE-000205,CUST-00492,Vector Index Storage 1TB,Storage,150.0,9,1350.0,2026-03-13,EMEA-North,completed
+SALE-000206,CUST-00149,Security Audit Telemetry Add-on,Security,850.0,13,11050.0,2026-01-28,APAC-East,completed
+SALE-000207,CUST-00496,Autonomous Agent License,Software,1200.0,9,10800.0,2025-01-21,EMEA-Central,completed
+SALE-000208,CUST-00459,Vector Index Storage 1TB,Storage,150.0,12,1800.0,2025-07-19,NA-East,completed
+SALE-000209,CUST-00225,Security Audit Telemetry Add-on,Security,850.0,2,1700.0,2025-11-20,APAC-East,completed
+SALE-000210,CUST-00013,Autonomous Agent License,Software,1200.0,1,1200.0,2025-04-09,APAC-East,refunded
+SALE-000211,CUST-00033,Autonomous Agent License,Software,1200.0,8,9600.0,2025-07-19,APAC-South,completed
+SALE-000212,CUST-00416,Security Audit Telemetry Add-on,Security,850.0,9,7650.0,2026-03-04,EMEA-Central,completed
+SALE-000213,CUST-00173,Cloud Infrastructure Node v2,Compute,450.0,6,2700.0,2025-01-29,APAC-East,completed
+SALE-000214,CUST-00414,Security Audit Telemetry Add-on,Security,850.0,2,1700.0,2025-04-19,APAC-East,refunded
+SALE-000215,CUST-00448,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2026-03-22,APAC-South,completed
+SALE-000216,CUST-00474,Developer Seat Annual,Software,600.0,10,6000.0,2025-04-30,NA-East,completed
+SALE-000217,CUST-00335,Developer Seat Annual,Software,600.0,3,1800.0,2025-09-08,NA-East,pending
+SALE-000218,CUST-00360,Enterprise Support Plan (Monthly),Support,2500.0,1,2500.0,2025-05-05,APAC-East,completed
+SALE-000219,CUST-00026,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2025-11-20,EMEA-North,completed
+SALE-000220,CUST-00428,Security Audit Telemetry Add-on,Security,850.0,10,8500.0,2025-03-29,APAC-South,completed
+SALE-000221,CUST-00305,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2025-09-12,APAC-South,completed
+SALE-000222,CUST-00219,Cloud Infrastructure Node v2,Compute,450.0,13,5850.0,2025-04-14,EMEA-North,pending
+SALE-000223,CUST-00295,Vector Index Storage 1TB,Storage,150.0,2,300.0,2025-12-17,APAC-South,completed
+SALE-000224,CUST-00110,Vector Index Storage 1TB,Storage,150.0,14,2100.0,2026-02-11,NA-East,refunded
+SALE-000225,CUST-00062,Autonomous Agent License,Software,1200.0,6,7200.0,2025-02-02,EMEA-North,completed
+SALE-000226,CUST-00190,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2025-12-23,APAC-South,completed
+SALE-000227,CUST-00021,Security Audit Telemetry Add-on,Security,850.0,4,3400.0,2025-10-25,NA-West,completed
+SALE-000228,CUST-00399,Developer Seat Annual,Software,600.0,10,6000.0,2025-07-12,NA-West,completed
+SALE-000229,CUST-00004,Security Audit Telemetry Add-on,Security,850.0,2,1700.0,2025-01-04,NA-West,completed
+SALE-000230,CUST-00455,Developer Seat Annual,Software,600.0,11,6600.0,2025-10-31,EMEA-North,pending
+SALE-000231,CUST-00396,Developer Seat Annual,Software,600.0,13,7800.0,2026-02-10,EMEA-Central,completed
+SALE-000232,CUST-00139,Autonomous Agent License,Software,1200.0,3,3600.0,2025-11-24,APAC-South,pending
+SALE-000233,CUST-00313,Security Audit Telemetry Add-on,Security,850.0,4,3400.0,2025-03-31,APAC-East,completed
+SALE-000234,CUST-00256,Enterprise Support Plan (Monthly),Support,2500.0,3,7500.0,2026-01-03,APAC-South,completed
+SALE-000235,CUST-00155,Developer Seat Annual,Software,600.0,14,8400.0,2026-02-05,EMEA-North,pending
+SALE-000236,CUST-00099,Cloud Infrastructure Node v2,Compute,450.0,9,4050.0,2025-05-01,NA-East,refunded
+SALE-000237,CUST-00442,Cloud Infrastructure Node v2,Compute,450.0,10,4500.0,2025-07-05,APAC-South,refunded
+SALE-000238,CUST-00321,Autonomous Agent License,Software,1200.0,8,9600.0,2026-01-30,APAC-East,completed
+SALE-000239,CUST-00058,Vector Index Storage 1TB,Storage,150.0,1,150.0,2025-04-10,NA-West,pending
+SALE-000240,CUST-00344,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2025-03-23,NA-East,completed
+SALE-000241,CUST-00108,Developer Seat Annual,Software,600.0,6,3600.0,2025-05-26,EMEA-Central,completed
+SALE-000242,CUST-00456,Vector Index Storage 1TB,Storage,150.0,10,1500.0,2026-02-17,EMEA-Central,completed
+SALE-000243,CUST-00474,Cloud Infrastructure Node v2,Compute,450.0,12,5400.0,2025-01-27,APAC-South,completed
+SALE-000244,CUST-00249,Autonomous Agent License,Software,1200.0,13,15600.0,2025-01-15,APAC-South,completed
+SALE-000245,CUST-00370,Cloud Infrastructure Node v2,Compute,450.0,15,6750.0,2025-05-01,EMEA-Central,refunded
+SALE-000246,CUST-00102,Enterprise Support Plan (Monthly),Support,2500.0,6,15000.0,2025-08-03,APAC-East,completed
+SALE-000247,CUST-00167,Autonomous Agent License,Software,1200.0,13,15600.0,2025-02-26,NA-West,completed
+SALE-000248,CUST-00446,Autonomous Agent License,Software,1200.0,12,14400.0,2025-07-31,NA-West,pending
+SALE-000249,CUST-00300,Autonomous Agent License,Software,1200.0,2,2400.0,2025-08-30,EMEA-Central,completed
+SALE-000250,CUST-00476,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2025-04-21,APAC-South,pending
+SALE-000251,CUST-00070,Autonomous Agent License,Software,1200.0,7,8400.0,2025-07-11,EMEA-Central,completed
+SALE-000252,CUST-00104,Developer Seat Annual,Software,600.0,6,3600.0,2025-05-19,EMEA-North,completed
+SALE-000253,CUST-00031,Cloud Infrastructure Node v2,Compute,450.0,12,5400.0,2025-10-19,EMEA-North,completed
+SALE-000254,CUST-00235,Cloud Infrastructure Node v2,Compute,450.0,14,6300.0,2025-08-27,EMEA-Central,completed
+SALE-000255,CUST-00310,Vector Index Storage 1TB,Storage,150.0,4,600.0,2025-06-01,NA-West,refunded
+SALE-000256,CUST-00438,Autonomous Agent License,Software,1200.0,10,12000.0,2025-10-11,NA-West,completed
+SALE-000257,CUST-00251,Security Audit Telemetry Add-on,Security,850.0,14,11900.0,2025-09-25,NA-West,refunded
+SALE-000258,CUST-00143,Security Audit Telemetry Add-on,Security,850.0,14,11900.0,2025-08-25,NA-East,pending
+SALE-000259,CUST-00127,Developer Seat Annual,Software,600.0,14,8400.0,2025-05-07,EMEA-North,pending
+SALE-000260,CUST-00485,Enterprise Support Plan (Monthly),Support,2500.0,4,10000.0,2025-10-30,NA-West,refunded
+SALE-000261,CUST-00021,Cloud Infrastructure Node v2,Compute,450.0,7,3150.0,2025-01-23,EMEA-Central,refunded
+SALE-000262,CUST-00202,Cloud Infrastructure Node v2,Compute,450.0,7,3150.0,2025-09-29,EMEA-Central,completed
+SALE-000263,CUST-00043,Security Audit Telemetry Add-on,Security,850.0,8,6800.0,2025-05-04,APAC-South,completed
+SALE-000264,CUST-00487,Developer Seat Annual,Software,600.0,12,7200.0,2025-07-28,NA-West,completed
+SALE-000265,CUST-00332,Vector Index Storage 1TB,Storage,150.0,5,750.0,2025-05-03,NA-East,completed
+SALE-000266,CUST-00083,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2025-06-06,APAC-East,pending
+SALE-000267,CUST-00013,Enterprise Support Plan (Monthly),Support,2500.0,12,30000.0,2025-10-26,EMEA-Central,pending
+SALE-000268,CUST-00208,Autonomous Agent License,Software,1200.0,14,16800.0,2025-12-27,NA-West,completed
+SALE-000269,CUST-00325,Developer Seat Annual,Software,600.0,8,4800.0,2025-12-27,NA-East,completed
+SALE-000270,CUST-00171,Security Audit Telemetry Add-on,Security,850.0,15,12750.0,2025-12-20,APAC-South,completed
+SALE-000271,CUST-00139,Vector Index Storage 1TB,Storage,150.0,7,1050.0,2026-01-21,APAC-East,refunded
+SALE-000272,CUST-00107,Enterprise Support Plan (Monthly),Support,2500.0,10,25000.0,2026-02-11,APAC-East,completed
+SALE-000273,CUST-00377,Enterprise Support Plan (Monthly),Support,2500.0,15,37500.0,2025-06-21,NA-East,refunded
+SALE-000274,CUST-00057,Developer Seat Annual,Software,600.0,6,3600.0,2025-01-27,EMEA-Central,completed
+SALE-000275,CUST-00188,Security Audit Telemetry Add-on,Security,850.0,10,8500.0,2025-01-21,EMEA-North,completed
+SALE-000276,CUST-00035,Developer Seat Annual,Software,600.0,9,5400.0,2025-12-27,APAC-South,completed
+SALE-000277,CUST-00277,Autonomous Agent License,Software,1200.0,6,7200.0,2025-05-03,NA-East,pending
+SALE-000278,CUST-00447,Developer Seat Annual,Software,600.0,13,7800.0,2025-10-25,APAC-East,completed
+SALE-000279,CUST-00165,Developer Seat Annual,Software,600.0,13,7800.0,2025-04-26,EMEA-North,completed
+SALE-000280,CUST-00142,Enterprise Support Plan (Monthly),Support,2500.0,11,27500.0,2025-08-05,NA-East,completed
+SALE-000281,CUST-00249,Vector Index Storage 1TB,Storage,150.0,6,900.0,2025-08-20,APAC-South,refunded
+SALE-000282,CUST-00273,Cloud Infrastructure Node v2,Compute,450.0,8,3600.0,2025-12-30,APAC-East,refunded
+SALE-000283,CUST-00189,Vector Index Storage 1TB,Storage,150.0,8,1200.0,2025-11-14,APAC-East,completed
+SALE-000284,CUST-00045,Autonomous Agent License,Software,1200.0,15,18000.0,2025-08-23,NA-East,pending
+SALE-000285,CUST-00056,Autonomous Agent License,Software,1200.0,5,6000.0,2025-02-09,NA-West,completed
+SALE-000286,CUST-00255,Cloud Infrastructure Node v2,Compute,450.0,12,5400.0,2025-03-17,NA-West,completed
+SALE-000287,CUST-00151,Enterprise Support Plan (Monthly),Support,2500.0,11,27500.0,2025-01-12,EMEA-Central,refunded
+SALE-000288,CUST-00216,Autonomous Agent License,Software,1200.0,8,9600.0,2025-06-27,EMEA-Central,completed
+SALE-000289,CUST-00012,Vector Index Storage 1TB,Storage,150.0,4,600.0,2025-02-02,NA-West,refunded
+SALE-000290,CUST-00297,Developer Seat Annual,Software,600.0,6,3600.0,2025-07-30,EMEA-North,completed
+SALE-000291,CUST-00357,Security Audit Telemetry Add-on,Security,850.0,10,8500.0,2025-12-07,APAC-South,refunded
+SALE-000292,CUST-00291,Security Audit Telemetry Add-on,Security,850.0,8,6800.0,2025-06-05,NA-West,completed
+SALE-000293,CUST-00117,Autonomous Agent License,Software,1200.0,13,15600.0,2025-05-14,EMEA-Central,completed
+SALE-000294,CUST-00025,Vector Index Storage 1TB,Storage,150.0,13,1950.0,2026-03-09,NA-West,completed
+SALE-000295,CUST-00317,Vector Index Storage 1TB,Storage,150.0,8,1200.0,2025-03-27,NA-West,refunded
+SALE-000296,CUST-00430,Vector Index Storage 1TB,Storage,150.0,3,450.0,2025-03-31,APAC-East,completed
+SALE-000297,CUST-00022,Autonomous Agent License,Software,1200.0,4,4800.0,2025-03-01,EMEA-North,refunded
+SALE-000298,CUST-00190,Autonomous Agent License,Software,1200.0,8,9600.0,2025-05-14,NA-West,completed
+SALE-000299,CUST-00341,Enterprise Support Plan (Monthly),Support,2500.0,12,30000.0,2025-01-18,EMEA-North,completed
+SALE-000300,CUST-00277,Autonomous Agent License,Software,1200.0,6,7200.0,2025-08-18,NA-West,refunded
+SALE-000301,CUST-00208,Vector Index Storage 1TB,Storage,150.0,2,300.0,2025-01-13,EMEA-Central,completed
+SALE-000302,CUST-00080,Security Audit Telemetry Add-on,Security,850.0,15,12750.0,2025-06-13,NA-East,refunded
+SALE-000303,CUST-00362,Enterprise Support Plan (Monthly),Support,2500.0,6,15000.0,2025-11-28,EMEA-North,pending
+SALE-000304,CUST-00342,Vector Index Storage 1TB,Storage,150.0,13,1950.0,2025-10-21,NA-West,refunded
+SALE-000305,CUST-00174,Developer Seat Annual,Software,600.0,15,9000.0,2025-08-15,APAC-East,completed
+SALE-000306,CUST-00072,Developer Seat Annual,Software,600.0,8,4800.0,2025-01-21,APAC-East,refunded
+SALE-000307,CUST-00206,Cloud Infrastructure Node v2,Compute,450.0,5,2250.0,2025-01-13,APAC-South,completed
+SALE-000308,CUST-00168,Security Audit Telemetry Add-on,Security,850.0,6,5100.0,2025-02-17,NA-East,refunded
+SALE-000309,CUST-00270,Developer Seat Annual,Software,600.0,4,2400.0,2025-10-26,NA-West,completed
+SALE-000310,CUST-00276,Autonomous Agent License,Software,1200.0,1,1200.0,2025-02-12,EMEA-Central,completed
+SALE-000311,CUST-00252,Enterprise Support Plan (Monthly),Support,2500.0,7,17500.0,2025-04-10,EMEA-North,refunded
+SALE-000312,CUST-00466,Enterprise Support Plan (Monthly),Support,2500.0,9,22500.0,2025-01-29,APAC-East,completed
+SALE-000313,CUST-00438,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2026-01-02,EMEA-Central,completed
+SALE-000314,CUST-00146,Security Audit Telemetry Add-on,Security,850.0,6,5100.0,2025-01-07,EMEA-North,completed
+SALE-000315,CUST-00288,Vector Index Storage 1TB,Storage,150.0,8,1200.0,2026-03-24,NA-East,completed
+SALE-000316,CUST-00380,Developer Seat Annual,Software,600.0,15,9000.0,2025-08-16,EMEA-Central,pending
+SALE-000317,CUST-00373,Vector Index Storage 1TB,Storage,150.0,3,450.0,2026-02-17,EMEA-Central,pending
+SALE-000318,CUST-00307,Autonomous Agent License,Software,1200.0,14,16800.0,2025-10-28,NA-East,completed
+SALE-000319,CUST-00445,Autonomous Agent License,Software,1200.0,5,6000.0,2025-09-01,APAC-South,completed
+SALE-000320,CUST-00388,Cloud Infrastructure Node v2,Compute,450.0,15,6750.0,2025-10-30,EMEA-Central,completed
+SALE-000321,CUST-00469,Cloud Infrastructure Node v2,Compute,450.0,7,3150.0,2025-11-24,EMEA-North,pending
+SALE-000322,CUST-00364,Autonomous Agent License,Software,1200.0,9,10800.0,2025-08-25,APAC-South,completed
+SALE-000323,CUST-00196,Autonomous Agent License,Software,1200.0,3,3600.0,2026-03-03,EMEA-North,refunded
+SALE-000324,CUST-00424,Security Audit Telemetry Add-on,Security,850.0,1,850.0,2026-02-26,EMEA-North,refunded
+SALE-000325,CUST-00379,Vector Index Storage 1TB,Storage,150.0,8,1200.0,2025-10-14,EMEA-Central,completed
+SALE-000326,CUST-00079,Cloud Infrastructure Node v2,Compute,450.0,13,5850.0,2025-01-02,EMEA-North,completed
+SALE-000327,CUST-00242,Developer Seat Annual,Software,600.0,14,8400.0,2025-11-22,NA-East,completed
+SALE-000328,CUST-00465,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2025-09-09,APAC-East,completed
+SALE-000329,CUST-00142,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2026-01-27,EMEA-Central,completed
+SALE-000330,CUST-00298,Enterprise Support Plan (Monthly),Support,2500.0,12,30000.0,2025-07-05,EMEA-Central,refunded
+SALE-000331,CUST-00322,Security Audit Telemetry Add-on,Security,850.0,14,11900.0,2025-05-13,APAC-East,pending
+SALE-000332,CUST-00192,Developer Seat Annual,Software,600.0,14,8400.0,2025-03-03,APAC-South,refunded
+SALE-000333,CUST-00084,Cloud Infrastructure Node v2,Compute,450.0,14,6300.0,2025-05-13,APAC-South,completed
+SALE-000334,CUST-00450,Autonomous Agent License,Software,1200.0,6,7200.0,2025-08-25,APAC-East,completed
+SALE-000335,CUST-00140,Vector Index Storage 1TB,Storage,150.0,3,450.0,2025-01-28,EMEA-North,pending
+SALE-000336,CUST-00025,Developer Seat Annual,Software,600.0,15,9000.0,2025-07-02,EMEA-North,completed
+SALE-000337,CUST-00264,Enterprise Support Plan (Monthly),Support,2500.0,11,27500.0,2025-02-09,NA-West,completed
+SALE-000338,CUST-00086,Cloud Infrastructure Node v2,Compute,450.0,10,4500.0,2026-01-21,APAC-South,completed
+SALE-000339,CUST-00351,Vector Index Storage 1TB,Storage,150.0,14,2100.0,2026-03-09,EMEA-North,completed
+SALE-000340,CUST-00186,Developer Seat Annual,Software,600.0,12,7200.0,2025-12-19,NA-East,refunded
+SALE-000341,CUST-00074,Enterprise Support Plan (Monthly),Support,2500.0,6,15000.0,2026-02-26,NA-East,completed
+SALE-000342,CUST-00399,Enterprise Support Plan (Monthly),Support,2500.0,5,12500.0,2025-07-10,EMEA-Central,pending
+SALE-000343,CUST-00053,Vector Index Storage 1TB,Storage,150.0,15,2250.0,2025-03-25,NA-West,completed
+SALE-000344,CUST-00097,Enterprise Support Plan (Monthly),Support,2500.0,4,10000.0,2026-03-02,APAC-South,refunded
+SALE-000345,CUST-00434,Developer Seat Annual,Software,600.0,14,8400.0,2025-09-27,APAC-South,refunded
+SALE-000346,CUST-00059,Developer Seat Annual,Software,600.0,13,7800.0,2026-02-15,EMEA-Central,pending
+SALE-000347,CUST-00068,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2026-02-24,NA-East,pending
+SALE-000348,CUST-00186,Vector Index Storage 1TB,Storage,150.0,5,750.0,2025-12-20,NA-West,pending
+SALE-000349,CUST-00497,Enterprise Support Plan (Monthly),Support,2500.0,9,22500.0,2026-01-26,EMEA-North,completed
+SALE-000350,CUST-00382,Developer Seat Annual,Software,600.0,5,3000.0,2025-01-15,NA-East,completed
+SALE-000351,CUST-00073,Autonomous Agent License,Software,1200.0,14,16800.0,2025-12-22,APAC-East,completed
+SALE-000352,CUST-00067,Vector Index Storage 1TB,Storage,150.0,3,450.0,2025-04-18,NA-East,pending
+SALE-000353,CUST-00058,Developer Seat Annual,Software,600.0,13,7800.0,2026-02-06,NA-East,completed
+SALE-000354,CUST-00022,Security Audit Telemetry Add-on,Security,850.0,13,11050.0,2025-08-09,NA-West,completed
+SALE-000355,CUST-00263,Cloud Infrastructure Node v2,Compute,450.0,13,5850.0,2025-12-04,APAC-South,completed
+SALE-000356,CUST-00023,Security Audit Telemetry Add-on,Security,850.0,2,1700.0,2025-05-10,NA-East,completed
+SALE-000357,CUST-00050,Developer Seat Annual,Software,600.0,1,600.0,2026-01-22,NA-East,refunded
+SALE-000358,CUST-00095,Autonomous Agent License,Software,1200.0,10,12000.0,2025-04-13,APAC-East,completed
+SALE-000359,CUST-00434,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2025-03-16,APAC-East,completed
+SALE-000360,CUST-00083,Enterprise Support Plan (Monthly),Support,2500.0,6,15000.0,2025-06-30,APAC-South,refunded
+SALE-000361,CUST-00035,Autonomous Agent License,Software,1200.0,9,10800.0,2025-10-19,NA-East,refunded
+SALE-000362,CUST-00367,Cloud Infrastructure Node v2,Compute,450.0,9,4050.0,2025-04-22,NA-West,completed
+SALE-000363,CUST-00276,Autonomous Agent License,Software,1200.0,15,18000.0,2026-01-22,NA-East,completed
+SALE-000364,CUST-00436,Autonomous Agent License,Software,1200.0,15,18000.0,2025-09-16,APAC-East,pending
+SALE-000365,CUST-00095,Vector Index Storage 1TB,Storage,150.0,12,1800.0,2025-10-29,EMEA-Central,completed
+SALE-000366,CUST-00195,Autonomous Agent License,Software,1200.0,14,16800.0,2025-07-01,EMEA-Central,completed
+SALE-000367,CUST-00058,Enterprise Support Plan (Monthly),Support,2500.0,4,10000.0,2025-07-28,EMEA-North,completed
+SALE-000368,CUST-00070,Security Audit Telemetry Add-on,Security,850.0,2,1700.0,2025-09-24,EMEA-Central,completed
+SALE-000369,CUST-00370,Developer Seat Annual,Software,600.0,5,3000.0,2025-10-13,NA-East,completed
+SALE-000370,CUST-00198,Vector Index Storage 1TB,Storage,150.0,8,1200.0,2025-03-01,EMEA-North,pending
+SALE-000371,CUST-00352,Enterprise Support Plan (Monthly),Support,2500.0,12,30000.0,2025-06-09,EMEA-Central,completed
+SALE-000372,CUST-00438,Enterprise Support Plan (Monthly),Support,2500.0,7,17500.0,2025-05-29,EMEA-Central,completed
+SALE-000373,CUST-00411,Cloud Infrastructure Node v2,Compute,450.0,15,6750.0,2026-03-07,EMEA-Central,completed
+SALE-000374,CUST-00252,Autonomous Agent License,Software,1200.0,1,1200.0,2025-12-12,APAC-East,completed
+SALE-000375,CUST-00338,Security Audit Telemetry Add-on,Security,850.0,8,6800.0,2025-09-25,APAC-East,completed
+SALE-000376,CUST-00206,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2025-07-22,APAC-East,refunded
+SALE-000377,CUST-00034,Cloud Infrastructure Node v2,Compute,450.0,12,5400.0,2025-03-28,EMEA-North,completed
+SALE-000378,CUST-00433,Vector Index Storage 1TB,Storage,150.0,4,600.0,2025-11-01,EMEA-Central,completed
+SALE-000379,CUST-00372,Autonomous Agent License,Software,1200.0,14,16800.0,2025-08-06,EMEA-Central,completed
+SALE-000380,CUST-00304,Developer Seat Annual,Software,600.0,13,7800.0,2025-10-25,EMEA-North,pending
+SALE-000381,CUST-00309,Vector Index Storage 1TB,Storage,150.0,8,1200.0,2025-12-08,EMEA-Central,pending
+SALE-000382,CUST-00394,Enterprise Support Plan (Monthly),Support,2500.0,5,12500.0,2025-03-17,EMEA-Central,completed
+SALE-000383,CUST-00255,Cloud Infrastructure Node v2,Compute,450.0,5,2250.0,2025-09-08,NA-West,completed
+SALE-000384,CUST-00028,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2026-01-13,NA-East,pending
+SALE-000385,CUST-00196,Developer Seat Annual,Software,600.0,1,600.0,2025-04-02,APAC-South,completed
+SALE-000386,CUST-00320,Autonomous Agent License,Software,1200.0,5,6000.0,2025-11-15,NA-East,completed
+SALE-000387,CUST-00393,Developer Seat Annual,Software,600.0,13,7800.0,2025-09-24,EMEA-Central,pending
+SALE-000388,CUST-00255,Autonomous Agent License,Software,1200.0,5,6000.0,2025-12-05,EMEA-Central,refunded
+SALE-000389,CUST-00415,Vector Index Storage 1TB,Storage,150.0,9,1350.0,2025-06-25,APAC-South,refunded
+SALE-000390,CUST-00221,Cloud Infrastructure Node v2,Compute,450.0,13,5850.0,2025-01-17,NA-East,pending
+SALE-000391,CUST-00193,Security Audit Telemetry Add-on,Security,850.0,6,5100.0,2026-03-13,EMEA-Central,pending
+SALE-000392,CUST-00286,Cloud Infrastructure Node v2,Compute,450.0,1,450.0,2025-04-01,APAC-East,completed
+SALE-000393,CUST-00221,Developer Seat Annual,Software,600.0,3,1800.0,2025-09-09,NA-West,completed
+SALE-000394,CUST-00392,Developer Seat Annual,Software,600.0,7,4200.0,2025-09-07,NA-East,refunded
+SALE-000395,CUST-00284,Developer Seat Annual,Software,600.0,8,4800.0,2025-12-04,APAC-East,refunded
+SALE-000396,CUST-00288,Enterprise Support Plan (Monthly),Support,2500.0,8,20000.0,2025-09-01,NA-West,refunded
+SALE-000397,CUST-00254,Cloud Infrastructure Node v2,Compute,450.0,7,3150.0,2025-05-15,APAC-South,pending
+SALE-000398,CUST-00393,Enterprise Support Plan (Monthly),Support,2500.0,11,27500.0,2025-06-30,EMEA-North,completed
+SALE-000399,CUST-00024,Cloud Infrastructure Node v2,Compute,450.0,1,450.0,2025-10-30,NA-West,completed
+SALE-000400,CUST-00299,Vector Index Storage 1TB,Storage,150.0,13,1950.0,2026-01-15,NA-East,completed
+SALE-000401,CUST-00177,Security Audit Telemetry Add-on,Security,850.0,2,1700.0,2025-08-08,EMEA-North,pending
+SALE-000402,CUST-00126,Vector Index Storage 1TB,Storage,150.0,1,150.0,2025-12-05,NA-West,completed
+SALE-000403,CUST-00044,Developer Seat Annual,Software,600.0,5,3000.0,2025-10-31,APAC-East,completed
+SALE-000404,CUST-00087,Vector Index Storage 1TB,Storage,150.0,2,300.0,2025-06-22,NA-East,refunded
+SALE-000405,CUST-00337,Vector Index Storage 1TB,Storage,150.0,1,150.0,2025-08-24,EMEA-Central,refunded
+SALE-000406,CUST-00137,Enterprise Support Plan (Monthly),Support,2500.0,15,37500.0,2025-08-04,NA-East,pending
+SALE-000407,CUST-00194,Enterprise Support Plan (Monthly),Support,2500.0,1,2500.0,2025-06-12,APAC-South,pending
+SALE-000408,CUST-00414,Vector Index Storage 1TB,Storage,150.0,10,1500.0,2025-02-20,EMEA-Central,completed
+SALE-000409,CUST-00173,Developer Seat Annual,Software,600.0,11,6600.0,2025-04-16,EMEA-Central,refunded
+SALE-000410,CUST-00315,Developer Seat Annual,Software,600.0,6,3600.0,2025-03-27,EMEA-North,completed
+SALE-000411,CUST-00326,Security Audit Telemetry Add-on,Security,850.0,4,3400.0,2025-09-12,NA-East,refunded
+SALE-000412,CUST-00025,Autonomous Agent License,Software,1200.0,5,6000.0,2025-05-16,EMEA-North,refunded
+SALE-000413,CUST-00320,Security Audit Telemetry Add-on,Security,850.0,13,11050.0,2025-04-26,APAC-East,completed
+SALE-000414,CUST-00049,Developer Seat Annual,Software,600.0,14,8400.0,2025-10-24,APAC-South,completed
+SALE-000415,CUST-00411,Vector Index Storage 1TB,Storage,150.0,2,300.0,2025-10-18,APAC-South,pending
+SALE-000416,CUST-00408,Security Audit Telemetry Add-on,Security,850.0,4,3400.0,2025-06-27,NA-East,completed
+SALE-000417,CUST-00222,Enterprise Support Plan (Monthly),Support,2500.0,13,32500.0,2025-06-03,APAC-East,refunded
+SALE-000418,CUST-00206,Vector Index Storage 1TB,Storage,150.0,4,600.0,2025-08-01,EMEA-North,refunded
+SALE-000419,CUST-00391,Enterprise Support Plan (Monthly),Support,2500.0,8,20000.0,2025-12-10,APAC-South,completed
+SALE-000420,CUST-00265,Cloud Infrastructure Node v2,Compute,450.0,11,4950.0,2025-12-27,NA-West,refunded
+SALE-000421,CUST-00493,Security Audit Telemetry Add-on,Security,850.0,4,3400.0,2025-12-05,APAC-East,pending
+SALE-000422,CUST-00273,Vector Index Storage 1TB,Storage,150.0,15,2250.0,2025-11-23,APAC-South,pending
+SALE-000423,CUST-00031,Enterprise Support Plan (Monthly),Support,2500.0,12,30000.0,2025-11-17,APAC-South,completed
+SALE-000424,CUST-00124,Vector Index Storage 1TB,Storage,150.0,8,1200.0,2025-03-17,NA-West,completed
+SALE-000425,CUST-00441,Security Audit Telemetry Add-on,Security,850.0,7,5950.0,2025-06-13,NA-East,completed
+SALE-000426,CUST-00147,Security Audit Telemetry Add-on,Security,850.0,5,4250.0,2026-02-26,APAC-East,completed
+SALE-000427,CUST-00121,Vector Index Storage 1TB,Storage,150.0,11,1650.0,2025-11-04,EMEA-Central,completed
+SALE-000428,CUST-00015,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2025-04-09,NA-West,completed
+SALE-000429,CUST-00224,Security Audit Telemetry Add-on,Security,850.0,8,6800.0,2025-10-14,EMEA-Central,completed
+SALE-000430,CUST-00070,Autonomous Agent License,Software,1200.0,3,3600.0,2025-05-20,NA-East,completed
+SALE-000431,CUST-00091,Vector Index Storage 1TB,Storage,150.0,11,1650.0,2025-10-09,APAC-East,completed
+SALE-000432,CUST-00011,Developer Seat Annual,Software,600.0,8,4800.0,2026-02-05,NA-East,completed
+SALE-000433,CUST-00444,Vector Index Storage 1TB,Storage,150.0,10,1500.0,2025-06-02,NA-East,pending
+SALE-000434,CUST-00454,Vector Index Storage 1TB,Storage,150.0,11,1650.0,2025-12-03,NA-East,pending
+SALE-000435,CUST-00121,Developer Seat Annual,Software,600.0,14,8400.0,2025-03-13,NA-East,refunded
+SALE-000436,CUST-00268,Developer Seat Annual,Software,600.0,9,5400.0,2025-03-03,APAC-East,refunded
+SALE-000437,CUST-00453,Enterprise Support Plan (Monthly),Support,2500.0,5,12500.0,2025-09-12,NA-East,completed
+SALE-000438,CUST-00414,Enterprise Support Plan (Monthly),Support,2500.0,2,5000.0,2026-01-31,EMEA-North,completed
+SALE-000439,CUST-00413,Enterprise Support Plan (Monthly),Support,2500.0,12,30000.0,2025-07-19,APAC-East,completed
+SALE-000440,CUST-00055,Security Audit Telemetry Add-on,Security,850.0,4,3400.0,2025-03-15,NA-West,completed
+SALE-000441,CUST-00131,Vector Index Storage 1TB,Storage,150.0,8,1200.0,2025-07-29,APAC-South,completed
+SALE-000442,CUST-00359,Security Audit Telemetry Add-on,Security,850.0,9,7650.0,2025-07-11,NA-East,completed
+SALE-000443,CUST-00350,Enterprise Support Plan (Monthly),Support,2500.0,7,17500.0,2025-09-01,NA-West,completed
+SALE-000444,CUST-00367,Autonomous Agent License,Software,1200.0,6,7200.0,2025-09-01,EMEA-North,completed
+SALE-000445,CUST-00018,Cloud Infrastructure Node v2,Compute,450.0,11,4950.0,2025-11-07,APAC-East,completed
+SALE-000446,CUST-00344,Developer Seat Annual,Software,600.0,15,9000.0,2026-02-08,NA-West,completed
+SALE-000447,CUST-00328,Enterprise Support Plan (Monthly),Support,2500.0,7,17500.0,2025-06-08,APAC-East,completed
+SALE-000448,CUST-00444,Developer Seat Annual,Software,600.0,2,1200.0,2025-10-01,NA-West,pending
+SALE-000449,CUST-00475,Security Audit Telemetry Add-on,Security,850.0,1,850.0,2025-07-21,EMEA-North,completed
+SALE-000450,CUST-00388,Cloud Infrastructure Node v2,Compute,450.0,15,6750.0,2026-02-26,NA-West,completed
+SALE-000451,CUST-00469,Autonomous Agent License,Software,1200.0,14,16800.0,2025-03-24,EMEA-Central,completed
+SALE-000452,CUST-00018,Developer Seat Annual,Software,600.0,7,4200.0,2026-02-09,EMEA-North,completed
+SALE-000453,CUST-00212,Security Audit Telemetry Add-on,Security,850.0,8,6800.0,2026-01-13,EMEA-North,pending
+SALE-000454,CUST-00358,Cloud Infrastructure Node v2,Compute,450.0,14,6300.0,2025-03-24,EMEA-North,refunded
+SALE-000455,CUST-00309,Cloud Infrastructure Node v2,Compute,450.0,6,2700.0,2025-08-04,APAC-East,refunded
+SALE-000456,CUST-00356,Developer Seat Annual,Software,600.0,6,3600.0,2025-08-21,NA-East,completed
+SALE-000457,CUST-00323,Developer Seat Annual,Software,600.0,11,6600.0,2025-04-05,EMEA-Central,completed
+SALE-000458,CUST-00322,Cloud Infrastructure Node v2,Compute,450.0,7,3150.0,2025-04-13,EMEA-North,completed
+SALE-000459,CUST-00081,Enterprise Support Plan (Monthly),Support,2500.0,2,5000.0,2025-02-26,NA-West,refunded
+SALE-000460,CUST-00333,Developer Seat Annual,Software,600.0,13,7800.0,2026-03-02,NA-West,refunded
+SALE-000461,CUST-00481,Developer Seat Annual,Software,600.0,7,4200.0,2026-02-10,EMEA-North,pending
+SALE-000462,CUST-00069,Security Audit Telemetry Add-on,Security,850.0,14,11900.0,2026-01-12,EMEA-North,completed
+SALE-000463,CUST-00168,Developer Seat Annual,Software,600.0,10,6000.0,2026-02-28,EMEA-North,completed
+SALE-000464,CUST-00094,Cloud Infrastructure Node v2,Compute,450.0,7,3150.0,2025-07-08,EMEA-Central,pending
+SALE-000465,CUST-00486,Enterprise Support Plan (Monthly),Support,2500.0,4,10000.0,2025-01-11,NA-East,refunded
+SALE-000466,CUST-00118,Developer Seat Annual,Software,600.0,10,6000.0,2025-11-17,NA-East,pending
+SALE-000467,CUST-00437,Autonomous Agent License,Software,1200.0,5,6000.0,2025-12-26,NA-West,completed
+SALE-000468,CUST-00308,Security Audit Telemetry Add-on,Security,850.0,10,8500.0,2025-08-08,EMEA-North,completed
+SALE-000469,CUST-00485,Cloud Infrastructure Node v2,Compute,450.0,6,2700.0,2025-03-29,APAC-South,completed
+SALE-000470,CUST-00223,Cloud Infrastructure Node v2,Compute,450.0,12,5400.0,2025-09-27,EMEA-Central,pending
+SALE-000471,CUST-00105,Cloud Infrastructure Node v2,Compute,450.0,4,1800.0,2026-01-01,NA-West,completed
+SALE-000472,CUST-00196,Vector Index Storage 1TB,Storage,150.0,12,1800.0,2025-09-11,NA-West,pending
+SALE-000473,CUST-00422,Autonomous Agent License,Software,1200.0,10,12000.0,2025-04-21,EMEA-North,completed
+SALE-000474,CUST-00406,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2025-07-29,NA-West,completed
+SALE-000475,CUST-00317,Vector Index Storage 1TB,Storage,150.0,5,750.0,2025-05-01,EMEA-Central,completed
+SALE-000476,CUST-00332,Vector Index Storage 1TB,Storage,150.0,10,1500.0,2025-12-17,EMEA-Central,completed
+SALE-000477,CUST-00447,Cloud Infrastructure Node v2,Compute,450.0,8,3600.0,2025-03-10,EMEA-North,pending
+SALE-000478,CUST-00197,Developer Seat Annual,Software,600.0,4,2400.0,2026-01-01,APAC-East,pending
+SALE-000479,CUST-00038,Developer Seat Annual,Software,600.0,10,6000.0,2025-05-12,NA-East,refunded
+SALE-000480,CUST-00477,Cloud Infrastructure Node v2,Compute,450.0,1,450.0,2025-06-20,NA-West,pending
+SALE-000481,CUST-00496,Vector Index Storage 1TB,Storage,150.0,10,1500.0,2025-12-10,APAC-South,completed
+SALE-000482,CUST-00318,Cloud Infrastructure Node v2,Compute,450.0,5,2250.0,2025-09-16,EMEA-Central,completed
+SALE-000483,CUST-00068,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2025-07-09,APAC-South,completed
+SALE-000484,CUST-00087,Enterprise Support Plan (Monthly),Support,2500.0,3,7500.0,2025-05-14,APAC-South,pending
+SALE-000485,CUST-00068,Vector Index Storage 1TB,Storage,150.0,15,2250.0,2025-08-28,NA-East,completed
+SALE-000486,CUST-00073,Developer Seat Annual,Software,600.0,9,5400.0,2025-08-10,EMEA-North,completed
+SALE-000487,CUST-00256,Vector Index Storage 1TB,Storage,150.0,1,150.0,2025-03-07,EMEA-North,completed
+SALE-000488,CUST-00135,Security Audit Telemetry Add-on,Security,850.0,5,4250.0,2026-03-25,APAC-South,completed
+SALE-000489,CUST-00458,Enterprise Support Plan (Monthly),Support,2500.0,6,15000.0,2025-08-12,NA-West,completed
+SALE-000490,CUST-00487,Developer Seat Annual,Software,600.0,8,4800.0,2026-01-27,NA-West,refunded
+SALE-000491,CUST-00226,Developer Seat Annual,Software,600.0,11,6600.0,2026-02-13,NA-East,completed
+SALE-000492,CUST-00094,Autonomous Agent License,Software,1200.0,1,1200.0,2025-04-28,NA-East,pending
+SALE-000493,CUST-00240,Vector Index Storage 1TB,Storage,150.0,3,450.0,2025-12-28,EMEA-Central,completed
+SALE-000494,CUST-00183,Security Audit Telemetry Add-on,Security,850.0,1,850.0,2025-08-15,APAC-East,refunded
+SALE-000495,CUST-00058,Security Audit Telemetry Add-on,Security,850.0,8,6800.0,2025-09-10,APAC-East,completed
+SALE-000496,CUST-00105,Cloud Infrastructure Node v2,Compute,450.0,6,2700.0,2025-02-17,EMEA-North,completed
+SALE-000497,CUST-00422,Autonomous Agent License,Software,1200.0,12,14400.0,2025-09-18,EMEA-North,refunded
+SALE-000498,CUST-00299,Developer Seat Annual,Software,600.0,10,6000.0,2025-04-19,NA-East,refunded
+SALE-000499,CUST-00472,Enterprise Support Plan (Monthly),Support,2500.0,3,7500.0,2025-08-02,NA-East,completed
+SALE-000500,CUST-00455,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2025-02-18,EMEA-North,completed
+SALE-000501,CUST-00063,Vector Index Storage 1TB,Storage,150.0,11,1650.0,2025-12-15,EMEA-Central,completed
+SALE-000502,CUST-00429,Enterprise Support Plan (Monthly),Support,2500.0,15,37500.0,2025-02-24,EMEA-North,completed
+SALE-000503,CUST-00426,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2025-08-24,APAC-East,pending
+SALE-000504,CUST-00305,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2025-05-18,APAC-East,completed
+SALE-000505,CUST-00319,Vector Index Storage 1TB,Storage,150.0,1,150.0,2025-12-02,EMEA-Central,completed
+SALE-000506,CUST-00292,Developer Seat Annual,Software,600.0,12,7200.0,2026-02-13,NA-West,completed
+SALE-000507,CUST-00145,Cloud Infrastructure Node v2,Compute,450.0,13,5850.0,2025-11-26,EMEA-North,completed
+SALE-000508,CUST-00488,Developer Seat Annual,Software,600.0,2,1200.0,2025-10-08,APAC-South,pending
+SALE-000509,CUST-00092,Cloud Infrastructure Node v2,Compute,450.0,7,3150.0,2025-05-11,NA-West,pending
+SALE-000510,CUST-00107,Cloud Infrastructure Node v2,Compute,450.0,1,450.0,2026-03-13,NA-West,pending
+SALE-000511,CUST-00386,Security Audit Telemetry Add-on,Security,850.0,5,4250.0,2025-11-28,APAC-East,completed
+SALE-000512,CUST-00411,Cloud Infrastructure Node v2,Compute,450.0,5,2250.0,2025-09-09,EMEA-Central,completed
+SALE-000513,CUST-00184,Developer Seat Annual,Software,600.0,10,6000.0,2025-03-09,APAC-East,completed
+SALE-000514,CUST-00251,Vector Index Storage 1TB,Storage,150.0,9,1350.0,2025-04-13,EMEA-Central,pending
+SALE-000515,CUST-00308,Security Audit Telemetry Add-on,Security,850.0,5,4250.0,2025-10-16,EMEA-Central,completed
+SALE-000516,CUST-00315,Security Audit Telemetry Add-on,Security,850.0,13,11050.0,2025-07-08,NA-West,pending
+SALE-000517,CUST-00021,Developer Seat Annual,Software,600.0,7,4200.0,2025-02-17,APAC-South,completed
+SALE-000518,CUST-00332,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2025-04-25,APAC-East,completed
+SALE-000519,CUST-00332,Security Audit Telemetry Add-on,Security,850.0,9,7650.0,2025-11-19,APAC-South,completed
+SALE-000520,CUST-00041,Vector Index Storage 1TB,Storage,150.0,8,1200.0,2025-08-12,EMEA-Central,completed
+SALE-000521,CUST-00463,Autonomous Agent License,Software,1200.0,3,3600.0,2025-12-17,EMEA-North,completed
+SALE-000522,CUST-00292,Enterprise Support Plan (Monthly),Support,2500.0,7,17500.0,2025-06-01,NA-East,refunded
+SALE-000523,CUST-00263,Cloud Infrastructure Node v2,Compute,450.0,15,6750.0,2025-01-24,NA-East,refunded
+SALE-000524,CUST-00238,Security Audit Telemetry Add-on,Security,850.0,7,5950.0,2025-02-18,APAC-East,refunded
+SALE-000525,CUST-00300,Vector Index Storage 1TB,Storage,150.0,6,900.0,2025-05-11,NA-East,refunded
+SALE-000526,CUST-00339,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2026-01-15,EMEA-Central,completed
+SALE-000527,CUST-00024,Autonomous Agent License,Software,1200.0,14,16800.0,2025-07-21,NA-East,pending
+SALE-000528,CUST-00301,Developer Seat Annual,Software,600.0,5,3000.0,2025-06-10,APAC-East,pending
+SALE-000529,CUST-00414,Developer Seat Annual,Software,600.0,8,4800.0,2025-11-16,EMEA-North,completed
+SALE-000530,CUST-00041,Autonomous Agent License,Software,1200.0,4,4800.0,2025-04-05,APAC-East,refunded
+SALE-000531,CUST-00055,Vector Index Storage 1TB,Storage,150.0,14,2100.0,2025-12-11,EMEA-Central,refunded
+SALE-000532,CUST-00060,Cloud Infrastructure Node v2,Compute,450.0,1,450.0,2025-07-22,NA-East,completed
+SALE-000533,CUST-00355,Developer Seat Annual,Software,600.0,8,4800.0,2025-08-24,EMEA-Central,refunded
+SALE-000534,CUST-00317,Developer Seat Annual,Software,600.0,8,4800.0,2025-06-05,APAC-South,completed
+SALE-000535,CUST-00346,Developer Seat Annual,Software,600.0,11,6600.0,2025-12-20,EMEA-Central,completed
+SALE-000536,CUST-00008,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2025-03-11,NA-West,completed
+SALE-000537,CUST-00440,Cloud Infrastructure Node v2,Compute,450.0,12,5400.0,2025-04-07,NA-East,completed
+SALE-000538,CUST-00333,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2025-03-16,NA-West,pending
+SALE-000539,CUST-00276,Developer Seat Annual,Software,600.0,14,8400.0,2026-02-09,NA-West,completed
+SALE-000540,CUST-00076,Vector Index Storage 1TB,Storage,150.0,13,1950.0,2025-08-26,EMEA-Central,pending
+SALE-000541,CUST-00463,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2025-03-27,NA-West,pending
+SALE-000542,CUST-00441,Security Audit Telemetry Add-on,Security,850.0,8,6800.0,2025-01-11,EMEA-Central,refunded
+SALE-000543,CUST-00292,Autonomous Agent License,Software,1200.0,4,4800.0,2025-05-31,EMEA-Central,completed
+SALE-000544,CUST-00323,Vector Index Storage 1TB,Storage,150.0,1,150.0,2025-02-22,APAC-East,pending
+SALE-000545,CUST-00378,Security Audit Telemetry Add-on,Security,850.0,14,11900.0,2025-09-11,APAC-South,refunded
+SALE-000546,CUST-00019,Developer Seat Annual,Software,600.0,9,5400.0,2025-05-29,EMEA-Central,pending
+SALE-000547,CUST-00372,Security Audit Telemetry Add-on,Security,850.0,9,7650.0,2025-10-30,APAC-South,pending
+SALE-000548,CUST-00271,Autonomous Agent License,Software,1200.0,12,14400.0,2025-02-01,NA-East,pending
+SALE-000549,CUST-00033,Enterprise Support Plan (Monthly),Support,2500.0,6,15000.0,2025-10-11,EMEA-North,pending
+SALE-000550,CUST-00319,Security Audit Telemetry Add-on,Security,850.0,2,1700.0,2025-09-11,APAC-East,completed
+SALE-000551,CUST-00011,Security Audit Telemetry Add-on,Security,850.0,12,10200.0,2025-08-12,NA-West,completed
+SALE-000552,CUST-00177,Developer Seat Annual,Software,600.0,4,2400.0,2025-08-29,EMEA-Central,completed
+SALE-000553,CUST-00466,Enterprise Support Plan (Monthly),Support,2500.0,4,10000.0,2025-10-28,APAC-East,completed
+SALE-000554,CUST-00367,Enterprise Support Plan (Monthly),Support,2500.0,14,35000.0,2026-03-08,APAC-East,pending
+SALE-000555,CUST-00371,Autonomous Agent License,Software,1200.0,15,18000.0,2025-05-31,APAC-East,pending
+SALE-000556,CUST-00335,Security Audit Telemetry Add-on,Security,850.0,14,11900.0,2025-12-11,APAC-East,completed
+SALE-000557,CUST-00083,Security Audit Telemetry Add-on,Security,850.0,13,11050.0,2026-03-09,APAC-South,completed
+SALE-000558,CUST-00045,Vector Index Storage 1TB,Storage,150.0,12,1800.0,2026-01-19,APAC-East,pending
+SALE-000559,CUST-00081,Autonomous Agent License,Software,1200.0,3,3600.0,2025-04-13,APAC-South,pending
+SALE-000560,CUST-00483,Cloud Infrastructure Node v2,Compute,450.0,13,5850.0,2025-08-01,EMEA-Central,completed
+SALE-000561,CUST-00025,Autonomous Agent License,Software,1200.0,4,4800.0,2025-10-13,NA-East,completed
+SALE-000562,CUST-00082,Vector Index Storage 1TB,Storage,150.0,6,900.0,2025-12-13,NA-West,refunded
+SALE-000563,CUST-00173,Cloud Infrastructure Node v2,Compute,450.0,13,5850.0,2025-02-02,EMEA-Central,completed
+SALE-000564,CUST-00288,Enterprise Support Plan (Monthly),Support,2500.0,4,10000.0,2025-03-03,NA-West,pending
+SALE-000565,CUST-00182,Vector Index Storage 1TB,Storage,150.0,6,900.0,2026-02-06,NA-East,refunded
+SALE-000566,CUST-00437,Vector Index Storage 1TB,Storage,150.0,15,2250.0,2025-03-19,APAC-East,refunded
+SALE-000567,CUST-00362,Enterprise Support Plan (Monthly),Support,2500.0,11,27500.0,2025-02-23,NA-East,pending
+SALE-000568,CUST-00057,Security Audit Telemetry Add-on,Security,850.0,14,11900.0,2026-01-22,NA-East,refunded
+SALE-000569,CUST-00486,Enterprise Support Plan (Monthly),Support,2500.0,13,32500.0,2026-03-16,NA-East,refunded
+SALE-000570,CUST-00086,Cloud Infrastructure Node v2,Compute,450.0,9,4050.0,2025-02-23,APAC-East,completed
+SALE-000571,CUST-00081,Autonomous Agent License,Software,1200.0,15,18000.0,2025-07-05,APAC-East,completed
+SALE-000572,CUST-00260,Developer Seat Annual,Software,600.0,8,4800.0,2026-01-26,EMEA-Central,completed
+SALE-000573,CUST-00172,Autonomous Agent License,Software,1200.0,11,13200.0,2025-07-06,NA-West,completed
+SALE-000574,CUST-00394,Autonomous Agent License,Software,1200.0,8,9600.0,2025-08-01,NA-East,completed
+SALE-000575,CUST-00259,Security Audit Telemetry Add-on,Security,850.0,6,5100.0,2025-05-27,NA-West,completed
+SALE-000576,CUST-00387,Vector Index Storage 1TB,Storage,150.0,6,900.0,2026-01-02,EMEA-Central,completed
+SALE-000577,CUST-00078,Developer Seat Annual,Software,600.0,11,6600.0,2025-05-06,APAC-South,pending
+SALE-000578,CUST-00220,Autonomous Agent License,Software,1200.0,3,3600.0,2026-02-15,EMEA-Central,pending
+SALE-000579,CUST-00407,Security Audit Telemetry Add-on,Security,850.0,14,11900.0,2025-09-22,APAC-East,completed
+SALE-000580,CUST-00395,Cloud Infrastructure Node v2,Compute,450.0,8,3600.0,2025-03-16,NA-East,refunded
+SALE-000581,CUST-00162,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2025-06-23,EMEA-Central,completed
+SALE-000582,CUST-00389,Security Audit Telemetry Add-on,Security,850.0,1,850.0,2025-07-21,NA-East,completed
+SALE-000583,CUST-00366,Enterprise Support Plan (Monthly),Support,2500.0,1,2500.0,2025-11-20,APAC-East,refunded
+SALE-000584,CUST-00454,Vector Index Storage 1TB,Storage,150.0,7,1050.0,2025-07-25,APAC-East,refunded
+SALE-000585,CUST-00161,Vector Index Storage 1TB,Storage,150.0,12,1800.0,2026-01-16,EMEA-North,completed
+SALE-000586,CUST-00313,Vector Index Storage 1TB,Storage,150.0,15,2250.0,2025-09-28,NA-West,pending
+SALE-000587,CUST-00455,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2025-04-16,APAC-South,refunded
+SALE-000588,CUST-00358,Enterprise Support Plan (Monthly),Support,2500.0,11,27500.0,2025-08-15,EMEA-North,pending
+SALE-000589,CUST-00044,Autonomous Agent License,Software,1200.0,15,18000.0,2025-06-04,NA-East,refunded
+SALE-000590,CUST-00369,Vector Index Storage 1TB,Storage,150.0,7,1050.0,2026-01-07,APAC-East,completed
+SALE-000591,CUST-00110,Enterprise Support Plan (Monthly),Support,2500.0,9,22500.0,2025-05-26,NA-East,refunded
+SALE-000592,CUST-00175,Enterprise Support Plan (Monthly),Support,2500.0,5,12500.0,2025-09-24,APAC-East,completed
+SALE-000593,CUST-00277,Cloud Infrastructure Node v2,Compute,450.0,1,450.0,2026-02-12,APAC-South,completed
+SALE-000594,CUST-00156,Autonomous Agent License,Software,1200.0,14,16800.0,2026-02-01,APAC-East,pending
+SALE-000595,CUST-00031,Enterprise Support Plan (Monthly),Support,2500.0,2,5000.0,2026-01-10,EMEA-North,completed
+SALE-000596,CUST-00064,Developer Seat Annual,Software,600.0,9,5400.0,2025-07-01,NA-East,completed
+SALE-000597,CUST-00378,Security Audit Telemetry Add-on,Security,850.0,5,4250.0,2025-10-21,NA-East,pending
+SALE-000598,CUST-00382,Vector Index Storage 1TB,Storage,150.0,4,600.0,2026-02-17,APAC-South,refunded
+SALE-000599,CUST-00341,Developer Seat Annual,Software,600.0,15,9000.0,2025-11-18,APAC-South,refunded
+SALE-000600,CUST-00146,Autonomous Agent License,Software,1200.0,6,7200.0,2025-06-03,APAC-East,refunded
+SALE-000601,CUST-00194,Developer Seat Annual,Software,600.0,3,1800.0,2026-01-01,APAC-South,completed
+SALE-000602,CUST-00299,Cloud Infrastructure Node v2,Compute,450.0,6,2700.0,2025-09-22,NA-West,completed
+SALE-000603,CUST-00365,Security Audit Telemetry Add-on,Security,850.0,2,1700.0,2025-03-17,EMEA-Central,pending
+SALE-000604,CUST-00218,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2025-02-01,NA-West,pending
+SALE-000605,CUST-00190,Autonomous Agent License,Software,1200.0,8,9600.0,2025-02-09,APAC-East,refunded
+SALE-000606,CUST-00266,Security Audit Telemetry Add-on,Security,850.0,10,8500.0,2025-10-14,EMEA-Central,completed
+SALE-000607,CUST-00217,Enterprise Support Plan (Monthly),Support,2500.0,8,20000.0,2025-11-22,EMEA-Central,pending
+SALE-000608,CUST-00084,Developer Seat Annual,Software,600.0,7,4200.0,2026-02-26,NA-West,refunded
+SALE-000609,CUST-00235,Autonomous Agent License,Software,1200.0,8,9600.0,2025-12-31,NA-West,refunded
+SALE-000610,CUST-00109,Enterprise Support Plan (Monthly),Support,2500.0,2,5000.0,2025-12-22,EMEA-Central,pending
+SALE-000611,CUST-00484,Cloud Infrastructure Node v2,Compute,450.0,12,5400.0,2025-03-22,APAC-South,completed
+SALE-000612,CUST-00210,Cloud Infrastructure Node v2,Compute,450.0,10,4500.0,2026-03-13,NA-East,completed
+SALE-000613,CUST-00021,Vector Index Storage 1TB,Storage,150.0,10,1500.0,2025-05-29,APAC-South,completed
+SALE-000614,CUST-00192,Cloud Infrastructure Node v2,Compute,450.0,6,2700.0,2025-06-06,EMEA-North,completed
+SALE-000615,CUST-00074,Security Audit Telemetry Add-on,Security,850.0,1,850.0,2026-02-10,NA-West,refunded
+SALE-000616,CUST-00456,Security Audit Telemetry Add-on,Security,850.0,1,850.0,2025-06-06,EMEA-North,completed
+SALE-000617,CUST-00251,Autonomous Agent License,Software,1200.0,14,16800.0,2026-01-14,NA-East,completed
+SALE-000618,CUST-00446,Enterprise Support Plan (Monthly),Support,2500.0,6,15000.0,2025-02-04,NA-East,pending
+SALE-000619,CUST-00290,Security Audit Telemetry Add-on,Security,850.0,10,8500.0,2025-06-08,EMEA-Central,completed
+SALE-000620,CUST-00369,Security Audit Telemetry Add-on,Security,850.0,8,6800.0,2026-03-04,APAC-South,completed
+SALE-000621,CUST-00236,Autonomous Agent License,Software,1200.0,9,10800.0,2025-11-22,EMEA-Central,pending
+SALE-000622,CUST-00167,Autonomous Agent License,Software,1200.0,14,16800.0,2026-01-08,NA-East,refunded
+SALE-000623,CUST-00199,Developer Seat Annual,Software,600.0,10,6000.0,2025-07-29,NA-West,pending
+SALE-000624,CUST-00491,Vector Index Storage 1TB,Storage,150.0,9,1350.0,2025-01-24,APAC-East,pending
+SALE-000625,CUST-00046,Developer Seat Annual,Software,600.0,5,3000.0,2025-11-27,NA-West,completed
+SALE-000626,CUST-00396,Enterprise Support Plan (Monthly),Support,2500.0,11,27500.0,2026-02-12,APAC-East,completed
+SALE-000627,CUST-00330,Enterprise Support Plan (Monthly),Support,2500.0,11,27500.0,2025-03-05,APAC-South,completed
+SALE-000628,CUST-00296,Autonomous Agent License,Software,1200.0,10,12000.0,2025-10-05,NA-East,refunded
+SALE-000629,CUST-00244,Enterprise Support Plan (Monthly),Support,2500.0,4,10000.0,2026-01-20,APAC-South,completed
+SALE-000630,CUST-00093,Cloud Infrastructure Node v2,Compute,450.0,11,4950.0,2025-09-30,NA-East,completed
+SALE-000631,CUST-00362,Autonomous Agent License,Software,1200.0,4,4800.0,2026-03-01,APAC-South,pending
+SALE-000632,CUST-00311,Cloud Infrastructure Node v2,Compute,450.0,13,5850.0,2025-10-01,EMEA-North,pending
+SALE-000633,CUST-00442,Enterprise Support Plan (Monthly),Support,2500.0,1,2500.0,2025-09-09,NA-East,completed
+SALE-000634,CUST-00013,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2025-08-01,APAC-South,completed
+SALE-000635,CUST-00059,Security Audit Telemetry Add-on,Security,850.0,5,4250.0,2025-02-16,NA-East,refunded
+SALE-000636,CUST-00094,Autonomous Agent License,Software,1200.0,5,6000.0,2025-03-15,EMEA-North,completed
+SALE-000637,CUST-00348,Autonomous Agent License,Software,1200.0,5,6000.0,2025-07-28,NA-West,completed
+SALE-000638,CUST-00014,Enterprise Support Plan (Monthly),Support,2500.0,6,15000.0,2025-04-03,APAC-East,completed
+SALE-000639,CUST-00164,Vector Index Storage 1TB,Storage,150.0,7,1050.0,2025-02-20,NA-West,pending
+SALE-000640,CUST-00483,Vector Index Storage 1TB,Storage,150.0,5,750.0,2025-07-12,NA-East,completed
+SALE-000641,CUST-00306,Autonomous Agent License,Software,1200.0,4,4800.0,2026-01-21,APAC-South,completed
+SALE-000642,CUST-00259,Security Audit Telemetry Add-on,Security,850.0,9,7650.0,2026-01-21,EMEA-Central,completed
+SALE-000643,CUST-00238,Vector Index Storage 1TB,Storage,150.0,1,150.0,2025-06-12,APAC-South,pending
+SALE-000644,CUST-00209,Cloud Infrastructure Node v2,Compute,450.0,8,3600.0,2025-01-15,APAC-East,completed
+SALE-000645,CUST-00494,Cloud Infrastructure Node v2,Compute,450.0,5,2250.0,2025-10-11,APAC-South,completed
+SALE-000646,CUST-00334,Autonomous Agent License,Software,1200.0,13,15600.0,2025-10-12,NA-West,completed
+SALE-000647,CUST-00043,Enterprise Support Plan (Monthly),Support,2500.0,7,17500.0,2025-08-17,APAC-East,refunded
+SALE-000648,CUST-00192,Autonomous Agent License,Software,1200.0,13,15600.0,2025-03-14,APAC-South,completed
+SALE-000649,CUST-00493,Autonomous Agent License,Software,1200.0,9,10800.0,2025-08-05,APAC-South,pending
+SALE-000650,CUST-00238,Cloud Infrastructure Node v2,Compute,450.0,1,450.0,2026-02-21,APAC-South,completed
+SALE-000651,CUST-00031,Developer Seat Annual,Software,600.0,3,1800.0,2025-01-01,EMEA-Central,completed
+SALE-000652,CUST-00349,Enterprise Support Plan (Monthly),Support,2500.0,5,12500.0,2026-03-06,EMEA-Central,completed
+SALE-000653,CUST-00431,Developer Seat Annual,Software,600.0,4,2400.0,2025-10-27,APAC-South,completed
+SALE-000654,CUST-00274,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2026-01-14,APAC-South,completed
+SALE-000655,CUST-00358,Vector Index Storage 1TB,Storage,150.0,2,300.0,2025-07-22,NA-East,completed
+SALE-000656,CUST-00450,Developer Seat Annual,Software,600.0,9,5400.0,2025-05-24,EMEA-Central,completed
+SALE-000657,CUST-00163,Enterprise Support Plan (Monthly),Support,2500.0,9,22500.0,2026-02-15,APAC-East,completed
+SALE-000658,CUST-00363,Developer Seat Annual,Software,600.0,5,3000.0,2026-01-21,EMEA-Central,completed
+SALE-000659,CUST-00175,Autonomous Agent License,Software,1200.0,11,13200.0,2025-06-14,NA-West,pending
+SALE-000660,CUST-00468,Enterprise Support Plan (Monthly),Support,2500.0,6,15000.0,2025-01-09,APAC-East,completed
+SALE-000661,CUST-00312,Developer Seat Annual,Software,600.0,15,9000.0,2025-01-02,EMEA-Central,completed
+SALE-000662,CUST-00212,Cloud Infrastructure Node v2,Compute,450.0,11,4950.0,2025-03-30,APAC-South,pending
+SALE-000663,CUST-00404,Security Audit Telemetry Add-on,Security,850.0,9,7650.0,2025-02-11,APAC-East,completed
+SALE-000664,CUST-00418,Enterprise Support Plan (Monthly),Support,2500.0,1,2500.0,2026-03-03,APAC-East,pending
+SALE-000665,CUST-00498,Developer Seat Annual,Software,600.0,2,1200.0,2025-06-30,EMEA-Central,refunded
+SALE-000666,CUST-00430,Vector Index Storage 1TB,Storage,150.0,7,1050.0,2025-04-01,APAC-East,completed
+SALE-000667,CUST-00480,Cloud Infrastructure Node v2,Compute,450.0,8,3600.0,2025-07-09,NA-West,pending
+SALE-000668,CUST-00011,Cloud Infrastructure Node v2,Compute,450.0,4,1800.0,2026-01-16,EMEA-North,completed
+SALE-000669,CUST-00315,Autonomous Agent License,Software,1200.0,2,2400.0,2026-02-22,APAC-East,completed
+SALE-000670,CUST-00253,Developer Seat Annual,Software,600.0,4,2400.0,2025-04-30,EMEA-North,completed
+SALE-000671,CUST-00362,Vector Index Storage 1TB,Storage,150.0,8,1200.0,2025-12-27,APAC-South,completed
+SALE-000672,CUST-00327,Cloud Infrastructure Node v2,Compute,450.0,4,1800.0,2026-02-25,EMEA-Central,completed
+SALE-000673,CUST-00253,Vector Index Storage 1TB,Storage,150.0,10,1500.0,2025-09-14,NA-West,refunded
+SALE-000674,CUST-00290,Autonomous Agent License,Software,1200.0,11,13200.0,2026-01-14,APAC-East,refunded
+SALE-000675,CUST-00302,Enterprise Support Plan (Monthly),Support,2500.0,3,7500.0,2025-02-03,NA-West,completed
+SALE-000676,CUST-00439,Autonomous Agent License,Software,1200.0,5,6000.0,2025-10-19,NA-West,refunded
+SALE-000677,CUST-00099,Developer Seat Annual,Software,600.0,13,7800.0,2025-05-21,APAC-East,completed
+SALE-000678,CUST-00315,Developer Seat Annual,Software,600.0,11,6600.0,2025-09-30,EMEA-North,refunded
+SALE-000679,CUST-00329,Security Audit Telemetry Add-on,Security,850.0,1,850.0,2025-08-07,APAC-East,completed
+SALE-000680,CUST-00209,Vector Index Storage 1TB,Storage,150.0,7,1050.0,2026-03-09,EMEA-North,completed
+SALE-000681,CUST-00254,Developer Seat Annual,Software,600.0,9,5400.0,2025-08-27,EMEA-North,refunded
+SALE-000682,CUST-00115,Cloud Infrastructure Node v2,Compute,450.0,15,6750.0,2026-01-05,NA-East,completed
+SALE-000683,CUST-00162,Security Audit Telemetry Add-on,Security,850.0,9,7650.0,2025-08-18,NA-East,pending
+SALE-000684,CUST-00451,Autonomous Agent License,Software,1200.0,6,7200.0,2025-02-11,APAC-South,completed
+SALE-000685,CUST-00217,Developer Seat Annual,Software,600.0,4,2400.0,2025-12-20,NA-East,completed
+SALE-000686,CUST-00160,Autonomous Agent License,Software,1200.0,3,3600.0,2025-06-18,NA-East,completed
+SALE-000687,CUST-00414,Cloud Infrastructure Node v2,Compute,450.0,8,3600.0,2025-08-10,NA-East,refunded
+SALE-000688,CUST-00431,Developer Seat Annual,Software,600.0,15,9000.0,2025-06-21,EMEA-North,completed
+SALE-000689,CUST-00491,Cloud Infrastructure Node v2,Compute,450.0,8,3600.0,2025-05-03,EMEA-North,completed
+SALE-000690,CUST-00122,Vector Index Storage 1TB,Storage,150.0,9,1350.0,2026-02-11,NA-East,refunded
+SALE-000691,CUST-00049,Enterprise Support Plan (Monthly),Support,2500.0,8,20000.0,2026-01-27,APAC-East,pending
+SALE-000692,CUST-00499,Enterprise Support Plan (Monthly),Support,2500.0,2,5000.0,2025-02-13,NA-East,completed
+SALE-000693,CUST-00356,Security Audit Telemetry Add-on,Security,850.0,6,5100.0,2026-03-11,NA-East,completed
+SALE-000694,CUST-00227,Cloud Infrastructure Node v2,Compute,450.0,15,6750.0,2026-02-15,NA-East,completed
+SALE-000695,CUST-00034,Enterprise Support Plan (Monthly),Support,2500.0,11,27500.0,2025-08-10,NA-East,completed
+SALE-000696,CUST-00436,Enterprise Support Plan (Monthly),Support,2500.0,1,2500.0,2025-05-31,EMEA-Central,pending
+SALE-000697,CUST-00211,Cloud Infrastructure Node v2,Compute,450.0,10,4500.0,2026-01-21,NA-West,refunded
+SALE-000698,CUST-00233,Developer Seat Annual,Software,600.0,10,6000.0,2025-01-06,EMEA-Central,pending
+SALE-000699,CUST-00318,Security Audit Telemetry Add-on,Security,850.0,15,12750.0,2025-11-14,NA-East,completed
+SALE-000700,CUST-00014,Developer Seat Annual,Software,600.0,11,6600.0,2026-02-05,EMEA-Central,refunded
+SALE-000701,CUST-00056,Vector Index Storage 1TB,Storage,150.0,10,1500.0,2025-04-09,NA-East,completed
+SALE-000702,CUST-00304,Enterprise Support Plan (Monthly),Support,2500.0,12,30000.0,2025-02-04,NA-West,refunded
+SALE-000703,CUST-00132,Autonomous Agent License,Software,1200.0,11,13200.0,2025-09-18,EMEA-North,pending
+SALE-000704,CUST-00228,Security Audit Telemetry Add-on,Security,850.0,12,10200.0,2025-11-14,NA-West,completed
+SALE-000705,CUST-00031,Autonomous Agent License,Software,1200.0,13,15600.0,2025-01-23,NA-West,completed
+SALE-000706,CUST-00492,Enterprise Support Plan (Monthly),Support,2500.0,7,17500.0,2025-09-20,APAC-East,completed
+SALE-000707,CUST-00398,Vector Index Storage 1TB,Storage,150.0,10,1500.0,2025-10-05,NA-West,completed
+SALE-000708,CUST-00176,Security Audit Telemetry Add-on,Security,850.0,5,4250.0,2025-11-05,EMEA-North,completed
+SALE-000709,CUST-00337,Cloud Infrastructure Node v2,Compute,450.0,9,4050.0,2025-10-28,APAC-East,completed
+SALE-000710,CUST-00420,Cloud Infrastructure Node v2,Compute,450.0,4,1800.0,2025-09-17,APAC-South,completed
+SALE-000711,CUST-00500,Security Audit Telemetry Add-on,Security,850.0,6,5100.0,2025-04-11,NA-West,completed
+SALE-000712,CUST-00342,Cloud Infrastructure Node v2,Compute,450.0,6,2700.0,2025-04-07,EMEA-Central,pending
+SALE-000713,CUST-00437,Enterprise Support Plan (Monthly),Support,2500.0,12,30000.0,2025-06-19,APAC-South,refunded
+SALE-000714,CUST-00215,Vector Index Storage 1TB,Storage,150.0,10,1500.0,2025-06-03,EMEA-North,completed
+SALE-000715,CUST-00405,Cloud Infrastructure Node v2,Compute,450.0,8,3600.0,2026-03-25,NA-East,pending
+SALE-000716,CUST-00328,Autonomous Agent License,Software,1200.0,15,18000.0,2025-01-02,NA-West,completed
+SALE-000717,CUST-00123,Security Audit Telemetry Add-on,Security,850.0,10,8500.0,2025-04-20,EMEA-Central,completed
+SALE-000718,CUST-00205,Developer Seat Annual,Software,600.0,7,4200.0,2025-04-16,NA-West,completed
+SALE-000719,CUST-00184,Vector Index Storage 1TB,Storage,150.0,1,150.0,2025-02-07,NA-East,refunded
+SALE-000720,CUST-00226,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2025-05-29,NA-West,refunded
+SALE-000721,CUST-00102,Vector Index Storage 1TB,Storage,150.0,1,150.0,2025-01-16,NA-West,completed
+SALE-000722,CUST-00369,Autonomous Agent License,Software,1200.0,4,4800.0,2025-05-15,NA-West,completed
+SALE-000723,CUST-00101,Enterprise Support Plan (Monthly),Support,2500.0,4,10000.0,2025-04-02,NA-East,completed
+SALE-000724,CUST-00011,Vector Index Storage 1TB,Storage,150.0,15,2250.0,2025-02-21,APAC-East,completed
+SALE-000725,CUST-00454,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2026-02-08,NA-East,completed
+SALE-000726,CUST-00123,Autonomous Agent License,Software,1200.0,5,6000.0,2025-08-22,EMEA-North,completed
+SALE-000727,CUST-00410,Developer Seat Annual,Software,600.0,3,1800.0,2025-09-27,APAC-South,pending
+SALE-000728,CUST-00074,Developer Seat Annual,Software,600.0,2,1200.0,2025-03-02,NA-West,completed
+SALE-000729,CUST-00356,Autonomous Agent License,Software,1200.0,9,10800.0,2025-07-13,EMEA-North,completed
+SALE-000730,CUST-00126,Enterprise Support Plan (Monthly),Support,2500.0,7,17500.0,2025-11-22,NA-East,refunded
+SALE-000731,CUST-00275,Enterprise Support Plan (Monthly),Support,2500.0,4,10000.0,2026-03-14,EMEA-North,completed
+SALE-000732,CUST-00323,Vector Index Storage 1TB,Storage,150.0,4,600.0,2025-01-28,EMEA-North,completed
+SALE-000733,CUST-00108,Enterprise Support Plan (Monthly),Support,2500.0,10,25000.0,2025-09-08,APAC-East,completed
+SALE-000734,CUST-00315,Security Audit Telemetry Add-on,Security,850.0,13,11050.0,2025-12-06,NA-East,completed
+SALE-000735,CUST-00452,Enterprise Support Plan (Monthly),Support,2500.0,7,17500.0,2026-01-20,APAC-East,refunded
+SALE-000736,CUST-00238,Vector Index Storage 1TB,Storage,150.0,8,1200.0,2025-09-23,NA-West,completed
+SALE-000737,CUST-00356,Developer Seat Annual,Software,600.0,6,3600.0,2025-09-27,EMEA-Central,pending
+SALE-000738,CUST-00206,Security Audit Telemetry Add-on,Security,850.0,5,4250.0,2025-10-25,APAC-East,refunded
+SALE-000739,CUST-00113,Developer Seat Annual,Software,600.0,1,600.0,2025-04-17,NA-West,pending
+SALE-000740,CUST-00157,Autonomous Agent License,Software,1200.0,7,8400.0,2025-04-22,EMEA-Central,pending
+SALE-000741,CUST-00192,Enterprise Support Plan (Monthly),Support,2500.0,3,7500.0,2026-03-08,EMEA-North,refunded
+SALE-000742,CUST-00044,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2026-01-20,EMEA-North,pending
+SALE-000743,CUST-00299,Enterprise Support Plan (Monthly),Support,2500.0,6,15000.0,2025-04-28,NA-East,pending
+SALE-000744,CUST-00219,Enterprise Support Plan (Monthly),Support,2500.0,10,25000.0,2025-06-22,EMEA-Central,pending
+SALE-000745,CUST-00412,Security Audit Telemetry Add-on,Security,850.0,7,5950.0,2025-07-08,EMEA-Central,completed
+SALE-000746,CUST-00092,Vector Index Storage 1TB,Storage,150.0,7,1050.0,2025-01-13,EMEA-Central,completed
+SALE-000747,CUST-00184,Vector Index Storage 1TB,Storage,150.0,11,1650.0,2025-02-08,NA-East,completed
+SALE-000748,CUST-00330,Enterprise Support Plan (Monthly),Support,2500.0,9,22500.0,2025-10-07,NA-East,completed
+SALE-000749,CUST-00037,Autonomous Agent License,Software,1200.0,2,2400.0,2025-03-02,EMEA-North,completed
+SALE-000750,CUST-00101,Enterprise Support Plan (Monthly),Support,2500.0,4,10000.0,2025-06-20,APAC-East,completed
+SALE-000751,CUST-00418,Vector Index Storage 1TB,Storage,150.0,5,750.0,2026-01-17,APAC-East,completed
+SALE-000752,CUST-00071,Autonomous Agent License,Software,1200.0,12,14400.0,2025-11-06,APAC-East,refunded
+SALE-000753,CUST-00154,Vector Index Storage 1TB,Storage,150.0,1,150.0,2026-01-30,EMEA-North,completed
+SALE-000754,CUST-00297,Security Audit Telemetry Add-on,Security,850.0,7,5950.0,2026-02-25,APAC-East,completed
+SALE-000755,CUST-00390,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2025-09-20,NA-West,pending
+SALE-000756,CUST-00384,Autonomous Agent License,Software,1200.0,4,4800.0,2026-01-06,NA-West,pending
+SALE-000757,CUST-00403,Autonomous Agent License,Software,1200.0,9,10800.0,2025-10-28,APAC-South,pending
+SALE-000758,CUST-00175,Developer Seat Annual,Software,600.0,14,8400.0,2025-08-25,NA-East,completed
+SALE-000759,CUST-00483,Autonomous Agent License,Software,1200.0,7,8400.0,2026-01-30,APAC-East,pending
+SALE-000760,CUST-00437,Autonomous Agent License,Software,1200.0,8,9600.0,2025-08-19,APAC-South,completed
+SALE-000761,CUST-00448,Vector Index Storage 1TB,Storage,150.0,3,450.0,2025-10-23,NA-West,completed
+SALE-000762,CUST-00415,Developer Seat Annual,Software,600.0,1,600.0,2025-09-13,APAC-East,completed
+SALE-000763,CUST-00218,Vector Index Storage 1TB,Storage,150.0,4,600.0,2025-08-03,APAC-East,pending
+SALE-000764,CUST-00167,Developer Seat Annual,Software,600.0,9,5400.0,2025-06-03,APAC-South,completed
+SALE-000765,CUST-00473,Enterprise Support Plan (Monthly),Support,2500.0,13,32500.0,2025-01-17,NA-West,completed
+SALE-000766,CUST-00410,Vector Index Storage 1TB,Storage,150.0,10,1500.0,2025-11-19,APAC-South,refunded
+SALE-000767,CUST-00196,Enterprise Support Plan (Monthly),Support,2500.0,14,35000.0,2025-07-20,NA-West,pending
+SALE-000768,CUST-00097,Cloud Infrastructure Node v2,Compute,450.0,9,4050.0,2025-07-17,EMEA-Central,completed
+SALE-000769,CUST-00328,Vector Index Storage 1TB,Storage,150.0,10,1500.0,2025-08-20,EMEA-North,completed
+SALE-000770,CUST-00284,Autonomous Agent License,Software,1200.0,2,2400.0,2025-12-12,NA-West,completed
+SALE-000771,CUST-00014,Developer Seat Annual,Software,600.0,10,6000.0,2025-09-08,NA-West,completed
+SALE-000772,CUST-00146,Cloud Infrastructure Node v2,Compute,450.0,15,6750.0,2025-07-17,NA-West,completed
+SALE-000773,CUST-00036,Vector Index Storage 1TB,Storage,150.0,11,1650.0,2025-09-26,EMEA-Central,completed
+SALE-000774,CUST-00088,Vector Index Storage 1TB,Storage,150.0,9,1350.0,2025-01-06,EMEA-North,pending
+SALE-000775,CUST-00067,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2025-02-26,APAC-South,pending
+SALE-000776,CUST-00200,Security Audit Telemetry Add-on,Security,850.0,12,10200.0,2025-02-05,NA-West,completed
+SALE-000777,CUST-00419,Autonomous Agent License,Software,1200.0,5,6000.0,2025-08-10,APAC-East,pending
+SALE-000778,CUST-00481,Autonomous Agent License,Software,1200.0,10,12000.0,2025-10-22,EMEA-North,refunded
+SALE-000779,CUST-00351,Autonomous Agent License,Software,1200.0,9,10800.0,2026-01-02,EMEA-Central,completed
+SALE-000780,CUST-00229,Autonomous Agent License,Software,1200.0,1,1200.0,2025-03-15,NA-East,pending
+SALE-000781,CUST-00270,Enterprise Support Plan (Monthly),Support,2500.0,13,32500.0,2025-05-07,EMEA-North,refunded
+SALE-000782,CUST-00295,Security Audit Telemetry Add-on,Security,850.0,8,6800.0,2025-08-25,NA-East,completed
+SALE-000783,CUST-00178,Vector Index Storage 1TB,Storage,150.0,11,1650.0,2025-08-22,APAC-East,completed
+SALE-000784,CUST-00415,Security Audit Telemetry Add-on,Security,850.0,10,8500.0,2026-02-26,NA-West,pending
+SALE-000785,CUST-00376,Autonomous Agent License,Software,1200.0,3,3600.0,2025-11-13,EMEA-Central,pending
+SALE-000786,CUST-00094,Security Audit Telemetry Add-on,Security,850.0,15,12750.0,2025-12-04,APAC-East,refunded
+SALE-000787,CUST-00485,Cloud Infrastructure Node v2,Compute,450.0,7,3150.0,2025-12-24,NA-East,completed
+SALE-000788,CUST-00276,Autonomous Agent License,Software,1200.0,5,6000.0,2025-11-18,EMEA-North,completed
+SALE-000789,CUST-00462,Developer Seat Annual,Software,600.0,12,7200.0,2026-01-05,NA-West,pending
+SALE-000790,CUST-00063,Security Audit Telemetry Add-on,Security,850.0,13,11050.0,2025-10-11,EMEA-North,completed
+SALE-000791,CUST-00400,Cloud Infrastructure Node v2,Compute,450.0,9,4050.0,2026-01-28,EMEA-North,pending
+SALE-000792,CUST-00107,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2025-05-10,APAC-South,completed
+SALE-000793,CUST-00328,Security Audit Telemetry Add-on,Security,850.0,1,850.0,2025-02-07,APAC-East,pending
+SALE-000794,CUST-00205,Security Audit Telemetry Add-on,Security,850.0,6,5100.0,2026-01-17,NA-West,pending
+SALE-000795,CUST-00059,Cloud Infrastructure Node v2,Compute,450.0,1,450.0,2025-05-09,APAC-East,completed
+SALE-000796,CUST-00238,Vector Index Storage 1TB,Storage,150.0,11,1650.0,2026-01-19,EMEA-Central,pending
+SALE-000797,CUST-00337,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2025-10-08,NA-West,pending
+SALE-000798,CUST-00143,Autonomous Agent License,Software,1200.0,8,9600.0,2026-02-25,NA-West,completed
+SALE-000799,CUST-00091,Cloud Infrastructure Node v2,Compute,450.0,10,4500.0,2025-02-21,EMEA-North,completed
+SALE-000800,CUST-00087,Enterprise Support Plan (Monthly),Support,2500.0,12,30000.0,2025-07-20,NA-East,completed
+SALE-000801,CUST-00226,Developer Seat Annual,Software,600.0,5,3000.0,2025-03-20,EMEA-North,completed
+SALE-000802,CUST-00458,Autonomous Agent License,Software,1200.0,12,14400.0,2025-01-18,APAC-East,refunded
+SALE-000803,CUST-00025,Autonomous Agent License,Software,1200.0,8,9600.0,2025-12-23,APAC-East,refunded
+SALE-000804,CUST-00338,Developer Seat Annual,Software,600.0,11,6600.0,2026-01-02,NA-East,pending
+SALE-000805,CUST-00027,Developer Seat Annual,Software,600.0,5,3000.0,2025-08-16,APAC-South,completed
+SALE-000806,CUST-00393,Cloud Infrastructure Node v2,Compute,450.0,13,5850.0,2025-07-13,NA-West,completed
+SALE-000807,CUST-00103,Vector Index Storage 1TB,Storage,150.0,15,2250.0,2025-05-03,NA-East,completed
+SALE-000808,CUST-00173,Security Audit Telemetry Add-on,Security,850.0,1,850.0,2025-01-08,NA-West,completed
+SALE-000809,CUST-00409,Autonomous Agent License,Software,1200.0,15,18000.0,2025-02-19,APAC-East,completed
+SALE-000810,CUST-00213,Developer Seat Annual,Software,600.0,3,1800.0,2025-01-23,APAC-South,completed
+SALE-000811,CUST-00321,Vector Index Storage 1TB,Storage,150.0,6,900.0,2025-10-15,NA-West,refunded
+SALE-000812,CUST-00203,Autonomous Agent License,Software,1200.0,15,18000.0,2025-10-05,EMEA-Central,completed
+SALE-000813,CUST-00183,Autonomous Agent License,Software,1200.0,4,4800.0,2025-02-24,EMEA-North,completed
+SALE-000814,CUST-00162,Cloud Infrastructure Node v2,Compute,450.0,7,3150.0,2025-12-01,NA-East,pending
+SALE-000815,CUST-00034,Autonomous Agent License,Software,1200.0,8,9600.0,2025-04-23,APAC-East,completed
+SALE-000816,CUST-00023,Developer Seat Annual,Software,600.0,10,6000.0,2025-07-08,NA-East,completed
+SALE-000817,CUST-00307,Security Audit Telemetry Add-on,Security,850.0,5,4250.0,2026-01-28,EMEA-Central,completed
+SALE-000818,CUST-00473,Developer Seat Annual,Software,600.0,9,5400.0,2026-02-10,APAC-South,completed
+SALE-000819,CUST-00167,Vector Index Storage 1TB,Storage,150.0,2,300.0,2025-11-04,APAC-East,pending
+SALE-000820,CUST-00356,Developer Seat Annual,Software,600.0,15,9000.0,2026-01-30,NA-West,completed
+SALE-000821,CUST-00453,Autonomous Agent License,Software,1200.0,11,13200.0,2026-01-25,APAC-East,completed
+SALE-000822,CUST-00172,Developer Seat Annual,Software,600.0,8,4800.0,2025-02-04,NA-East,refunded
+SALE-000823,CUST-00262,Enterprise Support Plan (Monthly),Support,2500.0,8,20000.0,2025-07-15,APAC-East,completed
+SALE-000824,CUST-00007,Enterprise Support Plan (Monthly),Support,2500.0,10,25000.0,2025-12-27,NA-West,completed
+SALE-000825,CUST-00159,Enterprise Support Plan (Monthly),Support,2500.0,13,32500.0,2025-03-05,NA-West,pending
+SALE-000826,CUST-00031,Autonomous Agent License,Software,1200.0,10,12000.0,2025-02-10,NA-West,completed
+SALE-000827,CUST-00078,Security Audit Telemetry Add-on,Security,850.0,5,4250.0,2025-04-14,EMEA-Central,completed
+SALE-000828,CUST-00473,Developer Seat Annual,Software,600.0,1,600.0,2025-05-02,APAC-East,refunded
+SALE-000829,CUST-00169,Security Audit Telemetry Add-on,Security,850.0,12,10200.0,2026-03-26,NA-West,completed
+SALE-000830,CUST-00390,Vector Index Storage 1TB,Storage,150.0,11,1650.0,2026-02-07,NA-East,refunded
+SALE-000831,CUST-00148,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2026-02-21,NA-East,completed
+SALE-000832,CUST-00125,Developer Seat Annual,Software,600.0,6,3600.0,2025-06-25,NA-West,refunded
+SALE-000833,CUST-00128,Cloud Infrastructure Node v2,Compute,450.0,15,6750.0,2025-12-07,APAC-East,completed
+SALE-000834,CUST-00267,Enterprise Support Plan (Monthly),Support,2500.0,14,35000.0,2025-07-15,EMEA-North,completed
+SALE-000835,CUST-00034,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2025-01-04,EMEA-Central,completed
+SALE-000836,CUST-00073,Autonomous Agent License,Software,1200.0,1,1200.0,2025-11-21,NA-West,completed
+SALE-000837,CUST-00282,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2025-10-31,NA-West,completed
+SALE-000838,CUST-00372,Enterprise Support Plan (Monthly),Support,2500.0,2,5000.0,2025-08-07,EMEA-Central,completed
+SALE-000839,CUST-00126,Autonomous Agent License,Software,1200.0,12,14400.0,2025-04-12,EMEA-Central,completed
+SALE-000840,CUST-00147,Enterprise Support Plan (Monthly),Support,2500.0,4,10000.0,2025-06-05,APAC-South,pending
+SALE-000841,CUST-00442,Developer Seat Annual,Software,600.0,4,2400.0,2025-05-20,EMEA-Central,completed
+SALE-000842,CUST-00086,Vector Index Storage 1TB,Storage,150.0,7,1050.0,2025-07-13,EMEA-Central,pending
+SALE-000843,CUST-00377,Security Audit Telemetry Add-on,Security,850.0,9,7650.0,2025-11-09,EMEA-Central,completed
+SALE-000844,CUST-00196,Security Audit Telemetry Add-on,Security,850.0,1,850.0,2026-01-26,EMEA-Central,completed
+SALE-000845,CUST-00079,Vector Index Storage 1TB,Storage,150.0,10,1500.0,2025-10-03,APAC-South,completed
+SALE-000846,CUST-00157,Vector Index Storage 1TB,Storage,150.0,7,1050.0,2025-08-26,EMEA-Central,completed
+SALE-000847,CUST-00247,Security Audit Telemetry Add-on,Security,850.0,9,7650.0,2025-11-07,NA-East,completed
+SALE-000848,CUST-00101,Autonomous Agent License,Software,1200.0,12,14400.0,2025-08-29,NA-West,completed
+SALE-000849,CUST-00257,Cloud Infrastructure Node v2,Compute,450.0,1,450.0,2026-03-18,APAC-East,completed
+SALE-000850,CUST-00482,Security Audit Telemetry Add-on,Security,850.0,7,5950.0,2025-08-01,EMEA-Central,completed
+SALE-000851,CUST-00329,Security Audit Telemetry Add-on,Security,850.0,8,6800.0,2025-06-07,APAC-South,completed
+SALE-000852,CUST-00472,Security Audit Telemetry Add-on,Security,850.0,15,12750.0,2025-01-20,NA-East,pending
+SALE-000853,CUST-00391,Enterprise Support Plan (Monthly),Support,2500.0,3,7500.0,2025-04-10,EMEA-Central,completed
+SALE-000854,CUST-00364,Developer Seat Annual,Software,600.0,6,3600.0,2025-09-18,EMEA-Central,completed
+SALE-000855,CUST-00198,Developer Seat Annual,Software,600.0,1,600.0,2025-11-30,EMEA-Central,completed
+SALE-000856,CUST-00472,Autonomous Agent License,Software,1200.0,8,9600.0,2025-01-18,EMEA-North,completed
+SALE-000857,CUST-00076,Developer Seat Annual,Software,600.0,11,6600.0,2025-11-27,EMEA-North,refunded
+SALE-000858,CUST-00131,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2025-03-17,NA-West,refunded
+SALE-000859,CUST-00083,Enterprise Support Plan (Monthly),Support,2500.0,11,27500.0,2026-03-07,NA-East,completed
+SALE-000860,CUST-00470,Cloud Infrastructure Node v2,Compute,450.0,11,4950.0,2025-12-31,EMEA-Central,pending
+SALE-000861,CUST-00266,Developer Seat Annual,Software,600.0,10,6000.0,2025-02-11,NA-West,pending
+SALE-000862,CUST-00130,Autonomous Agent License,Software,1200.0,14,16800.0,2025-08-07,APAC-East,completed
+SALE-000863,CUST-00454,Enterprise Support Plan (Monthly),Support,2500.0,9,22500.0,2025-12-04,EMEA-Central,refunded
+SALE-000864,CUST-00386,Vector Index Storage 1TB,Storage,150.0,12,1800.0,2025-07-30,APAC-East,completed
+SALE-000865,CUST-00398,Cloud Infrastructure Node v2,Compute,450.0,11,4950.0,2025-10-21,EMEA-North,completed
+SALE-000866,CUST-00477,Vector Index Storage 1TB,Storage,150.0,12,1800.0,2025-04-18,APAC-East,pending
+SALE-000867,CUST-00087,Developer Seat Annual,Software,600.0,5,3000.0,2025-01-04,EMEA-Central,completed
+SALE-000868,CUST-00357,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2026-02-01,EMEA-Central,refunded
+SALE-000869,CUST-00376,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2025-05-28,EMEA-Central,completed
+SALE-000870,CUST-00361,Autonomous Agent License,Software,1200.0,6,7200.0,2025-04-06,NA-West,completed
+SALE-000871,CUST-00486,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2025-09-15,NA-East,pending
+SALE-000872,CUST-00096,Enterprise Support Plan (Monthly),Support,2500.0,14,35000.0,2025-04-19,NA-West,completed
+SALE-000873,CUST-00389,Developer Seat Annual,Software,600.0,3,1800.0,2026-02-19,NA-West,completed
+SALE-000874,CUST-00468,Security Audit Telemetry Add-on,Security,850.0,8,6800.0,2025-11-17,APAC-South,completed
+SALE-000875,CUST-00151,Developer Seat Annual,Software,600.0,3,1800.0,2025-02-10,NA-East,pending
+SALE-000876,CUST-00176,Cloud Infrastructure Node v2,Compute,450.0,5,2250.0,2025-02-02,NA-East,refunded
+SALE-000877,CUST-00345,Autonomous Agent License,Software,1200.0,8,9600.0,2025-09-06,NA-East,completed
+SALE-000878,CUST-00490,Cloud Infrastructure Node v2,Compute,450.0,5,2250.0,2026-01-20,NA-East,refunded
+SALE-000879,CUST-00268,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2025-04-19,NA-East,pending
+SALE-000880,CUST-00137,Enterprise Support Plan (Monthly),Support,2500.0,9,22500.0,2026-01-25,EMEA-Central,pending
+SALE-000881,CUST-00173,Vector Index Storage 1TB,Storage,150.0,10,1500.0,2025-08-08,EMEA-North,completed
+SALE-000882,CUST-00482,Vector Index Storage 1TB,Storage,150.0,14,2100.0,2025-05-03,EMEA-North,pending
+SALE-000883,CUST-00500,Security Audit Telemetry Add-on,Security,850.0,10,8500.0,2025-01-30,EMEA-North,completed
+SALE-000884,CUST-00446,Cloud Infrastructure Node v2,Compute,450.0,1,450.0,2025-08-22,APAC-East,pending
+SALE-000885,CUST-00014,Developer Seat Annual,Software,600.0,14,8400.0,2025-03-13,APAC-South,completed
+SALE-000886,CUST-00385,Enterprise Support Plan (Monthly),Support,2500.0,5,12500.0,2025-12-25,NA-West,completed
+SALE-000887,CUST-00338,Security Audit Telemetry Add-on,Security,850.0,10,8500.0,2025-12-18,EMEA-Central,refunded
+SALE-000888,CUST-00002,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2025-04-07,APAC-East,completed
+SALE-000889,CUST-00448,Cloud Infrastructure Node v2,Compute,450.0,11,4950.0,2025-07-04,NA-East,completed
+SALE-000890,CUST-00311,Developer Seat Annual,Software,600.0,8,4800.0,2025-04-30,EMEA-Central,pending
+SALE-000891,CUST-00042,Developer Seat Annual,Software,600.0,10,6000.0,2026-02-11,EMEA-North,pending
+SALE-000892,CUST-00359,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2026-03-15,NA-East,pending
+SALE-000893,CUST-00365,Vector Index Storage 1TB,Storage,150.0,10,1500.0,2025-04-10,NA-West,refunded
+SALE-000894,CUST-00367,Enterprise Support Plan (Monthly),Support,2500.0,13,32500.0,2026-03-15,APAC-South,completed
+SALE-000895,CUST-00045,Autonomous Agent License,Software,1200.0,8,9600.0,2026-02-12,EMEA-North,refunded
+SALE-000896,CUST-00489,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2025-08-17,NA-East,pending
+SALE-000897,CUST-00125,Developer Seat Annual,Software,600.0,9,5400.0,2025-05-04,NA-West,completed
+SALE-000898,CUST-00055,Developer Seat Annual,Software,600.0,12,7200.0,2025-02-15,EMEA-Central,completed
+SALE-000899,CUST-00463,Autonomous Agent License,Software,1200.0,15,18000.0,2025-06-17,EMEA-Central,completed
+SALE-000900,CUST-00341,Autonomous Agent License,Software,1200.0,12,14400.0,2025-05-12,EMEA-Central,completed
+SALE-000901,CUST-00325,Developer Seat Annual,Software,600.0,3,1800.0,2025-10-01,APAC-East,pending
+SALE-000902,CUST-00171,Cloud Infrastructure Node v2,Compute,450.0,13,5850.0,2025-12-21,NA-West,refunded
+SALE-000903,CUST-00176,Enterprise Support Plan (Monthly),Support,2500.0,2,5000.0,2025-11-26,EMEA-Central,pending
+SALE-000904,CUST-00288,Developer Seat Annual,Software,600.0,11,6600.0,2026-02-06,EMEA-Central,completed
+SALE-000905,CUST-00149,Autonomous Agent License,Software,1200.0,5,6000.0,2025-03-01,NA-East,completed
+SALE-000906,CUST-00304,Cloud Infrastructure Node v2,Compute,450.0,6,2700.0,2026-01-15,NA-West,completed
+SALE-000907,CUST-00437,Enterprise Support Plan (Monthly),Support,2500.0,6,15000.0,2025-03-07,EMEA-North,pending
+SALE-000908,CUST-00160,Enterprise Support Plan (Monthly),Support,2500.0,12,30000.0,2025-01-01,NA-East,refunded
+SALE-000909,CUST-00199,Enterprise Support Plan (Monthly),Support,2500.0,4,10000.0,2026-03-10,EMEA-Central,completed
+SALE-000910,CUST-00479,Vector Index Storage 1TB,Storage,150.0,13,1950.0,2025-12-14,NA-West,refunded
+SALE-000911,CUST-00114,Developer Seat Annual,Software,600.0,10,6000.0,2025-10-30,NA-East,pending
+SALE-000912,CUST-00236,Cloud Infrastructure Node v2,Compute,450.0,9,4050.0,2026-03-13,EMEA-North,completed
+SALE-000913,CUST-00256,Vector Index Storage 1TB,Storage,150.0,14,2100.0,2025-04-23,APAC-East,pending
+SALE-000914,CUST-00075,Autonomous Agent License,Software,1200.0,10,12000.0,2025-05-26,APAC-East,completed
+SALE-000915,CUST-00258,Enterprise Support Plan (Monthly),Support,2500.0,6,15000.0,2025-06-08,APAC-East,completed
+SALE-000916,CUST-00294,Vector Index Storage 1TB,Storage,150.0,14,2100.0,2025-12-28,EMEA-Central,completed
+SALE-000917,CUST-00495,Security Audit Telemetry Add-on,Security,850.0,5,4250.0,2025-12-27,EMEA-Central,completed
+SALE-000918,CUST-00367,Vector Index Storage 1TB,Storage,150.0,3,450.0,2026-02-28,NA-West,completed
+SALE-000919,CUST-00473,Developer Seat Annual,Software,600.0,12,7200.0,2025-01-27,NA-West,pending
+SALE-000920,CUST-00418,Developer Seat Annual,Software,600.0,7,4200.0,2025-06-03,APAC-East,completed
+SALE-000921,CUST-00173,Cloud Infrastructure Node v2,Compute,450.0,9,4050.0,2025-07-20,EMEA-Central,pending
+SALE-000922,CUST-00201,Vector Index Storage 1TB,Storage,150.0,13,1950.0,2025-07-20,NA-East,refunded
+SALE-000923,CUST-00357,Developer Seat Annual,Software,600.0,5,3000.0,2025-05-25,NA-West,refunded
+SALE-000924,CUST-00166,Security Audit Telemetry Add-on,Security,850.0,2,1700.0,2025-03-09,APAC-South,completed
+SALE-000925,CUST-00336,Developer Seat Annual,Software,600.0,5,3000.0,2025-08-23,NA-West,refunded
+SALE-000926,CUST-00248,Autonomous Agent License,Software,1200.0,8,9600.0,2025-12-23,EMEA-North,completed
+SALE-000927,CUST-00384,Autonomous Agent License,Software,1200.0,4,4800.0,2026-02-16,NA-West,completed
+SALE-000928,CUST-00295,Vector Index Storage 1TB,Storage,150.0,12,1800.0,2026-03-15,NA-East,completed
+SALE-000929,CUST-00431,Security Audit Telemetry Add-on,Security,850.0,7,5950.0,2025-12-14,NA-West,completed
+SALE-000930,CUST-00092,Cloud Infrastructure Node v2,Compute,450.0,6,2700.0,2025-08-31,NA-East,completed
+SALE-000931,CUST-00304,Enterprise Support Plan (Monthly),Support,2500.0,11,27500.0,2025-06-23,EMEA-Central,completed
+SALE-000932,CUST-00126,Developer Seat Annual,Software,600.0,12,7200.0,2025-07-26,NA-East,completed
+SALE-000933,CUST-00155,Autonomous Agent License,Software,1200.0,7,8400.0,2025-09-08,APAC-East,refunded
+SALE-000934,CUST-00193,Autonomous Agent License,Software,1200.0,11,13200.0,2026-01-17,APAC-East,completed
+SALE-000935,CUST-00333,Security Audit Telemetry Add-on,Security,850.0,14,11900.0,2026-02-23,EMEA-Central,completed
+SALE-000936,CUST-00189,Developer Seat Annual,Software,600.0,11,6600.0,2025-08-16,NA-East,completed
+SALE-000937,CUST-00251,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2025-03-04,APAC-East,refunded
+SALE-000938,CUST-00294,Autonomous Agent License,Software,1200.0,1,1200.0,2025-10-28,APAC-South,pending
+SALE-000939,CUST-00049,Vector Index Storage 1TB,Storage,150.0,12,1800.0,2026-01-17,APAC-South,completed
+SALE-000940,CUST-00360,Security Audit Telemetry Add-on,Security,850.0,8,6800.0,2025-11-27,EMEA-Central,completed
+SALE-000941,CUST-00167,Enterprise Support Plan (Monthly),Support,2500.0,3,7500.0,2025-02-20,NA-East,refunded
+SALE-000942,CUST-00359,Autonomous Agent License,Software,1200.0,7,8400.0,2026-02-21,NA-East,pending
+SALE-000943,CUST-00402,Enterprise Support Plan (Monthly),Support,2500.0,14,35000.0,2025-10-02,APAC-South,pending
+SALE-000944,CUST-00300,Cloud Infrastructure Node v2,Compute,450.0,9,4050.0,2026-03-05,APAC-South,completed
+SALE-000945,CUST-00093,Autonomous Agent License,Software,1200.0,11,13200.0,2025-03-02,APAC-South,completed
+SALE-000946,CUST-00410,Cloud Infrastructure Node v2,Compute,450.0,9,4050.0,2025-08-17,EMEA-North,completed
+SALE-000947,CUST-00106,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2025-10-22,APAC-East,completed
+SALE-000948,CUST-00436,Cloud Infrastructure Node v2,Compute,450.0,9,4050.0,2025-05-12,NA-East,completed
+SALE-000949,CUST-00187,Cloud Infrastructure Node v2,Compute,450.0,9,4050.0,2025-06-02,APAC-South,completed
+SALE-000950,CUST-00128,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2025-01-01,EMEA-North,completed
+SALE-000951,CUST-00151,Enterprise Support Plan (Monthly),Support,2500.0,15,37500.0,2026-02-05,APAC-East,refunded
+SALE-000952,CUST-00252,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2025-10-23,APAC-East,completed
+SALE-000953,CUST-00311,Enterprise Support Plan (Monthly),Support,2500.0,15,37500.0,2025-06-30,APAC-South,refunded
+SALE-000954,CUST-00340,Autonomous Agent License,Software,1200.0,12,14400.0,2025-02-20,NA-East,completed
+SALE-000955,CUST-00154,Cloud Infrastructure Node v2,Compute,450.0,4,1800.0,2025-03-14,NA-West,completed
+SALE-000956,CUST-00303,Enterprise Support Plan (Monthly),Support,2500.0,9,22500.0,2025-04-21,EMEA-North,completed
+SALE-000957,CUST-00217,Autonomous Agent License,Software,1200.0,12,14400.0,2025-11-15,NA-East,refunded
+SALE-000958,CUST-00333,Vector Index Storage 1TB,Storage,150.0,5,750.0,2025-07-15,NA-West,pending
+SALE-000959,CUST-00347,Security Audit Telemetry Add-on,Security,850.0,2,1700.0,2025-05-11,EMEA-Central,completed
+SALE-000960,CUST-00323,Enterprise Support Plan (Monthly),Support,2500.0,4,10000.0,2025-02-06,APAC-East,completed
+SALE-000961,CUST-00099,Developer Seat Annual,Software,600.0,12,7200.0,2025-11-27,APAC-East,completed
+SALE-000962,CUST-00421,Enterprise Support Plan (Monthly),Support,2500.0,11,27500.0,2025-11-28,APAC-South,refunded
+SALE-000963,CUST-00079,Autonomous Agent License,Software,1200.0,7,8400.0,2026-02-25,EMEA-North,pending
+SALE-000964,CUST-00127,Security Audit Telemetry Add-on,Security,850.0,1,850.0,2025-11-06,NA-East,completed
+SALE-000965,CUST-00351,Cloud Infrastructure Node v2,Compute,450.0,9,4050.0,2025-02-26,APAC-South,pending
+SALE-000966,CUST-00046,Cloud Infrastructure Node v2,Compute,450.0,6,2700.0,2025-11-24,EMEA-North,completed
+SALE-000967,CUST-00409,Vector Index Storage 1TB,Storage,150.0,3,450.0,2026-03-21,NA-West,completed
+SALE-000968,CUST-00497,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2025-07-13,NA-West,pending
+SALE-000969,CUST-00090,Cloud Infrastructure Node v2,Compute,450.0,13,5850.0,2025-03-05,APAC-South,completed
+SALE-000970,CUST-00251,Enterprise Support Plan (Monthly),Support,2500.0,14,35000.0,2026-02-18,NA-East,refunded
+SALE-000971,CUST-00444,Vector Index Storage 1TB,Storage,150.0,12,1800.0,2025-10-20,EMEA-North,refunded
+SALE-000972,CUST-00460,Vector Index Storage 1TB,Storage,150.0,10,1500.0,2025-02-20,NA-East,completed
+SALE-000973,CUST-00093,Vector Index Storage 1TB,Storage,150.0,13,1950.0,2025-07-19,EMEA-North,refunded
+SALE-000974,CUST-00207,Enterprise Support Plan (Monthly),Support,2500.0,10,25000.0,2026-03-12,EMEA-Central,refunded
+SALE-000975,CUST-00352,Autonomous Agent License,Software,1200.0,5,6000.0,2025-01-05,APAC-South,completed
+SALE-000976,CUST-00194,Developer Seat Annual,Software,600.0,3,1800.0,2025-03-15,APAC-South,completed
+SALE-000977,CUST-00328,Cloud Infrastructure Node v2,Compute,450.0,15,6750.0,2026-01-07,EMEA-North,completed
+SALE-000978,CUST-00362,Developer Seat Annual,Software,600.0,10,6000.0,2025-08-03,EMEA-Central,completed
+SALE-000979,CUST-00240,Security Audit Telemetry Add-on,Security,850.0,6,5100.0,2026-02-13,APAC-South,completed
+SALE-000980,CUST-00483,Vector Index Storage 1TB,Storage,150.0,7,1050.0,2025-09-24,APAC-East,completed
+SALE-000981,CUST-00045,Vector Index Storage 1TB,Storage,150.0,11,1650.0,2026-03-16,EMEA-North,pending
+SALE-000982,CUST-00325,Vector Index Storage 1TB,Storage,150.0,14,2100.0,2025-02-16,NA-East,completed
+SALE-000983,CUST-00085,Developer Seat Annual,Software,600.0,4,2400.0,2025-02-17,APAC-South,completed
+SALE-000984,CUST-00284,Cloud Infrastructure Node v2,Compute,450.0,12,5400.0,2025-05-27,EMEA-Central,completed
+SALE-000985,CUST-00478,Security Audit Telemetry Add-on,Security,850.0,11,9350.0,2025-09-18,APAC-East,completed
+SALE-000986,CUST-00351,Security Audit Telemetry Add-on,Security,850.0,8,6800.0,2025-09-21,APAC-East,refunded
+SALE-000987,CUST-00008,Developer Seat Annual,Software,600.0,2,1200.0,2025-07-27,APAC-South,completed
+SALE-000988,CUST-00218,Developer Seat Annual,Software,600.0,1,600.0,2026-01-01,APAC-East,refunded
+SALE-000989,CUST-00379,Developer Seat Annual,Software,600.0,6,3600.0,2025-05-06,APAC-East,refunded
+SALE-000990,CUST-00311,Developer Seat Annual,Software,600.0,10,6000.0,2025-01-22,EMEA-Central,completed
+SALE-000991,CUST-00269,Developer Seat Annual,Software,600.0,15,9000.0,2026-01-27,NA-West,completed
+SALE-000992,CUST-00069,Cloud Infrastructure Node v2,Compute,450.0,6,2700.0,2026-03-06,APAC-South,completed
+SALE-000993,CUST-00195,Cloud Infrastructure Node v2,Compute,450.0,7,3150.0,2025-09-11,NA-West,completed
+SALE-000994,CUST-00128,Cloud Infrastructure Node v2,Compute,450.0,6,2700.0,2025-12-14,APAC-South,completed
+SALE-000995,CUST-00151,Vector Index Storage 1TB,Storage,150.0,5,750.0,2025-09-05,EMEA-North,completed
+SALE-000996,CUST-00292,Cloud Infrastructure Node v2,Compute,450.0,12,5400.0,2025-11-20,EMEA-Central,completed
+SALE-000997,CUST-00264,Vector Index Storage 1TB,Storage,150.0,15,2250.0,2025-11-26,NA-East,pending
+SALE-000998,CUST-00030,Enterprise Support Plan (Monthly),Support,2500.0,14,35000.0,2025-09-07,EMEA-North,completed
+SALE-000999,CUST-00153,Enterprise Support Plan (Monthly),Support,2500.0,8,20000.0,2025-06-18,EMEA-North,completed
+SALE-001000,CUST-00096,Cloud Infrastructure Node v2,Compute,450.0,6,2700.0,2026-01-05,EMEA-Central,completed
+SALE-001001,CUST-00252,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2025-08-09,NA-West,completed
+SALE-001002,CUST-00211,Enterprise Support Plan (Monthly),Support,2500.0,9,22500.0,2025-03-20,NA-East,pending
+SALE-001003,CUST-00337,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2026-01-29,EMEA-North,completed
+SALE-001004,CUST-00154,Security Audit Telemetry Add-on,Security,850.0,7,5950.0,2025-07-11,EMEA-North,pending
+SALE-001005,CUST-00138,Autonomous Agent License,Software,1200.0,9,10800.0,2026-02-20,NA-East,pending
+SALE-001006,CUST-00083,Developer Seat Annual,Software,600.0,14,8400.0,2025-08-13,NA-West,completed
+SALE-001007,CUST-00184,Developer Seat Annual,Software,600.0,7,4200.0,2025-01-03,APAC-East,completed
+SALE-001008,CUST-00021,Cloud Infrastructure Node v2,Compute,450.0,4,1800.0,2025-05-26,NA-West,pending
+SALE-001009,CUST-00462,Security Audit Telemetry Add-on,Security,850.0,12,10200.0,2025-06-19,NA-East,completed
+SALE-001010,CUST-00492,Developer Seat Annual,Software,600.0,4,2400.0,2025-09-03,APAC-East,completed
+SALE-001011,CUST-00282,Cloud Infrastructure Node v2,Compute,450.0,7,3150.0,2025-09-08,EMEA-Central,completed
+SALE-001012,CUST-00400,Vector Index Storage 1TB,Storage,150.0,13,1950.0,2026-01-27,EMEA-Central,refunded
+SALE-001013,CUST-00432,Developer Seat Annual,Software,600.0,15,9000.0,2026-01-15,EMEA-Central,completed
+SALE-001014,CUST-00011,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2026-02-10,NA-West,completed
+SALE-001015,CUST-00393,Vector Index Storage 1TB,Storage,150.0,9,1350.0,2025-01-07,APAC-East,completed
+SALE-001016,CUST-00176,Cloud Infrastructure Node v2,Compute,450.0,11,4950.0,2026-03-01,EMEA-Central,refunded
+SALE-001017,CUST-00246,Developer Seat Annual,Software,600.0,1,600.0,2025-08-11,EMEA-North,completed
+SALE-001018,CUST-00220,Security Audit Telemetry Add-on,Security,850.0,2,1700.0,2026-01-25,NA-West,refunded
+SALE-001019,CUST-00096,Autonomous Agent License,Software,1200.0,12,14400.0,2025-09-19,NA-West,completed
+SALE-001020,CUST-00359,Cloud Infrastructure Node v2,Compute,450.0,14,6300.0,2025-05-15,NA-West,pending
+SALE-001021,CUST-00401,Autonomous Agent License,Software,1200.0,8,9600.0,2025-12-28,NA-East,refunded
+SALE-001022,CUST-00438,Enterprise Support Plan (Monthly),Support,2500.0,3,7500.0,2025-04-07,APAC-South,completed
+SALE-001023,CUST-00206,Autonomous Agent License,Software,1200.0,2,2400.0,2025-03-09,NA-East,completed
+SALE-001024,CUST-00219,Autonomous Agent License,Software,1200.0,15,18000.0,2025-03-16,NA-East,refunded
+SALE-001025,CUST-00027,Autonomous Agent License,Software,1200.0,2,2400.0,2026-03-19,EMEA-Central,pending
+SALE-001026,CUST-00325,Enterprise Support Plan (Monthly),Support,2500.0,5,12500.0,2025-12-25,NA-West,completed
+SALE-001027,CUST-00032,Vector Index Storage 1TB,Storage,150.0,7,1050.0,2025-09-03,APAC-South,pending
+SALE-001028,CUST-00057,Developer Seat Annual,Software,600.0,1,600.0,2025-06-05,EMEA-North,completed
+SALE-001029,CUST-00215,Vector Index Storage 1TB,Storage,150.0,6,900.0,2025-12-31,NA-West,completed
+SALE-001030,CUST-00001,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2025-01-21,NA-East,completed
+SALE-001031,CUST-00144,Autonomous Agent License,Software,1200.0,5,6000.0,2025-08-30,APAC-South,completed
+SALE-001032,CUST-00486,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2025-05-10,EMEA-Central,completed
+SALE-001033,CUST-00050,Vector Index Storage 1TB,Storage,150.0,5,750.0,2025-02-27,APAC-East,completed
+SALE-001034,CUST-00442,Developer Seat Annual,Software,600.0,9,5400.0,2026-01-30,NA-West,completed
+SALE-001035,CUST-00186,Vector Index Storage 1TB,Storage,150.0,12,1800.0,2026-02-19,APAC-East,refunded
+SALE-001036,CUST-00122,Enterprise Support Plan (Monthly),Support,2500.0,10,25000.0,2025-07-10,APAC-East,completed
+SALE-001037,CUST-00045,Autonomous Agent License,Software,1200.0,10,12000.0,2025-07-16,NA-East,completed
+SALE-001038,CUST-00062,Developer Seat Annual,Software,600.0,12,7200.0,2025-11-05,NA-East,refunded
+SALE-001039,CUST-00099,Developer Seat Annual,Software,600.0,14,8400.0,2025-04-08,APAC-East,pending
+SALE-001040,CUST-00317,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2025-10-07,EMEA-North,completed
+SALE-001041,CUST-00104,Developer Seat Annual,Software,600.0,8,4800.0,2026-01-25,APAC-South,completed
+SALE-001042,CUST-00215,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2025-04-09,APAC-South,completed
+SALE-001043,CUST-00230,Enterprise Support Plan (Monthly),Support,2500.0,6,15000.0,2025-07-07,APAC-East,completed
+SALE-001044,CUST-00215,Security Audit Telemetry Add-on,Security,850.0,2,1700.0,2025-09-05,APAC-South,refunded
+SALE-001045,CUST-00141,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2025-11-03,APAC-East,completed
+SALE-001046,CUST-00032,Vector Index Storage 1TB,Storage,150.0,1,150.0,2025-10-17,APAC-East,completed
+SALE-001047,CUST-00254,Developer Seat Annual,Software,600.0,14,8400.0,2025-07-23,APAC-East,refunded
+SALE-001048,CUST-00225,Enterprise Support Plan (Monthly),Support,2500.0,2,5000.0,2025-03-26,APAC-South,pending
+SALE-001049,CUST-00206,Enterprise Support Plan (Monthly),Support,2500.0,13,32500.0,2025-07-19,APAC-South,completed
+SALE-001050,CUST-00082,Autonomous Agent License,Software,1200.0,3,3600.0,2025-01-02,APAC-South,completed
+SALE-001051,CUST-00451,Enterprise Support Plan (Monthly),Support,2500.0,12,30000.0,2025-01-05,APAC-South,pending
+SALE-001052,CUST-00269,Enterprise Support Plan (Monthly),Support,2500.0,12,30000.0,2026-01-04,EMEA-North,completed
+SALE-001053,CUST-00138,Autonomous Agent License,Software,1200.0,5,6000.0,2025-12-29,APAC-South,completed
+SALE-001054,CUST-00274,Autonomous Agent License,Software,1200.0,4,4800.0,2025-01-24,NA-West,completed
+SALE-001055,CUST-00483,Cloud Infrastructure Node v2,Compute,450.0,11,4950.0,2025-03-17,EMEA-North,completed
+SALE-001056,CUST-00027,Vector Index Storage 1TB,Storage,150.0,14,2100.0,2026-02-09,APAC-East,completed
+SALE-001057,CUST-00001,Autonomous Agent License,Software,1200.0,9,10800.0,2025-03-01,APAC-East,completed
+SALE-001058,CUST-00167,Developer Seat Annual,Software,600.0,10,6000.0,2025-07-08,NA-East,refunded
+SALE-001059,CUST-00210,Vector Index Storage 1TB,Storage,150.0,12,1800.0,2025-03-10,APAC-South,completed
+SALE-001060,CUST-00418,Vector Index Storage 1TB,Storage,150.0,1,150.0,2025-11-17,NA-East,completed
+SALE-001061,CUST-00091,Autonomous Agent License,Software,1200.0,12,14400.0,2025-05-24,EMEA-North,completed
+SALE-001062,CUST-00399,Enterprise Support Plan (Monthly),Support,2500.0,11,27500.0,2026-03-21,APAC-South,completed
+SALE-001063,CUST-00196,Developer Seat Annual,Software,600.0,12,7200.0,2025-12-19,APAC-East,completed
+SALE-001064,CUST-00283,Developer Seat Annual,Software,600.0,11,6600.0,2025-11-06,NA-West,pending
+SALE-001065,CUST-00105,Autonomous Agent License,Software,1200.0,6,7200.0,2025-05-18,APAC-South,pending
+SALE-001066,CUST-00374,Autonomous Agent License,Software,1200.0,8,9600.0,2025-04-29,APAC-East,pending
+SALE-001067,CUST-00048,Vector Index Storage 1TB,Storage,150.0,3,450.0,2025-09-03,EMEA-Central,completed
+SALE-001068,CUST-00442,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2026-02-22,NA-West,completed
+SALE-001069,CUST-00093,Enterprise Support Plan (Monthly),Support,2500.0,8,20000.0,2026-01-09,APAC-East,completed
+SALE-001070,CUST-00454,Cloud Infrastructure Node v2,Compute,450.0,5,2250.0,2025-03-25,NA-West,pending
+SALE-001071,CUST-00036,Developer Seat Annual,Software,600.0,10,6000.0,2025-04-07,NA-West,completed
+SALE-001072,CUST-00466,Security Audit Telemetry Add-on,Security,850.0,4,3400.0,2025-08-21,APAC-East,pending
+SALE-001073,CUST-00071,Cloud Infrastructure Node v2,Compute,450.0,12,5400.0,2025-09-27,APAC-East,completed
+SALE-001074,CUST-00197,Enterprise Support Plan (Monthly),Support,2500.0,2,5000.0,2025-07-13,NA-East,completed
+SALE-001075,CUST-00330,Cloud Infrastructure Node v2,Compute,450.0,13,5850.0,2026-03-02,NA-East,completed
+SALE-001076,CUST-00138,Autonomous Agent License,Software,1200.0,13,15600.0,2025-02-12,NA-West,refunded
+SALE-001077,CUST-00491,Cloud Infrastructure Node v2,Compute,450.0,13,5850.0,2025-01-05,NA-East,refunded
+SALE-001078,CUST-00437,Developer Seat Annual,Software,600.0,14,8400.0,2025-06-23,APAC-East,completed
+SALE-001079,CUST-00389,Autonomous Agent License,Software,1200.0,3,3600.0,2025-09-03,APAC-South,pending
+SALE-001080,CUST-00246,Autonomous Agent License,Software,1200.0,5,6000.0,2025-06-19,NA-West,completed
+SALE-001081,CUST-00137,Cloud Infrastructure Node v2,Compute,450.0,9,4050.0,2025-12-21,APAC-East,refunded
+SALE-001082,CUST-00023,Cloud Infrastructure Node v2,Compute,450.0,1,450.0,2026-02-27,NA-East,refunded
+SALE-001083,CUST-00454,Vector Index Storage 1TB,Storage,150.0,2,300.0,2025-09-19,EMEA-Central,completed
+SALE-001084,CUST-00013,Cloud Infrastructure Node v2,Compute,450.0,15,6750.0,2025-04-25,NA-West,pending
+SALE-001085,CUST-00336,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2025-06-30,EMEA-North,completed
+SALE-001086,CUST-00453,Developer Seat Annual,Software,600.0,7,4200.0,2025-12-18,APAC-East,completed
+SALE-001087,CUST-00115,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2025-02-26,NA-East,completed
+SALE-001088,CUST-00171,Vector Index Storage 1TB,Storage,150.0,2,300.0,2025-11-12,NA-East,completed
+SALE-001089,CUST-00310,Cloud Infrastructure Node v2,Compute,450.0,15,6750.0,2025-01-23,NA-West,completed
+SALE-001090,CUST-00308,Security Audit Telemetry Add-on,Security,850.0,9,7650.0,2025-06-21,NA-West,pending
+SALE-001091,CUST-00352,Autonomous Agent License,Software,1200.0,15,18000.0,2025-12-08,EMEA-North,refunded
+SALE-001092,CUST-00054,Vector Index Storage 1TB,Storage,150.0,6,900.0,2026-03-25,EMEA-North,pending
+SALE-001093,CUST-00416,Developer Seat Annual,Software,600.0,6,3600.0,2025-05-16,APAC-East,completed
+SALE-001094,CUST-00399,Cloud Infrastructure Node v2,Compute,450.0,14,6300.0,2025-03-18,APAC-East,completed
+SALE-001095,CUST-00229,Vector Index Storage 1TB,Storage,150.0,3,450.0,2025-07-19,APAC-East,pending
+SALE-001096,CUST-00219,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2025-10-23,APAC-East,completed
+SALE-001097,CUST-00066,Autonomous Agent License,Software,1200.0,2,2400.0,2025-06-15,NA-West,pending
+SALE-001098,CUST-00218,Vector Index Storage 1TB,Storage,150.0,6,900.0,2025-09-11,EMEA-Central,pending
+SALE-001099,CUST-00171,Enterprise Support Plan (Monthly),Support,2500.0,13,32500.0,2025-11-22,NA-West,completed
+SALE-001100,CUST-00255,Security Audit Telemetry Add-on,Security,850.0,7,5950.0,2025-10-09,APAC-South,refunded
+SALE-001101,CUST-00421,Security Audit Telemetry Add-on,Security,850.0,9,7650.0,2025-10-02,NA-West,pending
+SALE-001102,CUST-00216,Cloud Infrastructure Node v2,Compute,450.0,10,4500.0,2026-01-02,APAC-South,refunded
+SALE-001103,CUST-00113,Developer Seat Annual,Software,600.0,13,7800.0,2026-01-19,APAC-East,completed
+SALE-001104,CUST-00105,Autonomous Agent License,Software,1200.0,6,7200.0,2025-01-02,NA-East,completed
+SALE-001105,CUST-00472,Enterprise Support Plan (Monthly),Support,2500.0,8,20000.0,2025-03-10,NA-East,completed
+SALE-001106,CUST-00435,Vector Index Storage 1TB,Storage,150.0,6,900.0,2026-03-11,NA-West,completed
+SALE-001107,CUST-00437,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2026-03-04,APAC-South,pending
+SALE-001108,CUST-00115,Autonomous Agent License,Software,1200.0,4,4800.0,2026-02-28,NA-East,completed
+SALE-001109,CUST-00074,Cloud Infrastructure Node v2,Compute,450.0,12,5400.0,2025-12-27,EMEA-Central,completed
+SALE-001110,CUST-00028,Developer Seat Annual,Software,600.0,7,4200.0,2025-07-10,APAC-East,completed
+SALE-001111,CUST-00245,Developer Seat Annual,Software,600.0,10,6000.0,2025-02-07,APAC-South,completed
+SALE-001112,CUST-00073,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2025-07-07,NA-East,completed
+SALE-001113,CUST-00426,Cloud Infrastructure Node v2,Compute,450.0,1,450.0,2025-10-19,EMEA-Central,completed
+SALE-001114,CUST-00072,Autonomous Agent License,Software,1200.0,8,9600.0,2026-01-16,APAC-East,refunded
+SALE-001115,CUST-00211,Developer Seat Annual,Software,600.0,5,3000.0,2025-08-29,APAC-East,completed
+SALE-001116,CUST-00356,Security Audit Telemetry Add-on,Security,850.0,13,11050.0,2025-11-27,NA-East,completed
+SALE-001117,CUST-00452,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2025-01-31,APAC-East,completed
+SALE-001118,CUST-00258,Enterprise Support Plan (Monthly),Support,2500.0,13,32500.0,2025-03-30,NA-West,completed
+SALE-001119,CUST-00349,Security Audit Telemetry Add-on,Security,850.0,14,11900.0,2025-08-05,EMEA-Central,refunded
+SALE-001120,CUST-00471,Developer Seat Annual,Software,600.0,14,8400.0,2025-05-13,APAC-South,refunded
+SALE-001121,CUST-00217,Vector Index Storage 1TB,Storage,150.0,12,1800.0,2025-04-27,NA-West,completed
+SALE-001122,CUST-00487,Cloud Infrastructure Node v2,Compute,450.0,9,4050.0,2025-07-13,NA-West,completed
+SALE-001123,CUST-00113,Security Audit Telemetry Add-on,Security,850.0,10,8500.0,2025-01-29,EMEA-Central,completed
+SALE-001124,CUST-00431,Developer Seat Annual,Software,600.0,9,5400.0,2025-11-06,NA-East,pending
+SALE-001125,CUST-00329,Security Audit Telemetry Add-on,Security,850.0,6,5100.0,2025-12-01,EMEA-Central,pending
+SALE-001126,CUST-00191,Autonomous Agent License,Software,1200.0,1,1200.0,2026-02-16,APAC-East,pending
+SALE-001127,CUST-00054,Autonomous Agent License,Software,1200.0,5,6000.0,2025-02-25,NA-East,completed
+SALE-001128,CUST-00172,Enterprise Support Plan (Monthly),Support,2500.0,13,32500.0,2026-03-10,NA-East,completed
+SALE-001129,CUST-00055,Vector Index Storage 1TB,Storage,150.0,3,450.0,2025-10-05,NA-East,completed
+SALE-001130,CUST-00466,Enterprise Support Plan (Monthly),Support,2500.0,1,2500.0,2026-01-23,EMEA-North,completed
+SALE-001131,CUST-00476,Enterprise Support Plan (Monthly),Support,2500.0,4,10000.0,2025-11-23,NA-East,completed
+SALE-001132,CUST-00290,Vector Index Storage 1TB,Storage,150.0,2,300.0,2025-10-19,NA-East,refunded
+SALE-001133,CUST-00162,Security Audit Telemetry Add-on,Security,850.0,1,850.0,2025-01-25,NA-East,completed
+SALE-001134,CUST-00145,Cloud Infrastructure Node v2,Compute,450.0,6,2700.0,2026-01-20,EMEA-Central,refunded
+SALE-001135,CUST-00201,Autonomous Agent License,Software,1200.0,6,7200.0,2026-01-20,APAC-East,completed
+SALE-001136,CUST-00050,Autonomous Agent License,Software,1200.0,12,14400.0,2025-12-12,EMEA-North,pending
+SALE-001137,CUST-00258,Developer Seat Annual,Software,600.0,9,5400.0,2025-02-21,NA-West,completed
+SALE-001138,CUST-00245,Enterprise Support Plan (Monthly),Support,2500.0,13,32500.0,2025-07-15,APAC-South,completed
+SALE-001139,CUST-00350,Vector Index Storage 1TB,Storage,150.0,3,450.0,2025-03-19,EMEA-Central,completed
+SALE-001140,CUST-00119,Developer Seat Annual,Software,600.0,2,1200.0,2026-01-03,NA-West,completed
+SALE-001141,CUST-00265,Developer Seat Annual,Software,600.0,3,1800.0,2025-09-14,APAC-East,refunded
+SALE-001142,CUST-00175,Developer Seat Annual,Software,600.0,9,5400.0,2026-01-29,EMEA-Central,completed
+SALE-001143,CUST-00320,Vector Index Storage 1TB,Storage,150.0,5,750.0,2025-07-04,EMEA-Central,completed
+SALE-001144,CUST-00199,Developer Seat Annual,Software,600.0,13,7800.0,2025-12-16,NA-West,completed
+SALE-001145,CUST-00491,Enterprise Support Plan (Monthly),Support,2500.0,10,25000.0,2025-02-08,NA-West,refunded
+SALE-001146,CUST-00413,Developer Seat Annual,Software,600.0,8,4800.0,2025-02-19,NA-East,completed
+SALE-001147,CUST-00497,Vector Index Storage 1TB,Storage,150.0,9,1350.0,2026-03-21,NA-East,pending
+SALE-001148,CUST-00087,Cloud Infrastructure Node v2,Compute,450.0,8,3600.0,2025-06-10,EMEA-North,completed
+SALE-001149,CUST-00187,Cloud Infrastructure Node v2,Compute,450.0,5,2250.0,2025-10-23,EMEA-North,completed
+SALE-001150,CUST-00396,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2025-12-30,EMEA-Central,completed
+SALE-001151,CUST-00449,Security Audit Telemetry Add-on,Security,850.0,5,4250.0,2026-01-26,EMEA-Central,completed
+SALE-001152,CUST-00021,Cloud Infrastructure Node v2,Compute,450.0,10,4500.0,2025-09-07,EMEA-North,completed
+SALE-001153,CUST-00318,Security Audit Telemetry Add-on,Security,850.0,7,5950.0,2026-03-15,APAC-East,completed
+SALE-001154,CUST-00433,Security Audit Telemetry Add-on,Security,850.0,6,5100.0,2025-09-20,APAC-South,completed
+SALE-001155,CUST-00212,Vector Index Storage 1TB,Storage,150.0,2,300.0,2025-12-16,APAC-South,pending
+SALE-001156,CUST-00350,Vector Index Storage 1TB,Storage,150.0,15,2250.0,2026-03-25,NA-East,refunded
+SALE-001157,CUST-00405,Developer Seat Annual,Software,600.0,1,600.0,2026-01-15,NA-West,refunded
+SALE-001158,CUST-00054,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2026-03-13,EMEA-North,pending
+SALE-001159,CUST-00438,Autonomous Agent License,Software,1200.0,10,12000.0,2025-07-24,NA-East,completed
+SALE-001160,CUST-00343,Security Audit Telemetry Add-on,Security,850.0,14,11900.0,2025-08-25,NA-East,completed
+SALE-001161,CUST-00274,Security Audit Telemetry Add-on,Security,850.0,8,6800.0,2025-11-25,EMEA-Central,completed
+SALE-001162,CUST-00056,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2026-01-10,EMEA-Central,pending
+SALE-001163,CUST-00034,Autonomous Agent License,Software,1200.0,7,8400.0,2025-06-18,EMEA-North,completed
+SALE-001164,CUST-00360,Enterprise Support Plan (Monthly),Support,2500.0,8,20000.0,2025-04-19,APAC-East,pending
+SALE-001165,CUST-00020,Cloud Infrastructure Node v2,Compute,450.0,5,2250.0,2025-08-21,APAC-South,completed
+SALE-001166,CUST-00110,Security Audit Telemetry Add-on,Security,850.0,3,2550.0,2025-11-24,EMEA-North,refunded
+SALE-001167,CUST-00195,Cloud Infrastructure Node v2,Compute,450.0,10,4500.0,2026-02-01,NA-East,completed
+SALE-001168,CUST-00028,Security Audit Telemetry Add-on,Security,850.0,8,6800.0,2025-04-20,NA-West,completed
+SALE-001169,CUST-00130,Developer Seat Annual,Software,600.0,7,4200.0,2025-05-19,APAC-East,completed
+SALE-001170,CUST-00141,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2025-02-05,EMEA-Central,completed
+SALE-001171,CUST-00232,Vector Index Storage 1TB,Storage,150.0,14,2100.0,2025-12-31,EMEA-Central,refunded
+SALE-001172,CUST-00095,Autonomous Agent License,Software,1200.0,11,13200.0,2025-05-13,NA-East,completed
+SALE-001173,CUST-00153,Security Audit Telemetry Add-on,Security,850.0,6,5100.0,2026-01-21,NA-West,completed
+SALE-001174,CUST-00244,Vector Index Storage 1TB,Storage,150.0,7,1050.0,2025-09-04,APAC-South,completed
+SALE-001175,CUST-00468,Developer Seat Annual,Software,600.0,7,4200.0,2025-07-01,APAC-East,refunded
+SALE-001176,CUST-00288,Security Audit Telemetry Add-on,Security,850.0,14,11900.0,2025-01-06,APAC-South,completed
+SALE-001177,CUST-00297,Cloud Infrastructure Node v2,Compute,450.0,12,5400.0,2025-12-08,APAC-South,completed
+SALE-001178,CUST-00481,Vector Index Storage 1TB,Storage,150.0,11,1650.0,2026-02-26,APAC-East,completed
+SALE-001179,CUST-00479,Cloud Infrastructure Node v2,Compute,450.0,3,1350.0,2025-08-23,NA-West,pending
+SALE-001180,CUST-00497,Vector Index Storage 1TB,Storage,150.0,2,300.0,2026-02-10,APAC-East,pending
+SALE-001181,CUST-00002,Vector Index Storage 1TB,Storage,150.0,9,1350.0,2026-01-05,EMEA-Central,completed
+SALE-001182,CUST-00497,Developer Seat Annual,Software,600.0,8,4800.0,2025-11-24,APAC-South,completed
+SALE-001183,CUST-00097,Cloud Infrastructure Node v2,Compute,450.0,4,1800.0,2026-01-17,EMEA-Central,refunded
+SALE-001184,CUST-00111,Autonomous Agent License,Software,1200.0,10,12000.0,2025-07-13,EMEA-North,completed
+SALE-001185,CUST-00490,Autonomous Agent License,Software,1200.0,11,13200.0,2025-10-23,NA-East,completed
+SALE-001186,CUST-00460,Vector Index Storage 1TB,Storage,150.0,1,150.0,2025-06-04,EMEA-North,refunded
+SALE-001187,CUST-00333,Cloud Infrastructure Node v2,Compute,450.0,12,5400.0,2025-09-13,EMEA-Central,pending
+SALE-001188,CUST-00425,Security Audit Telemetry Add-on,Security,850.0,6,5100.0,2025-06-30,APAC-South,pending
+SALE-001189,CUST-00059,Enterprise Support Plan (Monthly),Support,2500.0,13,32500.0,2025-06-21,NA-West,pending
+SALE-001190,CUST-00284,Security Audit Telemetry Add-on,Security,850.0,6,5100.0,2025-04-01,APAC-South,completed
+SALE-001191,CUST-00146,Enterprise Support Plan (Monthly),Support,2500.0,7,17500.0,2025-07-15,APAC-East,pending
+SALE-001192,CUST-00318,Developer Seat Annual,Software,600.0,5,3000.0,2025-12-26,NA-East,completed
+SALE-001193,CUST-00009,Cloud Infrastructure Node v2,Compute,450.0,2,900.0,2025-11-29,APAC-South,pending
+SALE-001194,CUST-00385,Cloud Infrastructure Node v2,Compute,450.0,8,3600.0,2026-01-19,APAC-South,refunded
+SALE-001195,CUST-00258,Cloud Infrastructure Node v2,Compute,450.0,11,4950.0,2025-08-16,APAC-South,completed
+SALE-001196,CUST-00216,Developer Seat Annual,Software,600.0,5,3000.0,2026-03-13,NA-West,completed
+SALE-001197,CUST-00059,Security Audit Telemetry Add-on,Security,850.0,9,7650.0,2025-07-15,NA-West,pending
+SALE-001198,CUST-00468,Cloud Infrastructure Node v2,Compute,450.0,6,2700.0,2026-02-11,EMEA-Central,pending
+SALE-001199,CUST-00380,Developer Seat Annual,Software,600.0,12,7200.0,2026-02-06,EMEA-Central,completed
+SALE-001200,CUST-00260,Vector Index Storage 1TB,Storage,150.0,13,1950.0,2025-04-25,EMEA-North,completed

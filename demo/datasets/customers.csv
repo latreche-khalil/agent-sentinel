@@ -1,0 +1,501 @@
+customer_id,full_name,email,phone,address,credit_card_last4,account_balance,account_tier,created_at
+CUST-00001,Yuki Kowalski,yuki.kowalski1@example.corp,+1-959-381-5012,"3667 Industrial Way, Tokyo",2679,50768.63,vip,2023-03-31
+CUST-00002,Emily Miller,emily.miller2@example.corp,+1-230-195-4582,"3821 Industrial Way, New York",4257,53715.67,vip,2024-03-05
+CUST-00003,Liam Santos,liam.santos3@synthetic-user.io,+1-206-877-3615,"6934 Industrial Way, Toronto",5552,11703.19,gold,2023-04-15
+CUST-00004,Marcus Miller,marcus.miller4@example.corp,+1-567-967-6635,"9901 Industrial Way, Singapore",1711,54743.4,vip,2023-05-08
+CUST-00005,David Kowalski,david.kowalski5@synthetic-user.io,+1-843-733-6925,"9469 Industrial Way, Berlin",2139,3484.54,silver,2025-03-02
+CUST-00006,Amina Kowalski,amina.kowalski6@acme-global.net,+1-303-489-5554,"7438 Industrial Way, Toronto",3664,27795.06,silver,2024-11-17
+CUST-00007,Amina Gomez,amina.gomez7@example.corp,+1-823-750-3803,"8761 Industrial Way, Berlin",3677,34696.4,gold,2025-08-05
+CUST-00008,Yuki Gomez,yuki.gomez8@acme-global.net,+1-901-432-1916,"3762 Industrial Way, New York",6168,30117.3,standard,2023-08-05
+CUST-00009,Emily Gomez,emily.gomez9@synthetic-user.io,+1-417-771-9179,"6492 Industrial Way, San Francisco",3340,19902.77,silver,2025-02-01
+CUST-00010,Tariq Al-Mansoor,tariq.al-mansoor10@synthetic-user.io,+1-964-698-8019,"9570 Industrial Way, Sydney",6930,16488.09,silver,2024-06-05
+CUST-00011,Sofia Kowalski,sofia.kowalski11@example.corp,+1-312-256-3621,"6926 Industrial Way, London",7304,28652.37,enterprise,2024-06-25
+CUST-00012,Amina Al-Mansoor,amina.al-mansoor12@example.corp,+1-896-838-2876,"8807 Industrial Way, Singapore",6573,8410.84,enterprise,2023-06-11
+CUST-00013,Sofia Vance,sofia.vance13@synthetic-user.io,+1-712-880-3927,"8327 Industrial Way, London",5889,63133.12,vip,2024-09-15
+CUST-00014,Liam Reyes,liam.reyes14@synthetic-user.io,+1-980-265-9837,"8699 Industrial Way, New York",6310,36671.0,standard,2025-08-09
+CUST-00015,Chen Diallo,chen.diallo15@acme-global.net,+1-259-346-2290,"1413 Industrial Way, San Francisco",2133,73349.94,vip,2025-02-23
+CUST-00016,Elena Reyes,elena.reyes16@testmail.org,+1-762-269-5342,"8655 Industrial Way, Sydney",4470,69672.07,silver,2024-12-31
+CUST-00017,Amina Miller,amina.miller17@synthetic-user.io,+1-648-629-8397,"1992 Industrial Way, Berlin",4681,4848.74,standard,2024-08-25
+CUST-00018,Tariq O'Connor,tariq.o'connor18@acme-global.net,+1-207-172-1964,"3760 Industrial Way, London",1514,64479.67,standard,2024-06-10
+CUST-00019,Liam Diallo,liam.diallo19@testmail.org,+1-419-652-3167,"9365 Industrial Way, San Francisco",4981,58857.23,enterprise,2023-07-14
+CUST-00020,Marcus Kowalski,marcus.kowalski20@testmail.org,+1-562-533-7735,"7661 Industrial Way, New York",2612,4592.92,gold,2025-03-30
+CUST-00021,Marcus O'Connor,marcus.o'connor21@acme-global.net,+1-394-649-8350,"2306 Industrial Way, Sydney",4006,20926.96,silver,2025-06-14
+CUST-00022,Marcus Santos,marcus.santos22@example.corp,+1-251-767-9856,"251 Industrial Way, London",4872,12515.02,enterprise,2024-05-07
+CUST-00023,Liam Miller,liam.miller23@example.corp,+1-368-488-1035,"6406 Industrial Way, Singapore",8454,21429.43,vip,2024-11-08
+CUST-00024,Carlos Santos,carlos.santos24@acme-global.net,+1-394-403-4566,"968 Industrial Way, New York",6138,4334.54,vip,2024-05-03
+CUST-00025,Tariq Al-Mansoor,tariq.al-mansoor25@acme-global.net,+1-258-620-2312,"3054 Industrial Way, London",2113,50657.18,silver,2024-02-18
+CUST-00026,Marcus Zhao,marcus.zhao26@acme-global.net,+1-792-708-1651,"1353 Industrial Way, Sydney",9565,23761.92,gold,2023-07-29
+CUST-00027,Yuki Gomez,yuki.gomez27@synthetic-user.io,+1-444-371-7484,"2154 Industrial Way, Singapore",8491,23747.48,standard,2023-01-10
+CUST-00028,Sofia Zhao,sofia.zhao28@example.corp,+1-275-650-4492,"8298 Industrial Way, Singapore",3170,69997.79,standard,2025-06-19
+CUST-00029,Liam Wei,liam.wei29@synthetic-user.io,+1-361-548-9900,"4966 Industrial Way, New York",5905,69885.12,standard,2025-08-19
+CUST-00030,Elena Diallo,elena.diallo30@example.corp,+1-309-860-3546,"4472 Industrial Way, Singapore",4450,53835.03,silver,2024-12-04
+CUST-00031,Yuki Diallo,yuki.diallo31@testmail.org,+1-457-966-1832,"1522 Industrial Way, Sydney",5533,3354.3,gold,2025-02-28
+CUST-00032,Elena Tanaka,elena.tanaka32@synthetic-user.io,+1-365-859-8239,"9048 Industrial Way, Sydney",1158,8434.95,silver,2024-07-12
+CUST-00033,Sarah Wei,sarah.wei33@acme-global.net,+1-640-230-1685,"5060 Industrial Way, Toronto",1653,67424.4,silver,2024-11-29
+CUST-00034,Liam Tanaka,liam.tanaka34@example.corp,+1-562-898-7658,"2542 Industrial Way, Berlin",3662,73216.64,silver,2025-06-21
+CUST-00035,David Vance,david.vance35@acme-global.net,+1-954-440-7745,"4075 Industrial Way, Singapore",3608,59063.72,standard,2024-01-27
+CUST-00036,Sarah Santos,sarah.santos36@acme-global.net,+1-404-936-8541,"5738 Industrial Way, Singapore",4728,16758.12,silver,2024-02-13
+CUST-00037,Chen Diallo,chen.diallo37@example.corp,+1-991-385-6753,"8356 Industrial Way, Sydney",9785,24869.68,standard,2023-04-29
+CUST-00038,Amina Reyes,amina.reyes38@synthetic-user.io,+1-239-211-8119,"5673 Industrial Way, Toronto",8149,45485.35,vip,2023-04-29
+CUST-00039,David Zhao,david.zhao39@acme-global.net,+1-460-145-8144,"37 Industrial Way, Berlin",6967,32375.74,gold,2024-09-30
+CUST-00040,Chen Tanaka,chen.tanaka40@example.corp,+1-937-407-9308,"5077 Industrial Way, Sydney",6344,30209.91,gold,2024-07-21
+CUST-00041,Elena O'Connor,elena.o'connor41@testmail.org,+1-880-488-3851,"9334 Industrial Way, Singapore",7653,41117.89,standard,2023-11-08
+CUST-00042,Amina O'Connor,amina.o'connor42@testmail.org,+1-793-721-6279,"7628 Industrial Way, San Francisco",8244,50688.26,vip,2024-04-29
+CUST-00043,Carlos Reyes,carlos.reyes43@example.corp,+1-490-627-6491,"1540 Industrial Way, Berlin",6085,16886.82,silver,2023-05-31
+CUST-00044,Sarah Vance,sarah.vance44@acme-global.net,+1-686-725-2193,"7471 Industrial Way, Sydney",4185,53890.03,enterprise,2024-05-21
+CUST-00045,David O'Connor,david.o'connor45@acme-global.net,+1-871-804-1090,"1756 Industrial Way, Sydney",4585,13232.71,vip,2024-04-20
+CUST-00046,Sarah Al-Mansoor,sarah.al-mansoor46@acme-global.net,+1-324-567-3184,"7622 Industrial Way, Toronto",8251,45968.29,vip,2024-03-12
+CUST-00047,Tariq Santos,tariq.santos47@acme-global.net,+1-961-982-8777,"7383 Industrial Way, Singapore",5050,62997.72,gold,2025-02-23
+CUST-00048,Tariq Santos,tariq.santos48@acme-global.net,+1-481-550-2269,"4691 Industrial Way, Berlin",5451,25221.77,vip,2023-03-24
+CUST-00049,Elena Reyes,elena.reyes49@acme-global.net,+1-592-810-3503,"3515 Industrial Way, London",7797,30599.57,vip,2024-04-22
+CUST-00050,David Vance,david.vance50@acme-global.net,+1-630-498-1320,"9442 Industrial Way, Sydney",8814,491.91,gold,2023-11-02
+CUST-00051,David Miller,david.miller51@acme-global.net,+1-699-324-5471,"7150 Industrial Way, San Francisco",1475,29194.85,enterprise,2025-01-11
+CUST-00052,Elena Santos,elena.santos52@acme-global.net,+1-837-646-1441,"6465 Industrial Way, New York",2375,48224.09,silver,2025-06-06
+CUST-00053,Sofia Reyes,sofia.reyes53@example.corp,+1-466-488-6363,"3477 Industrial Way, San Francisco",6355,25345.67,enterprise,2023-10-12
+CUST-00054,David Diallo,david.diallo54@example.corp,+1-681-119-9837,"863 Industrial Way, Toronto",4673,48778.3,standard,2025-02-11
+CUST-00055,Sarah O'Connor,sarah.o'connor55@acme-global.net,+1-220-736-3496,"3918 Industrial Way, Tokyo",8758,50225.94,vip,2025-08-28
+CUST-00056,Liam Santos,liam.santos56@synthetic-user.io,+1-985-477-3749,"9936 Industrial Way, London",3683,72355.82,standard,2024-08-15
+CUST-00057,Sarah Diallo,sarah.diallo57@testmail.org,+1-606-832-4249,"1255 Industrial Way, Berlin",2669,52304.62,gold,2025-05-20
+CUST-00058,Yuki Zhao,yuki.zhao58@example.corp,+1-779-901-1672,"5698 Industrial Way, Sydney",7071,5218.31,gold,2023-01-13
+CUST-00059,David Santos,david.santos59@example.corp,+1-643-470-8532,"2516 Industrial Way, Sydney",3885,55047.96,gold,2024-09-22
+CUST-00060,Tariq Santos,tariq.santos60@testmail.org,+1-646-945-5397,"5290 Industrial Way, Berlin",2419,20955.67,enterprise,2023-09-07
+CUST-00061,Sofia Zhao,sofia.zhao61@testmail.org,+1-544-129-9098,"5335 Industrial Way, Tokyo",8988,15948.38,gold,2023-12-15
+CUST-00062,Amina Zhao,amina.zhao62@synthetic-user.io,+1-769-110-9464,"3140 Industrial Way, London",4954,54019.6,enterprise,2024-07-22
+CUST-00063,Liam Gomez,liam.gomez63@testmail.org,+1-861-828-9041,"7352 Industrial Way, New York",2524,22102.96,enterprise,2024-12-09
+CUST-00064,Liam Diallo,liam.diallo64@synthetic-user.io,+1-684-666-9698,"5642 Industrial Way, Sydney",6419,26418.2,enterprise,2023-10-05
+CUST-00065,Amina Diallo,amina.diallo65@acme-global.net,+1-323-838-4155,"5179 Industrial Way, London",9779,71318.27,silver,2023-07-16
+CUST-00066,Liam Gomez,liam.gomez66@testmail.org,+1-483-841-9595,"9787 Industrial Way, Singapore",2647,62455.5,gold,2023-08-21
+CUST-00067,Chen Reyes,chen.reyes67@synthetic-user.io,+1-214-825-9751,"2083 Industrial Way, Singapore",1745,73073.41,vip,2023-10-27
+CUST-00068,Carlos Reyes,carlos.reyes68@testmail.org,+1-305-993-1200,"9415 Industrial Way, Singapore",8690,35929.63,gold,2023-07-08
+CUST-00069,Sarah Diallo,sarah.diallo69@testmail.org,+1-316-941-2070,"6575 Industrial Way, San Francisco",2213,43297.74,standard,2023-06-05
+CUST-00070,Elena Zhao,elena.zhao70@synthetic-user.io,+1-287-354-2940,"9153 Industrial Way, Sydney",4697,58188.23,enterprise,2024-04-06
+CUST-00071,Sofia Diallo,sofia.diallo71@testmail.org,+1-512-682-1986,"9998 Industrial Way, London",4404,46932.35,gold,2024-11-07
+CUST-00072,Marcus Reyes,marcus.reyes72@acme-global.net,+1-377-665-2229,"2574 Industrial Way, New York",7693,33815.25,vip,2024-04-26
+CUST-00073,Amina Vance,amina.vance73@acme-global.net,+1-495-823-5632,"7448 Industrial Way, London",4824,69297.13,vip,2024-11-08
+CUST-00074,Liam Miller,liam.miller74@example.corp,+1-757-330-3441,"4362 Industrial Way, Tokyo",2169,4519.87,gold,2024-09-01
+CUST-00075,Carlos Zhao,carlos.zhao75@synthetic-user.io,+1-649-227-8679,"4992 Industrial Way, Sydney",5460,37560.39,enterprise,2024-03-24
+CUST-00076,Marcus Zhao,marcus.zhao76@example.corp,+1-642-852-6280,"9901 Industrial Way, Singapore",1423,6894.95,vip,2024-08-24
+CUST-00077,Sarah Tanaka,sarah.tanaka77@synthetic-user.io,+1-790-141-3870,"7718 Industrial Way, San Francisco",5557,13652.61,vip,2024-03-22
+CUST-00078,Yuki Santos,yuki.santos78@example.corp,+1-681-456-7690,"5470 Industrial Way, Toronto",2713,64337.1,gold,2024-02-26
+CUST-00079,Carlos Santos,carlos.santos79@synthetic-user.io,+1-878-510-1601,"7461 Industrial Way, London",6153,18967.29,standard,2025-09-20
+CUST-00080,David Al-Mansoor,david.al-mansoor80@example.corp,+1-873-990-9889,"7579 Industrial Way, Sydney",1888,14109.31,gold,2024-09-29
+CUST-00081,Sofia Tanaka,sofia.tanaka81@testmail.org,+1-978-152-4335,"4385 Industrial Way, Tokyo",5719,32886.8,enterprise,2023-05-05
+CUST-00082,Sarah Tanaka,sarah.tanaka82@acme-global.net,+1-926-262-6091,"9034 Industrial Way, New York",7684,7036.03,standard,2024-04-17
+CUST-00083,Marcus Tanaka,marcus.tanaka83@acme-global.net,+1-710-833-5781,"8347 Industrial Way, Singapore",7807,62612.56,enterprise,2023-09-07
+CUST-00084,Sofia Al-Mansoor,sofia.al-mansoor84@acme-global.net,+1-592-295-9327,"2246 Industrial Way, London",5526,57962.0,enterprise,2023-12-15
+CUST-00085,Tariq Diallo,tariq.diallo85@example.corp,+1-489-843-5891,"9626 Industrial Way, San Francisco",3434,33518.73,enterprise,2023-12-20
+CUST-00086,Chen Al-Mansoor,chen.al-mansoor86@testmail.org,+1-666-429-4090,"3922 Industrial Way, Sydney",4826,64208.17,enterprise,2023-02-14
+CUST-00087,Chen Gomez,chen.gomez87@testmail.org,+1-922-930-7246,"6335 Industrial Way, Tokyo",9115,72363.59,silver,2024-05-29
+CUST-00088,Emily Wei,emily.wei88@example.corp,+1-650-202-9617,"7496 Industrial Way, New York",3361,30777.9,silver,2023-03-18
+CUST-00089,Sofia Diallo,sofia.diallo89@synthetic-user.io,+1-838-809-7512,"1325 Industrial Way, Toronto",9742,28531.7,gold,2024-10-03
+CUST-00090,Carlos Santos,carlos.santos90@example.corp,+1-832-170-4846,"4718 Industrial Way, Berlin",2480,32576.16,standard,2025-02-17
+CUST-00091,Yuki Gomez,yuki.gomez91@example.corp,+1-654-270-5906,"484 Industrial Way, New York",6314,59720.95,gold,2024-01-03
+CUST-00092,Chen Miller,chen.miller92@acme-global.net,+1-450-643-7751,"9282 Industrial Way, Tokyo",3785,13171.45,vip,2025-06-10
+CUST-00093,David Zhao,david.zhao93@acme-global.net,+1-709-697-3344,"3814 Industrial Way, San Francisco",5161,34494.81,standard,2025-07-09
+CUST-00094,Sofia Diallo,sofia.diallo94@acme-global.net,+1-275-552-6661,"9636 Industrial Way, Singapore",7951,51789.0,enterprise,2025-05-15
+CUST-00095,Amina O'Connor,amina.o'connor95@testmail.org,+1-694-209-4886,"6258 Industrial Way, Toronto",5847,74452.27,gold,2023-01-23
+CUST-00096,Yuki Miller,yuki.miller96@synthetic-user.io,+1-208-679-1803,"9945 Industrial Way, San Francisco",5689,58191.79,silver,2024-09-13
+CUST-00097,Chen O'Connor,chen.o'connor97@acme-global.net,+1-835-356-3240,"1601 Industrial Way, New York",6061,59156.36,standard,2024-08-16
+CUST-00098,Chen Gomez,chen.gomez98@acme-global.net,+1-292-402-6352,"6817 Industrial Way, Tokyo",4289,9955.38,vip,2025-06-16
+CUST-00099,Chen Al-Mansoor,chen.al-mansoor99@synthetic-user.io,+1-368-363-8894,"4845 Industrial Way, Toronto",2886,35151.44,standard,2023-05-25
+CUST-00100,Liam Tanaka,liam.tanaka100@testmail.org,+1-770-474-2479,"6474 Industrial Way, New York",5332,40266.09,enterprise,2024-01-13
+CUST-00101,Yuki Gomez,yuki.gomez101@synthetic-user.io,+1-798-490-7086,"1785 Industrial Way, Berlin",8724,1925.6,vip,2023-12-02
+CUST-00102,Emily O'Connor,emily.o'connor102@example.corp,+1-850-943-8606,"4961 Industrial Way, Sydney",2911,10526.29,standard,2023-11-08
+CUST-00103,Sofia Kowalski,sofia.kowalski103@example.corp,+1-440-650-3222,"6377 Industrial Way, San Francisco",7078,50302.94,vip,2024-03-05
+CUST-00104,Emily Gomez,emily.gomez104@acme-global.net,+1-624-770-2622,"8027 Industrial Way, Sydney",5583,2502.09,gold,2023-08-11
+CUST-00105,Sofia Santos,sofia.santos105@acme-global.net,+1-571-201-7018,"8930 Industrial Way, Toronto",1992,29890.57,silver,2025-09-18
+CUST-00106,Marcus Santos,marcus.santos106@example.corp,+1-878-317-1349,"838 Industrial Way, Toronto",4990,74162.13,vip,2023-07-30
+CUST-00107,Marcus Al-Mansoor,marcus.al-mansoor107@acme-global.net,+1-800-321-4817,"5393 Industrial Way, Tokyo",1046,20831.75,silver,2023-05-14
+CUST-00108,Tariq Diallo,tariq.diallo108@acme-global.net,+1-312-776-1422,"2169 Industrial Way, New York",6869,59259.35,silver,2024-08-25
+CUST-00109,Chen Vance,chen.vance109@acme-global.net,+1-471-153-3076,"6907 Industrial Way, London",2041,35744.64,gold,2024-06-09
+CUST-00110,Emily Kowalski,emily.kowalski110@testmail.org,+1-715-326-1710,"8553 Industrial Way, Singapore",8504,48268.38,standard,2023-03-04
+CUST-00111,Sofia Miller,sofia.miller111@testmail.org,+1-902-210-9032,"7277 Industrial Way, London",2323,24192.28,silver,2023-03-09
+CUST-00112,Elena Diallo,elena.diallo112@synthetic-user.io,+1-590-711-9692,"4841 Industrial Way, San Francisco",9282,45426.74,standard,2025-03-23
+CUST-00113,Carlos Kowalski,carlos.kowalski113@acme-global.net,+1-640-562-4743,"6789 Industrial Way, Toronto",8430,29934.83,standard,2023-11-17
+CUST-00114,David Wei,david.wei114@synthetic-user.io,+1-583-256-8770,"1109 Industrial Way, London",2398,7037.6,standard,2025-02-01
+CUST-00115,Carlos Wei,carlos.wei115@acme-global.net,+1-769-161-6400,"2012 Industrial Way, Sydney",6793,65526.87,enterprise,2025-06-07
+CUST-00116,Carlos Vance,carlos.vance116@synthetic-user.io,+1-814-419-6761,"1707 Industrial Way, Berlin",3535,49272.39,silver,2025-05-17
+CUST-00117,Marcus Wei,marcus.wei117@synthetic-user.io,+1-317-880-5564,"9416 Industrial Way, Berlin",8030,63394.38,vip,2024-09-20
+CUST-00118,Yuki Tanaka,yuki.tanaka118@example.corp,+1-823-773-5381,"484 Industrial Way, Tokyo",5477,52717.27,gold,2025-08-01
+CUST-00119,Chen Wei,chen.wei119@example.corp,+1-385-990-3347,"9288 Industrial Way, Sydney",2140,10683.51,standard,2023-04-04
+CUST-00120,Carlos Al-Mansoor,carlos.al-mansoor120@acme-global.net,+1-585-529-8432,"5595 Industrial Way, Tokyo",7062,23407.22,gold,2025-03-06
+CUST-00121,Emily Zhao,emily.zhao121@example.corp,+1-253-259-3579,"825 Industrial Way, London",5458,33261.32,enterprise,2024-05-12
+CUST-00122,Emily Santos,emily.santos122@testmail.org,+1-479-320-9394,"1874 Industrial Way, Toronto",8043,8361.19,vip,2024-05-13
+CUST-00123,Tariq Tanaka,tariq.tanaka123@synthetic-user.io,+1-246-325-7475,"9829 Industrial Way, New York",1125,15371.51,silver,2025-02-24
+CUST-00124,Elena Diallo,elena.diallo124@synthetic-user.io,+1-535-222-1126,"8159 Industrial Way, Sydney",3878,9732.47,vip,2024-12-21
+CUST-00125,Liam Al-Mansoor,liam.al-mansoor125@synthetic-user.io,+1-273-506-1693,"7157 Industrial Way, New York",8532,69091.12,gold,2024-08-12
+CUST-00126,David Zhao,david.zhao126@testmail.org,+1-926-755-7843,"4753 Industrial Way, London",7636,1613.2,gold,2023-06-25
+CUST-00127,Emily Santos,emily.santos127@synthetic-user.io,+1-290-547-2734,"3996 Industrial Way, Sydney",7560,39320.99,enterprise,2025-06-10
+CUST-00128,Amina Gomez,amina.gomez128@synthetic-user.io,+1-426-441-3754,"1261 Industrial Way, London",9693,38270.91,gold,2023-12-26
+CUST-00129,Carlos Tanaka,carlos.tanaka129@acme-global.net,+1-441-205-3399,"4203 Industrial Way, Berlin",3842,45199.8,standard,2023-07-01
+CUST-00130,Yuki Santos,yuki.santos130@testmail.org,+1-972-677-8354,"9258 Industrial Way, Toronto",6179,11364.26,standard,2024-04-25
+CUST-00131,Sofia Tanaka,sofia.tanaka131@synthetic-user.io,+1-481-705-1920,"5776 Industrial Way, London",6085,34657.6,standard,2023-02-28
+CUST-00132,Chen Diallo,chen.diallo132@example.corp,+1-860-984-2479,"9743 Industrial Way, Sydney",8581,43545.69,standard,2024-04-05
+CUST-00133,Emily Tanaka,emily.tanaka133@acme-global.net,+1-529-719-8792,"8224 Industrial Way, Tokyo",2013,33816.71,gold,2025-01-01
+CUST-00134,Marcus Al-Mansoor,marcus.al-mansoor134@acme-global.net,+1-240-353-8172,"7209 Industrial Way, Tokyo",6962,27995.26,gold,2024-02-01
+CUST-00135,David Wei,david.wei135@example.corp,+1-846-762-6482,"1089 Industrial Way, Toronto",2548,41869.34,enterprise,2023-10-18
+CUST-00136,Amina Gomez,amina.gomez136@acme-global.net,+1-541-183-3317,"5741 Industrial Way, Singapore",7421,9714.93,standard,2023-11-14
+CUST-00137,Tariq Miller,tariq.miller137@synthetic-user.io,+1-330-786-9624,"1541 Industrial Way, Sydney",9331,27169.02,gold,2023-11-13
+CUST-00138,Elena O'Connor,elena.o'connor138@synthetic-user.io,+1-984-597-4145,"3721 Industrial Way, Tokyo",3538,5833.52,standard,2024-06-03
+CUST-00139,Tariq Gomez,tariq.gomez139@example.corp,+1-877-444-3147,"9795 Industrial Way, Sydney",3527,12210.43,vip,2025-04-08
+CUST-00140,Elena Gomez,elena.gomez140@testmail.org,+1-244-520-6968,"3901 Industrial Way, San Francisco",5668,56441.72,enterprise,2023-08-28
+CUST-00141,Tariq O'Connor,tariq.o'connor141@synthetic-user.io,+1-680-955-4178,"6036 Industrial Way, San Francisco",8564,57719.42,enterprise,2024-05-29
+CUST-00142,Tariq Miller,tariq.miller142@acme-global.net,+1-404-920-3267,"4106 Industrial Way, New York",8873,65565.07,vip,2025-08-14
+CUST-00143,Marcus Gomez,marcus.gomez143@example.corp,+1-491-185-3626,"4479 Industrial Way, San Francisco",9410,11093.78,enterprise,2023-04-04
+CUST-00144,Liam Santos,liam.santos144@synthetic-user.io,+1-227-524-1872,"6505 Industrial Way, Toronto",4862,28993.15,standard,2024-01-19
+CUST-00145,Liam Vance,liam.vance145@synthetic-user.io,+1-301-959-6493,"2402 Industrial Way, Tokyo",1627,21551.61,enterprise,2024-12-13
+CUST-00146,Elena Gomez,elena.gomez146@testmail.org,+1-659-730-1086,"1308 Industrial Way, New York",5193,16213.32,silver,2024-07-15
+CUST-00147,Carlos Zhao,carlos.zhao147@testmail.org,+1-313-894-5720,"3903 Industrial Way, Singapore",2996,3628.82,enterprise,2024-10-16
+CUST-00148,Emily Santos,emily.santos148@example.corp,+1-313-956-9189,"9786 Industrial Way, New York",9443,43149.81,silver,2023-10-26
+CUST-00149,David Vance,david.vance149@synthetic-user.io,+1-446-684-7825,"3078 Industrial Way, London",9576,73100.35,standard,2025-09-03
+CUST-00150,Tariq Al-Mansoor,tariq.al-mansoor150@example.corp,+1-599-994-8702,"723 Industrial Way, Sydney",7116,19061.09,standard,2024-01-01
+CUST-00151,Marcus Wei,marcus.wei151@acme-global.net,+1-950-772-2698,"9543 Industrial Way, Toronto",3185,3372.96,vip,2023-12-13
+CUST-00152,Yuki Reyes,yuki.reyes152@testmail.org,+1-912-590-3986,"2219 Industrial Way, London",8498,2821.94,silver,2023-02-14
+CUST-00153,Liam Vance,liam.vance153@synthetic-user.io,+1-517-627-7524,"8907 Industrial Way, San Francisco",5150,2794.73,silver,2023-10-20
+CUST-00154,Chen Vance,chen.vance154@synthetic-user.io,+1-479-227-7029,"7169 Industrial Way, Sydney",8204,67103.08,enterprise,2023-12-14
+CUST-00155,Elena Santos,elena.santos155@testmail.org,+1-576-916-9507,"4379 Industrial Way, London",7955,5965.58,vip,2025-04-22
+CUST-00156,Elena Al-Mansoor,elena.al-mansoor156@synthetic-user.io,+1-528-205-2311,"5382 Industrial Way, Singapore",6021,33471.39,enterprise,2023-06-20
+CUST-00157,Carlos Santos,carlos.santos157@synthetic-user.io,+1-657-143-6776,"7136 Industrial Way, Singapore",1939,5674.34,enterprise,2024-01-08
+CUST-00158,Tariq Gomez,tariq.gomez158@acme-global.net,+1-231-246-8179,"580 Industrial Way, Tokyo",2101,17737.85,gold,2024-01-06
+CUST-00159,David Zhao,david.zhao159@example.corp,+1-819-257-8371,"6087 Industrial Way, Toronto",8273,57243.18,vip,2023-05-21
+CUST-00160,Tariq Wei,tariq.wei160@testmail.org,+1-521-765-5566,"4099 Industrial Way, London",1424,55188.83,enterprise,2024-06-14
+CUST-00161,David Al-Mansoor,david.al-mansoor161@example.corp,+1-468-893-5264,"7321 Industrial Way, Berlin",5678,52063.85,enterprise,2023-07-24
+CUST-00162,Marcus Reyes,marcus.reyes162@example.corp,+1-662-276-8292,"1448 Industrial Way, Toronto",6692,53230.06,vip,2024-07-09
+CUST-00163,Amina Diallo,amina.diallo163@acme-global.net,+1-928-826-3852,"5932 Industrial Way, Berlin",2988,73885.68,silver,2023-08-31
+CUST-00164,Sofia Vance,sofia.vance164@synthetic-user.io,+1-767-686-7044,"7667 Industrial Way, Tokyo",2412,4977.82,enterprise,2025-01-04
+CUST-00165,Carlos Santos,carlos.santos165@testmail.org,+1-987-519-2208,"2063 Industrial Way, Toronto",2215,33775.59,vip,2023-12-19
+CUST-00166,Elena Al-Mansoor,elena.al-mansoor166@acme-global.net,+1-986-232-8088,"8248 Industrial Way, New York",3034,38881.75,gold,2023-06-18
+CUST-00167,Elena Wei,elena.wei167@acme-global.net,+1-554-631-5653,"1302 Industrial Way, Singapore",4216,47647.53,vip,2023-10-09
+CUST-00168,Elena Tanaka,elena.tanaka168@synthetic-user.io,+1-829-646-2530,"8244 Industrial Way, Tokyo",3526,12881.49,vip,2025-01-07
+CUST-00169,Emily Wei,emily.wei169@example.corp,+1-229-183-1744,"9459 Industrial Way, Singapore",4453,57533.58,enterprise,2024-09-24
+CUST-00170,Yuki Vance,yuki.vance170@testmail.org,+1-842-658-5745,"4959 Industrial Way, San Francisco",5012,60361.38,enterprise,2023-11-01
+CUST-00171,Sofia Kowalski,sofia.kowalski171@example.corp,+1-361-550-7809,"7943 Industrial Way, San Francisco",4342,25547.43,silver,2023-11-17
+CUST-00172,Carlos Wei,carlos.wei172@synthetic-user.io,+1-608-233-7070,"8447 Industrial Way, London",6228,18168.25,standard,2023-10-01
+CUST-00173,Sofia O'Connor,sofia.o'connor173@acme-global.net,+1-299-151-5754,"6303 Industrial Way, Sydney",5067,72203.3,silver,2025-04-13
+CUST-00174,Chen Zhao,chen.zhao174@synthetic-user.io,+1-394-881-3610,"8173 Industrial Way, San Francisco",9171,65936.72,enterprise,2023-01-24
+CUST-00175,Marcus Miller,marcus.miller175@testmail.org,+1-446-320-6781,"807 Industrial Way, New York",5609,37142.32,enterprise,2023-10-20
+CUST-00176,Tariq Vance,tariq.vance176@example.corp,+1-641-237-5333,"6002 Industrial Way, Sydney",6995,3440.92,standard,2024-08-06
+CUST-00177,Tariq O'Connor,tariq.o'connor177@synthetic-user.io,+1-766-395-2204,"6339 Industrial Way, San Francisco",5582,61907.08,vip,2024-11-27
+CUST-00178,Emily Kowalski,emily.kowalski178@acme-global.net,+1-299-503-7114,"5565 Industrial Way, Toronto",3363,14969.39,vip,2024-02-16
+CUST-00179,Tariq Vance,tariq.vance179@example.corp,+1-239-240-6456,"7771 Industrial Way, San Francisco",3440,45489.23,vip,2023-05-24
+CUST-00180,Chen Zhao,chen.zhao180@synthetic-user.io,+1-366-502-5902,"9737 Industrial Way, Toronto",9311,62130.29,vip,2024-05-16
+CUST-00181,Carlos Zhao,carlos.zhao181@synthetic-user.io,+1-686-935-1272,"6045 Industrial Way, Toronto",2795,73493.36,vip,2023-11-12
+CUST-00182,Carlos Gomez,carlos.gomez182@example.corp,+1-811-585-5350,"9487 Industrial Way, Berlin",1841,43785.07,silver,2024-06-20
+CUST-00183,Yuki Gomez,yuki.gomez183@testmail.org,+1-351-941-4968,"527 Industrial Way, London",4125,1469.36,gold,2024-03-04
+CUST-00184,Elena Miller,elena.miller184@acme-global.net,+1-620-613-8726,"1030 Industrial Way, Tokyo",9498,15590.26,gold,2024-11-09
+CUST-00185,Sofia Al-Mansoor,sofia.al-mansoor185@testmail.org,+1-521-277-8531,"8744 Industrial Way, Toronto",9950,26603.81,gold,2024-09-16
+CUST-00186,Sofia O'Connor,sofia.o'connor186@acme-global.net,+1-485-671-5890,"3694 Industrial Way, Singapore",5735,52882.33,enterprise,2023-11-21
+CUST-00187,Sofia Wei,sofia.wei187@synthetic-user.io,+1-494-224-9899,"6230 Industrial Way, Sydney",6654,71597.93,silver,2023-10-25
+CUST-00188,Sarah Diallo,sarah.diallo188@example.corp,+1-554-552-5201,"7859 Industrial Way, Berlin",4310,62104.98,gold,2025-08-13
+CUST-00189,Tariq Gomez,tariq.gomez189@synthetic-user.io,+1-340-211-4920,"3982 Industrial Way, New York",9700,16964.09,silver,2023-02-23
+CUST-00190,Marcus Miller,marcus.miller190@synthetic-user.io,+1-934-583-2647,"2262 Industrial Way, New York",3587,30547.71,enterprise,2024-05-03
+CUST-00191,Yuki O'Connor,yuki.o'connor191@synthetic-user.io,+1-528-392-1969,"1475 Industrial Way, Berlin",9767,55414.55,standard,2025-07-24
+CUST-00192,Elena Miller,elena.miller192@acme-global.net,+1-237-956-7504,"8126 Industrial Way, Tokyo",5742,65761.9,standard,2023-11-02
+CUST-00193,Emily Zhao,emily.zhao193@example.corp,+1-543-391-8444,"8911 Industrial Way, San Francisco",3198,63836.93,enterprise,2023-10-07
+CUST-00194,Liam Kowalski,liam.kowalski194@synthetic-user.io,+1-366-848-8518,"4225 Industrial Way, Tokyo",1230,55259.51,gold,2024-08-04
+CUST-00195,Yuki O'Connor,yuki.o'connor195@acme-global.net,+1-825-976-7643,"7017 Industrial Way, Toronto",2421,30092.45,standard,2023-07-09
+CUST-00196,Elena Santos,elena.santos196@synthetic-user.io,+1-454-106-5272,"6294 Industrial Way, Berlin",8319,56544.06,gold,2023-11-06
+CUST-00197,Emily Gomez,emily.gomez197@example.corp,+1-467-769-6890,"3881 Industrial Way, New York",2936,34931.35,silver,2024-02-20
+CUST-00198,Yuki Al-Mansoor,yuki.al-mansoor198@synthetic-user.io,+1-906-220-5833,"6031 Industrial Way, Berlin",4590,71804.17,enterprise,2023-06-06
+CUST-00199,Sofia Gomez,sofia.gomez199@synthetic-user.io,+1-625-818-9998,"7724 Industrial Way, Berlin",5054,51041.63,vip,2025-06-13
+CUST-00200,Marcus Al-Mansoor,marcus.al-mansoor200@testmail.org,+1-740-820-6927,"1289 Industrial Way, London",2011,62166.62,vip,2023-07-27
+CUST-00201,Emily Al-Mansoor,emily.al-mansoor201@acme-global.net,+1-368-435-9525,"7249 Industrial Way, London",4365,53783.0,enterprise,2023-04-04
+CUST-00202,Tariq Santos,tariq.santos202@example.corp,+1-664-235-9409,"6816 Industrial Way, San Francisco",1945,41931.85,gold,2025-01-10
+CUST-00203,Sarah Miller,sarah.miller203@synthetic-user.io,+1-203-863-4570,"9485 Industrial Way, London",1742,31806.12,standard,2024-07-08
+CUST-00204,Sarah Kowalski,sarah.kowalski204@testmail.org,+1-232-393-7698,"2958 Industrial Way, Tokyo",7887,28115.85,enterprise,2024-04-04
+CUST-00205,David Miller,david.miller205@example.corp,+1-899-777-9835,"2188 Industrial Way, Toronto",2943,13426.6,vip,2024-02-07
+CUST-00206,Tariq Reyes,tariq.reyes206@acme-global.net,+1-203-874-1372,"4898 Industrial Way, San Francisco",9920,31838.4,enterprise,2025-04-23
+CUST-00207,Liam O'Connor,liam.o'connor207@testmail.org,+1-554-258-5516,"3098 Industrial Way, London",1527,60720.39,enterprise,2024-09-21
+CUST-00208,Sarah O'Connor,sarah.o'connor208@acme-global.net,+1-268-203-1550,"7324 Industrial Way, New York",5009,55553.55,enterprise,2024-03-25
+CUST-00209,Liam Al-Mansoor,liam.al-mansoor209@acme-global.net,+1-972-984-1924,"2305 Industrial Way, Singapore",4836,61193.18,vip,2023-11-23
+CUST-00210,Emily Zhao,emily.zhao210@synthetic-user.io,+1-442-409-3347,"8550 Industrial Way, Berlin",7775,22572.55,standard,2024-07-24
+CUST-00211,Emily Gomez,emily.gomez211@acme-global.net,+1-841-795-7999,"9117 Industrial Way, San Francisco",1768,72923.15,enterprise,2025-03-15
+CUST-00212,Tariq Wei,tariq.wei212@testmail.org,+1-618-252-5913,"6177 Industrial Way, Tokyo",9813,35540.24,silver,2023-11-04
+CUST-00213,Carlos Reyes,carlos.reyes213@testmail.org,+1-259-675-7761,"6834 Industrial Way, Tokyo",7363,18252.25,silver,2023-12-05
+CUST-00214,Yuki Kowalski,yuki.kowalski214@testmail.org,+1-579-194-9775,"3130 Industrial Way, New York",5398,28318.74,vip,2024-09-09
+CUST-00215,Sarah Kowalski,sarah.kowalski215@acme-global.net,+1-979-701-4555,"7864 Industrial Way, Berlin",6455,22773.94,standard,2023-08-05
+CUST-00216,Liam Gomez,liam.gomez216@example.corp,+1-964-872-8846,"3984 Industrial Way, Berlin",7498,68638.73,vip,2023-11-26
+CUST-00217,Amina Miller,amina.miller217@testmail.org,+1-746-764-6886,"5063 Industrial Way, Singapore",6892,38485.6,enterprise,2024-04-22
+CUST-00218,Marcus Gomez,marcus.gomez218@testmail.org,+1-979-959-6246,"3338 Industrial Way, Toronto",6126,31074.07,vip,2025-06-03
+CUST-00219,Liam Gomez,liam.gomez219@acme-global.net,+1-216-367-7841,"4846 Industrial Way, Tokyo",4214,24773.4,enterprise,2024-08-06
+CUST-00220,Liam Santos,liam.santos220@synthetic-user.io,+1-463-881-9005,"8047 Industrial Way, San Francisco",3756,54971.28,gold,2023-06-23
+CUST-00221,Elena Gomez,elena.gomez221@testmail.org,+1-388-655-1962,"8594 Industrial Way, New York",2217,70891.85,standard,2025-02-21
+CUST-00222,Sarah Miller,sarah.miller222@acme-global.net,+1-845-336-2113,"2484 Industrial Way, New York",4583,37954.68,gold,2023-03-03
+CUST-00223,Emily Tanaka,emily.tanaka223@testmail.org,+1-875-599-1257,"118 Industrial Way, Sydney",1194,1303.62,gold,2024-07-02
+CUST-00224,Amina Vance,amina.vance224@testmail.org,+1-383-209-2578,"8601 Industrial Way, Tokyo",4948,14435.31,vip,2023-09-16
+CUST-00225,Chen Diallo,chen.diallo225@testmail.org,+1-280-482-7652,"7530 Industrial Way, Berlin",4700,22533.1,standard,2024-10-31
+CUST-00226,Yuki Vance,yuki.vance226@example.corp,+1-615-488-7179,"9065 Industrial Way, San Francisco",1919,47774.27,silver,2023-03-26
+CUST-00227,Sofia Miller,sofia.miller227@synthetic-user.io,+1-779-978-2562,"8663 Industrial Way, New York",4764,15895.71,vip,2024-05-01
+CUST-00228,Amina Vance,amina.vance228@example.corp,+1-900-387-9897,"9242 Industrial Way, New York",3938,69661.04,gold,2023-01-17
+CUST-00229,Liam Zhao,liam.zhao229@acme-global.net,+1-970-940-7525,"1270 Industrial Way, Singapore",3661,42318.67,vip,2025-05-04
+CUST-00230,David Tanaka,david.tanaka230@synthetic-user.io,+1-593-873-3292,"1294 Industrial Way, Toronto",1879,7371.55,silver,2025-05-08
+CUST-00231,Marcus Wei,marcus.wei231@testmail.org,+1-992-434-1485,"4488 Industrial Way, San Francisco",9038,17148.97,vip,2025-08-21
+CUST-00232,David Miller,david.miller232@acme-global.net,+1-896-699-7227,"1414 Industrial Way, Singapore",5037,53497.48,standard,2023-10-02
+CUST-00233,Elena Miller,elena.miller233@acme-global.net,+1-957-498-6188,"5919 Industrial Way, London",2499,439.38,gold,2024-03-31
+CUST-00234,Chen Diallo,chen.diallo234@example.corp,+1-335-189-4070,"7071 Industrial Way, San Francisco",9395,30632.91,standard,2023-04-02
+CUST-00235,Chen Al-Mansoor,chen.al-mansoor235@example.corp,+1-811-712-6315,"6321 Industrial Way, New York",5781,31065.06,standard,2025-01-12
+CUST-00236,Tariq O'Connor,tariq.o'connor236@acme-global.net,+1-901-489-3777,"2284 Industrial Way, Singapore",5933,20167.09,silver,2023-03-06
+CUST-00237,Elena Miller,elena.miller237@synthetic-user.io,+1-631-406-8933,"1270 Industrial Way, Toronto",5123,70819.46,enterprise,2024-08-31
+CUST-00238,Emily O'Connor,emily.o'connor238@testmail.org,+1-309-238-5991,"120 Industrial Way, Sydney",6443,63128.92,enterprise,2025-04-03
+CUST-00239,Chen Santos,chen.santos239@synthetic-user.io,+1-640-935-3230,"4932 Industrial Way, Toronto",4290,35951.78,silver,2025-09-14
+CUST-00240,David Wei,david.wei240@synthetic-user.io,+1-952-811-9044,"9445 Industrial Way, Berlin",6339,28235.34,enterprise,2024-01-09
+CUST-00241,Marcus Zhao,marcus.zhao241@acme-global.net,+1-806-658-3947,"9022 Industrial Way, New York",8563,70725.97,silver,2024-03-24
+CUST-00242,Amina Gomez,amina.gomez242@example.corp,+1-618-789-9180,"2290 Industrial Way, Singapore",4965,18988.49,silver,2025-01-02
+CUST-00243,David Miller,david.miller243@example.corp,+1-659-712-8851,"9549 Industrial Way, Sydney",9755,38020.62,enterprise,2024-07-10
+CUST-00244,Sarah Wei,sarah.wei244@example.corp,+1-311-887-5067,"5826 Industrial Way, Tokyo",1725,42263.36,enterprise,2025-09-17
+CUST-00245,Chen Miller,chen.miller245@example.corp,+1-210-200-5239,"3647 Industrial Way, Berlin",8303,28090.26,enterprise,2025-03-01
+CUST-00246,Yuki Zhao,yuki.zhao246@acme-global.net,+1-553-125-8909,"1722 Industrial Way, Singapore",7815,69045.04,standard,2023-04-29
+CUST-00247,Carlos Reyes,carlos.reyes247@synthetic-user.io,+1-519-451-8460,"3399 Industrial Way, San Francisco",6706,35738.38,enterprise,2025-01-09
+CUST-00248,Carlos Santos,carlos.santos248@synthetic-user.io,+1-268-407-1732,"1895 Industrial Way, New York",6620,48615.35,silver,2025-08-10
+CUST-00249,Carlos O'Connor,carlos.o'connor249@acme-global.net,+1-765-263-6422,"9182 Industrial Way, Sydney",8570,17427.57,enterprise,2024-10-06
+CUST-00250,Elena Reyes,elena.reyes250@testmail.org,+1-605-129-4232,"7375 Industrial Way, Sydney",7370,383.53,silver,2023-07-30
+CUST-00251,Amina Gomez,amina.gomez251@example.corp,+1-791-204-9796,"3073 Industrial Way, Toronto",6340,14820.72,standard,2023-09-26
+CUST-00252,Yuki Santos,yuki.santos252@synthetic-user.io,+1-811-497-7431,"9627 Industrial Way, London",6700,26431.27,enterprise,2024-09-24
+CUST-00253,Elena Tanaka,elena.tanaka253@synthetic-user.io,+1-829-704-2388,"2204 Industrial Way, Toronto",2931,17931.03,standard,2023-07-07
+CUST-00254,Chen Gomez,chen.gomez254@acme-global.net,+1-723-497-7852,"9781 Industrial Way, Tokyo",7286,31756.76,enterprise,2024-10-12
+CUST-00255,Tariq Gomez,tariq.gomez255@acme-global.net,+1-768-270-9022,"4742 Industrial Way, Tokyo",4065,23627.77,enterprise,2024-09-26
+CUST-00256,Sarah Wei,sarah.wei256@example.corp,+1-696-239-4196,"6300 Industrial Way, San Francisco",7703,51368.02,enterprise,2024-12-28
+CUST-00257,Sofia Santos,sofia.santos257@acme-global.net,+1-284-678-1505,"3623 Industrial Way, Singapore",1535,20650.23,vip,2023-10-23
+CUST-00258,Elena Santos,elena.santos258@testmail.org,+1-762-623-2854,"9393 Industrial Way, London",5389,58144.72,gold,2024-07-09
+CUST-00259,Sarah Gomez,sarah.gomez259@testmail.org,+1-759-323-7965,"1687 Industrial Way, Berlin",5877,65617.0,standard,2024-04-05
+CUST-00260,Amina Wei,amina.wei260@example.corp,+1-649-986-2923,"3892 Industrial Way, Berlin",6744,64585.6,vip,2024-10-09
+CUST-00261,David Reyes,david.reyes261@acme-global.net,+1-411-933-4390,"982 Industrial Way, Toronto",9720,21117.32,vip,2023-06-22
+CUST-00262,Chen Gomez,chen.gomez262@synthetic-user.io,+1-496-686-5380,"8438 Industrial Way, London",3221,72209.76,enterprise,2025-07-29
+CUST-00263,Sarah Diallo,sarah.diallo263@acme-global.net,+1-918-986-3174,"4100 Industrial Way, Tokyo",6277,62144.71,enterprise,2024-05-16
+CUST-00264,Elena Zhao,elena.zhao264@synthetic-user.io,+1-842-524-7146,"7415 Industrial Way, London",2525,30243.67,gold,2024-12-12
+CUST-00265,Chen Santos,chen.santos265@testmail.org,+1-535-695-1040,"1536 Industrial Way, San Francisco",6869,63765.46,vip,2024-02-12
+CUST-00266,Liam Miller,liam.miller266@acme-global.net,+1-706-374-6289,"4656 Industrial Way, Toronto",9967,43366.13,vip,2025-05-22
+CUST-00267,Sofia Wei,sofia.wei267@example.corp,+1-247-201-8529,"276 Industrial Way, London",3588,33124.38,standard,2025-09-08
+CUST-00268,David O'Connor,david.o'connor268@acme-global.net,+1-865-409-3604,"4499 Industrial Way, London",6905,18816.68,gold,2024-11-11
+CUST-00269,Yuki Reyes,yuki.reyes269@example.corp,+1-605-740-6005,"3846 Industrial Way, Sydney",2494,52792.17,standard,2023-08-07
+CUST-00270,Sofia Kowalski,sofia.kowalski270@acme-global.net,+1-807-331-9510,"7301 Industrial Way, New York",1132,52185.0,standard,2025-05-30
+CUST-00271,David Gomez,david.gomez271@acme-global.net,+1-689-172-4751,"6286 Industrial Way, London",2678,7784.95,gold,2025-06-21
+CUST-00272,Amina Reyes,amina.reyes272@testmail.org,+1-992-932-3181,"2350 Industrial Way, London",9691,42268.68,vip,2024-10-27
+CUST-00273,Elena Santos,elena.santos273@synthetic-user.io,+1-939-318-3480,"6755 Industrial Way, San Francisco",4559,6547.27,standard,2023-05-24
+CUST-00274,Marcus Zhao,marcus.zhao274@testmail.org,+1-559-539-6152,"2300 Industrial Way, Berlin",5537,48364.31,silver,2024-07-20
+CUST-00275,Emily Zhao,emily.zhao275@synthetic-user.io,+1-997-807-1439,"4952 Industrial Way, Berlin",9482,45539.17,silver,2025-02-04
+CUST-00276,David Diallo,david.diallo276@example.corp,+1-445-606-7322,"1857 Industrial Way, Berlin",9185,47874.27,standard,2024-06-24
+CUST-00277,Sarah Wei,sarah.wei277@synthetic-user.io,+1-335-496-7895,"5996 Industrial Way, Tokyo",8717,71586.25,standard,2023-01-18
+CUST-00278,Emily Kowalski,emily.kowalski278@example.corp,+1-468-320-1652,"1000 Industrial Way, Sydney",9300,21522.26,vip,2025-02-24
+CUST-00279,David Miller,david.miller279@testmail.org,+1-284-755-9791,"8818 Industrial Way, Tokyo",5546,6315.6,standard,2024-06-07
+CUST-00280,Liam Reyes,liam.reyes280@synthetic-user.io,+1-600-700-2083,"5091 Industrial Way, Sydney",4909,4390.05,standard,2025-08-04
+CUST-00281,David Kowalski,david.kowalski281@testmail.org,+1-826-723-1901,"5077 Industrial Way, Tokyo",2956,999.24,silver,2024-12-19
+CUST-00282,Sarah Reyes,sarah.reyes282@testmail.org,+1-555-635-9474,"4257 Industrial Way, Tokyo",7092,9563.45,gold,2025-01-20
+CUST-00283,Marcus Vance,marcus.vance283@synthetic-user.io,+1-639-378-9582,"1056 Industrial Way, Singapore",2262,37236.26,vip,2024-01-04
+CUST-00284,Sarah Santos,sarah.santos284@acme-global.net,+1-576-261-5179,"1695 Industrial Way, London",4742,55571.46,standard,2023-02-15
+CUST-00285,Sarah O'Connor,sarah.o'connor285@example.corp,+1-683-472-7274,"2468 Industrial Way, Tokyo",1579,41487.22,enterprise,2023-08-18
+CUST-00286,Chen O'Connor,chen.o'connor286@testmail.org,+1-937-427-5444,"1286 Industrial Way, Toronto",2956,37677.97,standard,2023-07-03
+CUST-00287,Liam Al-Mansoor,liam.al-mansoor287@example.corp,+1-610-170-8620,"4635 Industrial Way, Singapore",6362,6524.59,enterprise,2023-01-09
+CUST-00288,Chen O'Connor,chen.o'connor288@synthetic-user.io,+1-777-903-5979,"3984 Industrial Way, San Francisco",7033,44397.24,enterprise,2025-03-02
+CUST-00289,Liam Gomez,liam.gomez289@acme-global.net,+1-354-106-7718,"401 Industrial Way, Berlin",9872,26014.46,standard,2025-08-31
+CUST-00290,Chen Vance,chen.vance290@testmail.org,+1-955-844-6038,"1713 Industrial Way, Berlin",9680,73734.52,enterprise,2024-05-18
+CUST-00291,Sarah Reyes,sarah.reyes291@synthetic-user.io,+1-295-144-4792,"8525 Industrial Way, Sydney",7102,34411.43,standard,2024-08-17
+CUST-00292,Marcus Al-Mansoor,marcus.al-mansoor292@acme-global.net,+1-852-939-7461,"1236 Industrial Way, New York",8126,49700.17,silver,2023-08-31
+CUST-00293,Amina Diallo,amina.diallo293@synthetic-user.io,+1-602-817-6345,"5221 Industrial Way, San Francisco",5455,17559.16,silver,2023-05-20
+CUST-00294,Emily Kowalski,emily.kowalski294@acme-global.net,+1-308-268-8365,"7645 Industrial Way, Toronto",7660,9099.22,gold,2025-09-14
+CUST-00295,Liam Santos,liam.santos295@synthetic-user.io,+1-674-371-2964,"1491 Industrial Way, Tokyo",5984,61987.68,vip,2023-02-11
+CUST-00296,Liam Wei,liam.wei296@acme-global.net,+1-293-828-5066,"5838 Industrial Way, Sydney",9412,3718.85,gold,2023-09-24
+CUST-00297,Elena Vance,elena.vance297@testmail.org,+1-663-669-5093,"1561 Industrial Way, San Francisco",2669,60302.06,silver,2023-05-05
+CUST-00298,Sarah Vance,sarah.vance298@acme-global.net,+1-333-302-7563,"6108 Industrial Way, London",5240,68811.27,standard,2023-01-23
+CUST-00299,Marcus O'Connor,marcus.o'connor299@testmail.org,+1-331-194-6432,"2017 Industrial Way, New York",8552,3845.3,vip,2024-03-19
+CUST-00300,Carlos Miller,carlos.miller300@testmail.org,+1-230-491-7990,"2841 Industrial Way, Toronto",4517,68127.4,gold,2023-10-14
+CUST-00301,Sofia Reyes,sofia.reyes301@example.corp,+1-828-734-5026,"4845 Industrial Way, San Francisco",7750,66214.25,enterprise,2023-03-04
+CUST-00302,Marcus Diallo,marcus.diallo302@testmail.org,+1-340-529-4267,"8624 Industrial Way, Berlin",9907,59623.73,enterprise,2025-03-11
+CUST-00303,Carlos Wei,carlos.wei303@testmail.org,+1-757-900-8940,"5646 Industrial Way, Toronto",7363,20319.15,standard,2023-11-23
+CUST-00304,Emily O'Connor,emily.o'connor304@example.corp,+1-997-387-1959,"7738 Industrial Way, Toronto",4813,73049.79,standard,2023-09-11
+CUST-00305,Yuki O'Connor,yuki.o'connor305@synthetic-user.io,+1-746-935-1916,"3604 Industrial Way, Sydney",6813,70143.69,silver,2023-06-30
+CUST-00306,Liam Zhao,liam.zhao306@synthetic-user.io,+1-955-814-6878,"9702 Industrial Way, New York",6761,71069.53,vip,2023-05-26
+CUST-00307,Emily O'Connor,emily.o'connor307@testmail.org,+1-755-416-3876,"8045 Industrial Way, New York",2478,4259.79,vip,2023-08-13
+CUST-00308,Sarah Al-Mansoor,sarah.al-mansoor308@testmail.org,+1-200-439-4300,"2147 Industrial Way, Toronto",3907,68912.62,gold,2023-03-02
+CUST-00309,Sarah Reyes,sarah.reyes309@acme-global.net,+1-992-213-9622,"5988 Industrial Way, London",7120,52855.12,enterprise,2024-08-23
+CUST-00310,Marcus Wei,marcus.wei310@synthetic-user.io,+1-530-239-3580,"7167 Industrial Way, San Francisco",6198,13106.49,vip,2024-12-11
+CUST-00311,Emily Wei,emily.wei311@acme-global.net,+1-881-703-3872,"6209 Industrial Way, Singapore",5825,9594.76,standard,2025-08-29
+CUST-00312,Carlos Zhao,carlos.zhao312@testmail.org,+1-989-681-1530,"2993 Industrial Way, Toronto",4619,47991.53,standard,2025-08-17
+CUST-00313,Sofia Reyes,sofia.reyes313@synthetic-user.io,+1-963-179-4899,"5692 Industrial Way, Toronto",3750,47732.2,standard,2025-04-21
+CUST-00314,Carlos Tanaka,carlos.tanaka314@synthetic-user.io,+1-657-111-5345,"3445 Industrial Way, Berlin",2110,26318.56,standard,2025-01-07
+CUST-00315,Sarah Vance,sarah.vance315@testmail.org,+1-648-850-7875,"2735 Industrial Way, Sydney",9078,66138.71,gold,2024-07-13
+CUST-00316,David Kowalski,david.kowalski316@testmail.org,+1-791-766-4695,"2674 Industrial Way, San Francisco",2207,59949.63,standard,2023-10-29
+CUST-00317,Sarah Wei,sarah.wei317@synthetic-user.io,+1-307-175-6600,"2797 Industrial Way, Sydney",3636,54912.28,vip,2025-08-22
+CUST-00318,Marcus Wei,marcus.wei318@testmail.org,+1-921-131-8066,"2713 Industrial Way, Sydney",3573,4064.0,gold,2023-07-30
+CUST-00319,Liam Miller,liam.miller319@synthetic-user.io,+1-876-388-5872,"3901 Industrial Way, London",1813,29498.02,vip,2025-05-10
+CUST-00320,Sofia Reyes,sofia.reyes320@example.corp,+1-569-103-8005,"1445 Industrial Way, Singapore",8869,15015.63,standard,2023-07-31
+CUST-00321,Elena Tanaka,elena.tanaka321@synthetic-user.io,+1-283-584-2892,"5062 Industrial Way, Sydney",8715,36707.81,gold,2023-04-04
+CUST-00322,Yuki Al-Mansoor,yuki.al-mansoor322@testmail.org,+1-389-479-7249,"6062 Industrial Way, Tokyo",8303,3394.04,enterprise,2024-04-21
+CUST-00323,Amina O'Connor,amina.o'connor323@synthetic-user.io,+1-777-163-3476,"1594 Industrial Way, London",6632,60623.1,enterprise,2025-09-21
+CUST-00324,Emily O'Connor,emily.o'connor324@example.corp,+1-596-938-9561,"6868 Industrial Way, San Francisco",4860,35745.86,standard,2024-02-09
+CUST-00325,Carlos Vance,carlos.vance325@acme-global.net,+1-323-875-8357,"2842 Industrial Way, Tokyo",4471,60644.13,silver,2023-02-13
+CUST-00326,David Kowalski,david.kowalski326@testmail.org,+1-406-942-3422,"9759 Industrial Way, Singapore",6238,68314.8,standard,2023-03-31
+CUST-00327,David Al-Mansoor,david.al-mansoor327@testmail.org,+1-765-433-5525,"8524 Industrial Way, San Francisco",1202,59001.97,vip,2024-08-24
+CUST-00328,Tariq Miller,tariq.miller328@example.corp,+1-624-253-3428,"9293 Industrial Way, London",2730,42223.15,standard,2025-03-15
+CUST-00329,Amina Al-Mansoor,amina.al-mansoor329@synthetic-user.io,+1-620-370-7275,"7965 Industrial Way, San Francisco",1613,12956.37,enterprise,2023-05-28
+CUST-00330,Emily Zhao,emily.zhao330@testmail.org,+1-239-505-6431,"3902 Industrial Way, New York",8785,69066.58,gold,2023-01-21
+CUST-00331,Chen Diallo,chen.diallo331@synthetic-user.io,+1-487-963-9054,"1619 Industrial Way, Berlin",3201,22571.01,enterprise,2025-03-03
+CUST-00332,Chen Diallo,chen.diallo332@testmail.org,+1-819-761-2462,"3089 Industrial Way, San Francisco",4463,68511.79,enterprise,2025-01-28
+CUST-00333,Sofia Al-Mansoor,sofia.al-mansoor333@synthetic-user.io,+1-257-627-3604,"1085 Industrial Way, Singapore",9303,30283.72,vip,2025-06-19
+CUST-00334,Emily Vance,emily.vance334@acme-global.net,+1-397-996-4288,"954 Industrial Way, Berlin",1541,34260.83,gold,2024-12-22
+CUST-00335,Liam Diallo,liam.diallo335@synthetic-user.io,+1-675-617-7503,"2039 Industrial Way, New York",4963,27966.38,vip,2024-04-01
+CUST-00336,Elena Santos,elena.santos336@synthetic-user.io,+1-552-267-5237,"1490 Industrial Way, Singapore",1449,29023.1,silver,2025-05-24
+CUST-00337,Emily O'Connor,emily.o'connor337@acme-global.net,+1-862-330-4387,"4418 Industrial Way, Sydney",9409,1552.92,standard,2024-04-30
+CUST-00338,Elena Tanaka,elena.tanaka338@acme-global.net,+1-815-920-1138,"3676 Industrial Way, Singapore",6004,53469.9,gold,2024-03-09
+CUST-00339,David Wei,david.wei339@testmail.org,+1-458-323-8646,"4960 Industrial Way, Sydney",2676,600.7,gold,2024-07-28
+CUST-00340,Yuki Zhao,yuki.zhao340@synthetic-user.io,+1-505-800-2771,"7902 Industrial Way, London",6509,74127.65,gold,2025-06-01
+CUST-00341,Amina Diallo,amina.diallo341@synthetic-user.io,+1-392-253-9475,"3947 Industrial Way, New York",7620,49556.75,silver,2025-01-08
+CUST-00342,Sarah Tanaka,sarah.tanaka342@testmail.org,+1-502-365-7857,"6638 Industrial Way, Sydney",1578,43747.63,vip,2025-04-15
+CUST-00343,Liam Wei,liam.wei343@acme-global.net,+1-902-647-8794,"5883 Industrial Way, Singapore",3785,63055.87,vip,2023-07-05
+CUST-00344,Amina Kowalski,amina.kowalski344@testmail.org,+1-331-858-5237,"9169 Industrial Way, Tokyo",6499,49099.88,silver,2023-12-30
+CUST-00345,Liam Gomez,liam.gomez345@synthetic-user.io,+1-630-907-6428,"6099 Industrial Way, Singapore",5817,34808.86,standard,2024-04-26
+CUST-00346,Sarah Tanaka,sarah.tanaka346@example.corp,+1-683-299-9199,"1973 Industrial Way, Sydney",9680,22411.76,standard,2025-06-10
+CUST-00347,Elena Reyes,elena.reyes347@acme-global.net,+1-550-519-8496,"2356 Industrial Way, Toronto",3954,58431.64,enterprise,2023-12-07
+CUST-00348,Yuki Reyes,yuki.reyes348@synthetic-user.io,+1-849-159-1077,"7416 Industrial Way, Singapore",4430,57101.44,silver,2024-08-13
+CUST-00349,Elena Santos,elena.santos349@example.corp,+1-332-729-8105,"7045 Industrial Way, Sydney",8029,72401.32,enterprise,2023-01-05
+CUST-00350,Sarah Al-Mansoor,sarah.al-mansoor350@acme-global.net,+1-948-482-1230,"5289 Industrial Way, Berlin",1293,50772.27,silver,2023-08-20
+CUST-00351,Carlos Wei,carlos.wei351@synthetic-user.io,+1-332-205-7284,"8256 Industrial Way, Singapore",3736,4943.26,standard,2023-11-02
+CUST-00352,Amina Santos,amina.santos352@synthetic-user.io,+1-644-803-3192,"5625 Industrial Way, San Francisco",6885,56271.16,silver,2025-08-28
+CUST-00353,David Vance,david.vance353@acme-global.net,+1-429-844-3149,"3470 Industrial Way, New York",9267,12715.41,gold,2024-12-29
+CUST-00354,Yuki Vance,yuki.vance354@testmail.org,+1-855-361-9761,"806 Industrial Way, New York",2771,49034.89,standard,2023-02-19
+CUST-00355,Carlos Kowalski,carlos.kowalski355@testmail.org,+1-654-489-3024,"8976 Industrial Way, Singapore",8772,52655.02,silver,2024-12-12
+CUST-00356,Yuki Tanaka,yuki.tanaka356@example.corp,+1-508-530-2654,"8534 Industrial Way, Singapore",3247,31440.99,standard,2024-06-07
+CUST-00357,Carlos Zhao,carlos.zhao357@example.corp,+1-489-216-2741,"8164 Industrial Way, Berlin",4272,58358.02,vip,2025-09-23
+CUST-00358,Liam Wei,liam.wei358@testmail.org,+1-502-264-1645,"8990 Industrial Way, San Francisco",4402,51630.88,enterprise,2023-12-05
+CUST-00359,Liam Vance,liam.vance359@example.corp,+1-887-191-2809,"9416 Industrial Way, San Francisco",3443,71210.98,vip,2023-03-18
+CUST-00360,Carlos Gomez,carlos.gomez360@example.corp,+1-462-759-4787,"7493 Industrial Way, Singapore",5327,34847.59,standard,2025-04-12
+CUST-00361,Elena Vance,elena.vance361@synthetic-user.io,+1-568-920-6123,"6989 Industrial Way, London",2556,63850.88,standard,2023-01-10
+CUST-00362,Elena Tanaka,elena.tanaka362@acme-global.net,+1-536-466-8171,"4405 Industrial Way, London",7105,61131.57,silver,2023-04-27
+CUST-00363,David Miller,david.miller363@testmail.org,+1-478-955-7319,"7845 Industrial Way, Sydney",3732,8523.59,standard,2025-08-23
+CUST-00364,Elena Kowalski,elena.kowalski364@testmail.org,+1-804-594-8178,"2979 Industrial Way, Sydney",6875,45871.31,silver,2024-05-09
+CUST-00365,Sofia Kowalski,sofia.kowalski365@testmail.org,+1-651-147-2037,"4296 Industrial Way, Toronto",1202,52857.38,vip,2025-02-24
+CUST-00366,Carlos Zhao,carlos.zhao366@acme-global.net,+1-885-994-6542,"8514 Industrial Way, London",8091,49645.41,silver,2024-05-08
+CUST-00367,Chen Tanaka,chen.tanaka367@testmail.org,+1-352-959-1894,"200 Industrial Way, Tokyo",9283,63670.98,enterprise,2025-06-09
+CUST-00368,Elena Kowalski,elena.kowalski368@testmail.org,+1-528-346-6421,"4567 Industrial Way, New York",9305,16741.85,enterprise,2024-02-17
+CUST-00369,Liam Kowalski,liam.kowalski369@testmail.org,+1-654-920-8341,"1452 Industrial Way, San Francisco",8324,23738.81,enterprise,2025-02-02
+CUST-00370,Yuki Vance,yuki.vance370@example.corp,+1-613-522-1587,"9138 Industrial Way, New York",2489,59394.16,vip,2024-10-14
+CUST-00371,Amina Al-Mansoor,amina.al-mansoor371@acme-global.net,+1-870-787-8474,"5594 Industrial Way, Toronto",1889,61253.32,enterprise,2023-12-06
+CUST-00372,Tariq Zhao,tariq.zhao372@testmail.org,+1-933-772-6952,"7424 Industrial Way, London",2596,56961.03,silver,2023-01-03
+CUST-00373,Chen Wei,chen.wei373@synthetic-user.io,+1-760-634-7125,"1751 Industrial Way, New York",3689,36957.04,enterprise,2023-04-20
+CUST-00374,Amina Zhao,amina.zhao374@acme-global.net,+1-392-223-7437,"3542 Industrial Way, San Francisco",4122,53773.25,standard,2025-02-14
+CUST-00375,David Vance,david.vance375@example.corp,+1-990-561-8493,"9665 Industrial Way, Tokyo",9172,375.11,standard,2024-07-20
+CUST-00376,David Zhao,david.zhao376@testmail.org,+1-720-899-3903,"9489 Industrial Way, Tokyo",3103,7811.37,vip,2024-09-12
+CUST-00377,Chen Al-Mansoor,chen.al-mansoor377@testmail.org,+1-628-723-5067,"4492 Industrial Way, Sydney",6617,72788.35,enterprise,2025-04-04
+CUST-00378,Elena Reyes,elena.reyes378@testmail.org,+1-816-816-9393,"4907 Industrial Way, Toronto",4560,15106.64,vip,2025-01-01
+CUST-00379,Amina Tanaka,amina.tanaka379@synthetic-user.io,+1-888-235-3913,"8265 Industrial Way, Toronto",2890,57070.09,vip,2024-05-06
+CUST-00380,Emily Zhao,emily.zhao380@testmail.org,+1-890-865-9747,"4694 Industrial Way, Sydney",1209,39228.61,standard,2024-01-26
+CUST-00381,Elena Vance,elena.vance381@example.corp,+1-404-373-3636,"4705 Industrial Way, Singapore",3399,62961.67,gold,2023-07-28
+CUST-00382,Tariq Vance,tariq.vance382@synthetic-user.io,+1-663-204-4675,"9205 Industrial Way, Sydney",4892,38343.63,gold,2024-12-10
+CUST-00383,Yuki Vance,yuki.vance383@testmail.org,+1-596-526-6122,"9056 Industrial Way, New York",1212,55788.06,silver,2024-09-27
+CUST-00384,Sofia O'Connor,sofia.o'connor384@synthetic-user.io,+1-973-702-9955,"9895 Industrial Way, Berlin",4170,22098.62,silver,2024-11-30
+CUST-00385,Marcus Reyes,marcus.reyes385@acme-global.net,+1-952-626-2955,"6190 Industrial Way, New York",8020,20969.46,gold,2023-05-14
+CUST-00386,Elena Zhao,elena.zhao386@synthetic-user.io,+1-205-438-8640,"2546 Industrial Way, New York",3518,69650.69,vip,2023-02-22
+CUST-00387,Yuki Zhao,yuki.zhao387@synthetic-user.io,+1-702-908-6866,"1204 Industrial Way, Toronto",9608,16536.15,silver,2024-06-17
+CUST-00388,Marcus Al-Mansoor,marcus.al-mansoor388@acme-global.net,+1-625-656-9798,"6619 Industrial Way, London",6724,16628.8,silver,2024-11-10
+CUST-00389,Chen Wei,chen.wei389@synthetic-user.io,+1-500-323-9691,"7790 Industrial Way, New York",2879,50186.94,enterprise,2023-09-04
+CUST-00390,Yuki Zhao,yuki.zhao390@acme-global.net,+1-240-798-6258,"6258 Industrial Way, London",7322,19281.46,gold,2023-01-26
+CUST-00391,Tariq Wei,tariq.wei391@testmail.org,+1-698-144-5856,"3164 Industrial Way, Toronto",9419,6221.79,standard,2023-06-21
+CUST-00392,Tariq Al-Mansoor,tariq.al-mansoor392@example.corp,+1-841-167-4453,"3502 Industrial Way, Sydney",2702,15458.19,enterprise,2024-10-24
+CUST-00393,Marcus Gomez,marcus.gomez393@acme-global.net,+1-224-570-6434,"630 Industrial Way, London",2200,4117.39,gold,2024-07-25
+CUST-00394,Marcus Zhao,marcus.zhao394@acme-global.net,+1-464-517-7357,"7401 Industrial Way, Sydney",8094,23764.5,enterprise,2024-11-20
+CUST-00395,Marcus Al-Mansoor,marcus.al-mansoor395@example.corp,+1-856-837-2036,"9604 Industrial Way, New York",2189,26859.63,vip,2023-04-19
+CUST-00396,Amina Tanaka,amina.tanaka396@synthetic-user.io,+1-821-188-5612,"7180 Industrial Way, Sydney",7473,61668.07,standard,2024-04-30
+CUST-00397,Elena Al-Mansoor,elena.al-mansoor397@acme-global.net,+1-339-864-7406,"8951 Industrial Way, Singapore",3360,22389.33,gold,2025-09-07
+CUST-00398,Sarah Al-Mansoor,sarah.al-mansoor398@acme-global.net,+1-326-142-1082,"9393 Industrial Way, Sydney",9800,41087.03,standard,2023-11-09
+CUST-00399,Liam Gomez,liam.gomez399@synthetic-user.io,+1-416-522-9397,"2343 Industrial Way, Tokyo",4014,16598.06,gold,2023-07-18
+CUST-00400,Marcus Reyes,marcus.reyes400@example.corp,+1-969-662-8557,"9015 Industrial Way, London",5762,50392.81,gold,2023-04-11
+CUST-00401,Liam Gomez,liam.gomez401@testmail.org,+1-538-465-3100,"3852 Industrial Way, London",5671,46482.71,silver,2023-11-22
+CUST-00402,Sofia Santos,sofia.santos402@synthetic-user.io,+1-831-775-6008,"9581 Industrial Way, Tokyo",6971,60587.1,enterprise,2023-06-22
+CUST-00403,Sarah Wei,sarah.wei403@acme-global.net,+1-426-829-8145,"4543 Industrial Way, Toronto",3200,50984.53,gold,2025-06-17
+CUST-00404,Sofia Santos,sofia.santos404@testmail.org,+1-567-893-6004,"7988 Industrial Way, London",3879,48434.09,standard,2025-05-11
+CUST-00405,Amina Reyes,amina.reyes405@acme-global.net,+1-469-851-2252,"1245 Industrial Way, New York",9309,47390.41,vip,2024-08-15
+CUST-00406,David Zhao,david.zhao406@acme-global.net,+1-237-664-5269,"8914 Industrial Way, San Francisco",3435,27468.11,silver,2025-07-01
+CUST-00407,Emily Gomez,emily.gomez407@synthetic-user.io,+1-337-575-9210,"8372 Industrial Way, London",7500,27321.72,standard,2024-11-09
+CUST-00408,Liam Zhao,liam.zhao408@acme-global.net,+1-975-626-3299,"7320 Industrial Way, Tokyo",3935,42498.48,vip,2024-11-06
+CUST-00409,Elena Gomez,elena.gomez409@testmail.org,+1-567-141-4585,"7999 Industrial Way, Berlin",2029,19863.57,silver,2023-02-13
+CUST-00410,Yuki O'Connor,yuki.o'connor410@synthetic-user.io,+1-597-580-8448,"770 Industrial Way, New York",6309,7786.71,vip,2024-10-10
+CUST-00411,Amina Gomez,amina.gomez411@synthetic-user.io,+1-792-657-3848,"6181 Industrial Way, Sydney",6985,44096.53,standard,2024-06-13
+CUST-00412,Amina Miller,amina.miller412@acme-global.net,+1-728-515-6781,"5663 Industrial Way, San Francisco",8898,66543.54,standard,2024-05-28
+CUST-00413,Elena Santos,elena.santos413@acme-global.net,+1-435-178-9430,"4610 Industrial Way, Berlin",3461,14058.58,gold,2024-09-08
+CUST-00414,Carlos Kowalski,carlos.kowalski414@acme-global.net,+1-624-930-6410,"1866 Industrial Way, San Francisco",8844,35952.64,vip,2023-06-15
+CUST-00415,Yuki Miller,yuki.miller415@example.corp,+1-449-144-3095,"9406 Industrial Way, Tokyo",3207,47234.05,standard,2025-07-01
+CUST-00416,Emily Reyes,emily.reyes416@example.corp,+1-370-364-3949,"8474 Industrial Way, Sydney",1305,65894.25,gold,2025-08-27
+CUST-00417,Marcus O'Connor,marcus.o'connor417@testmail.org,+1-821-582-8891,"2804 Industrial Way, Berlin",7730,45082.86,vip,2025-04-20
+CUST-00418,Elena Zhao,elena.zhao418@synthetic-user.io,+1-371-841-6614,"7439 Industrial Way, London",4765,28396.94,silver,2023-04-22
+CUST-00419,Sarah O'Connor,sarah.o'connor419@testmail.org,+1-353-720-2577,"2916 Industrial Way, San Francisco",1639,65837.56,vip,2024-05-30
+CUST-00420,Marcus Kowalski,marcus.kowalski420@testmail.org,+1-875-233-9835,"29 Industrial Way, Sydney",9553,31580.27,standard,2024-12-15
+CUST-00421,Tariq Miller,tariq.miller421@acme-global.net,+1-693-908-7246,"5752 Industrial Way, London",7971,10084.54,enterprise,2025-02-23
+CUST-00422,Liam Kowalski,liam.kowalski422@synthetic-user.io,+1-812-997-9908,"6705 Industrial Way, Singapore",4096,459.94,standard,2024-08-14
+CUST-00423,Tariq Kowalski,tariq.kowalski423@example.corp,+1-584-770-4365,"5185 Industrial Way, Sydney",6935,8038.41,enterprise,2024-10-29
+CUST-00424,Emily Diallo,emily.diallo424@synthetic-user.io,+1-748-533-6990,"4524 Industrial Way, Sydney",4337,31021.45,vip,2024-05-09
+CUST-00425,Elena Wei,elena.wei425@testmail.org,+1-459-414-6641,"6532 Industrial Way, Tokyo",2951,56098.67,enterprise,2025-03-12
+CUST-00426,Carlos Reyes,carlos.reyes426@example.corp,+1-419-620-7562,"5554 Industrial Way, New York",3633,29213.32,standard,2025-04-03
+CUST-00427,Marcus Reyes,marcus.reyes427@testmail.org,+1-814-545-2444,"1059 Industrial Way, Singapore",4633,27844.09,vip,2023-02-08
+CUST-00428,Carlos Miller,carlos.miller428@testmail.org,+1-828-771-9536,"4703 Industrial Way, New York",3871,48039.83,enterprise,2023-01-11
+CUST-00429,Liam Tanaka,liam.tanaka429@synthetic-user.io,+1-399-134-9364,"8461 Industrial Way, Berlin",3776,50568.13,gold,2023-09-02
+CUST-00430,Yuki Vance,yuki.vance430@acme-global.net,+1-288-382-7544,"5795 Industrial Way, Sydney",7642,43976.71,vip,2023-01-16
+CUST-00431,Carlos Gomez,carlos.gomez431@example.corp,+1-292-662-5661,"9170 Industrial Way, Toronto",6693,72248.41,gold,2023-08-20
+CUST-00432,Emily O'Connor,emily.o'connor432@testmail.org,+1-613-688-1076,"4287 Industrial Way, Tokyo",7670,37992.55,vip,2023-03-16
+CUST-00433,Tariq Diallo,tariq.diallo433@synthetic-user.io,+1-319-922-9409,"4232 Industrial Way, Singapore",8254,72455.86,vip,2024-05-10
+CUST-00434,Liam Wei,liam.wei434@testmail.org,+1-897-571-1448,"7906 Industrial Way, London",5224,5113.19,silver,2024-11-24
+CUST-00435,Carlos O'Connor,carlos.o'connor435@synthetic-user.io,+1-622-461-9462,"8786 Industrial Way, New York",5314,18656.91,standard,2024-02-13
+CUST-00436,Yuki Gomez,yuki.gomez436@synthetic-user.io,+1-277-667-3924,"7817 Industrial Way, Toronto",6792,16431.53,vip,2023-10-03
+CUST-00437,Elena Gomez,elena.gomez437@acme-global.net,+1-710-854-4271,"3857 Industrial Way, Berlin",5348,15548.06,silver,2025-05-04
+CUST-00438,Liam Zhao,liam.zhao438@synthetic-user.io,+1-359-897-2747,"1974 Industrial Way, London",9071,46056.33,vip,2025-09-07
+CUST-00439,Sarah Santos,sarah.santos439@synthetic-user.io,+1-835-422-9066,"9422 Industrial Way, Singapore",9041,13756.25,vip,2023-10-14
+CUST-00440,David O'Connor,david.o'connor440@acme-global.net,+1-255-638-7933,"7846 Industrial Way, New York",9232,26079.31,silver,2024-04-13
+CUST-00441,Marcus Gomez,marcus.gomez441@testmail.org,+1-523-805-1137,"203 Industrial Way, Berlin",7216,43596.57,gold,2024-01-06
+CUST-00442,Emily Diallo,emily.diallo442@acme-global.net,+1-761-369-4885,"4423 Industrial Way, San Francisco",6621,27476.02,enterprise,2024-03-10
+CUST-00443,Liam Miller,liam.miller443@synthetic-user.io,+1-573-974-7563,"4591 Industrial Way, San Francisco",3947,42877.16,vip,2024-12-03
+CUST-00444,Liam Kowalski,liam.kowalski444@synthetic-user.io,+1-441-668-8081,"6250 Industrial Way, Berlin",3389,60012.81,silver,2024-04-29
+CUST-00445,Sarah Reyes,sarah.reyes445@testmail.org,+1-711-237-9470,"8758 Industrial Way, Toronto",8972,22537.56,vip,2025-05-29
+CUST-00446,Emily Vance,emily.vance446@testmail.org,+1-301-807-3676,"993 Industrial Way, Berlin",5166,35766.63,standard,2024-04-05
+CUST-00447,Carlos Wei,carlos.wei447@synthetic-user.io,+1-569-468-5222,"5648 Industrial Way, New York",7746,9136.75,vip,2023-07-23
+CUST-00448,Emily Zhao,emily.zhao448@acme-global.net,+1-999-391-6818,"5336 Industrial Way, San Francisco",8322,66727.95,enterprise,2024-09-20
+CUST-00449,Amina Santos,amina.santos449@acme-global.net,+1-371-755-6527,"6921 Industrial Way, Sydney",2168,5979.44,gold,2023-08-22
+CUST-00450,Chen Wei,chen.wei450@synthetic-user.io,+1-927-373-7479,"4454 Industrial Way, San Francisco",6950,56104.77,vip,2025-09-15
+CUST-00451,Sofia Miller,sofia.miller451@acme-global.net,+1-388-974-1378,"2058 Industrial Way, Berlin",5122,70535.78,standard,2023-08-04
+CUST-00452,Elena Miller,elena.miller452@example.corp,+1-297-165-8752,"8995 Industrial Way, New York",1431,57831.48,vip,2025-02-22
+CUST-00453,Marcus Kowalski,marcus.kowalski453@synthetic-user.io,+1-832-259-2381,"6397 Industrial Way, Singapore",4757,18592.37,gold,2024-03-29
+CUST-00454,Yuki Reyes,yuki.reyes454@acme-global.net,+1-739-958-3795,"478 Industrial Way, New York",6846,64534.64,gold,2025-06-03
+CUST-00455,Sofia Santos,sofia.santos455@synthetic-user.io,+1-761-555-3213,"8845 Industrial Way, Tokyo",8480,47347.01,vip,2024-03-21
+CUST-00456,Tariq Tanaka,tariq.tanaka456@synthetic-user.io,+1-555-593-9841,"3731 Industrial Way, London",8239,23124.72,enterprise,2023-09-24
+CUST-00457,Elena Diallo,elena.diallo457@example.corp,+1-200-635-3233,"5644 Industrial Way, Singapore",8687,40155.66,enterprise,2025-08-27
+CUST-00458,Sofia Diallo,sofia.diallo458@example.corp,+1-984-540-5799,"9791 Industrial Way, Berlin",1118,41138.5,silver,2024-02-26
+CUST-00459,Tariq Miller,tariq.miller459@testmail.org,+1-455-267-7385,"6209 Industrial Way, Berlin",5308,5986.77,silver,2024-06-13
+CUST-00460,Emily Gomez,emily.gomez460@synthetic-user.io,+1-491-764-9715,"4414 Industrial Way, Sydney",4080,64018.48,silver,2023-05-20
+CUST-00461,Amina Kowalski,amina.kowalski461@testmail.org,+1-832-563-5458,"8070 Industrial Way, Berlin",6253,1503.69,standard,2025-09-19
+CUST-00462,Tariq Vance,tariq.vance462@acme-global.net,+1-304-388-5410,"2058 Industrial Way, San Francisco",1134,17499.15,silver,2023-01-16
+CUST-00463,Sofia O'Connor,sofia.o'connor463@synthetic-user.io,+1-630-419-9165,"6094 Industrial Way, San Francisco",1519,24802.14,silver,2023-02-27
+CUST-00464,Amina Miller,amina.miller464@example.corp,+1-756-581-3975,"3158 Industrial Way, Singapore",7251,62127.49,standard,2025-09-24
+CUST-00465,Carlos O'Connor,carlos.o'connor465@testmail.org,+1-989-553-5049,"559 Industrial Way, Berlin",8550,55162.44,standard,2024-06-17
+CUST-00466,Yuki O'Connor,yuki.o'connor466@testmail.org,+1-598-797-6113,"5303 Industrial Way, Tokyo",1691,55867.11,vip,2024-06-17
+CUST-00467,Marcus Diallo,marcus.diallo467@testmail.org,+1-853-405-4255,"5915 Industrial Way, New York",4568,72996.89,silver,2024-10-10
+CUST-00468,David Wei,david.wei468@example.corp,+1-371-913-5523,"9589 Industrial Way, London",7484,59196.33,standard,2025-09-19
+CUST-00469,Sarah Zhao,sarah.zhao469@testmail.org,+1-904-710-3539,"6094 Industrial Way, London",5075,11869.5,standard,2024-12-03
+CUST-00470,Emily Wei,emily.wei470@example.corp,+1-261-464-3521,"8797 Industrial Way, London",3061,36613.82,gold,2024-07-25
+CUST-00471,Yuki Wei,yuki.wei471@testmail.org,+1-950-297-1349,"6199 Industrial Way, Toronto",3207,18839.68,standard,2024-05-11
+CUST-00472,Carlos Santos,carlos.santos472@synthetic-user.io,+1-755-813-9029,"3119 Industrial Way, Tokyo",9906,26107.47,enterprise,2023-10-09
+CUST-00473,Emily Al-Mansoor,emily.al-mansoor473@acme-global.net,+1-270-643-3539,"7372 Industrial Way, Singapore",5314,40643.37,enterprise,2023-01-01
+CUST-00474,Yuki Al-Mansoor,yuki.al-mansoor474@testmail.org,+1-951-289-1306,"5975 Industrial Way, Berlin",6254,54089.22,vip,2025-04-18
+CUST-00475,David O'Connor,david.o'connor475@testmail.org,+1-984-664-3525,"4648 Industrial Way, Toronto",7714,48085.75,standard,2023-04-09
+CUST-00476,Tariq Tanaka,tariq.tanaka476@example.corp,+1-244-955-3126,"2936 Industrial Way, New York",4310,8073.78,silver,2023-04-12
+CUST-00477,Sarah Zhao,sarah.zhao477@testmail.org,+1-873-601-9615,"9681 Industrial Way, Singapore",1804,27508.23,vip,2025-01-05
+CUST-00478,Marcus Vance,marcus.vance478@acme-global.net,+1-871-603-2310,"7678 Industrial Way, New York",6913,41873.59,enterprise,2025-04-21
+CUST-00479,Chen Gomez,chen.gomez479@example.corp,+1-831-372-9667,"676 Industrial Way, London",5979,5891.26,silver,2025-09-10
+CUST-00480,Tariq Kowalski,tariq.kowalski480@example.corp,+1-942-336-9710,"6323 Industrial Way, Berlin",4164,39488.09,silver,2024-08-06
+CUST-00481,Yuki Reyes,yuki.reyes481@testmail.org,+1-964-208-6864,"7525 Industrial Way, Sydney",2705,12552.36,silver,2024-07-17
+CUST-00482,David Al-Mansoor,david.al-mansoor482@synthetic-user.io,+1-873-261-9747,"9839 Industrial Way, San Francisco",6772,67691.25,vip,2023-11-29
+CUST-00483,Chen Miller,chen.miller483@testmail.org,+1-943-431-4943,"9236 Industrial Way, Berlin",7145,57439.83,gold,2024-01-04
+CUST-00484,Sofia Santos,sofia.santos484@testmail.org,+1-200-843-1567,"4670 Industrial Way, New York",9480,10174.67,gold,2023-01-07
+CUST-00485,Amina O'Connor,amina.o'connor485@acme-global.net,+1-522-122-5521,"9081 Industrial Way, Tokyo",2544,2878.34,gold,2023-06-09
+CUST-00486,Elena Diallo,elena.diallo486@synthetic-user.io,+1-796-355-4817,"4208 Industrial Way, Singapore",2505,42808.01,vip,2025-07-28
+CUST-00487,Liam Gomez,liam.gomez487@example.corp,+1-940-432-8905,"2842 Industrial Way, San Francisco",2562,44662.58,gold,2023-02-08
+CUST-00488,Carlos Zhao,carlos.zhao488@testmail.org,+1-280-898-1916,"5488 Industrial Way, Toronto",8115,31268.3,standard,2025-06-09
+CUST-00489,Liam Gomez,liam.gomez489@example.corp,+1-849-896-7266,"896 Industrial Way, Singapore",9591,3136.61,vip,2024-08-01
+CUST-00490,Elena Wei,elena.wei490@acme-global.net,+1-356-151-7436,"7310 Industrial Way, London",4638,32423.58,enterprise,2023-06-01
+CUST-00491,Elena Wei,elena.wei491@example.corp,+1-687-685-1807,"8990 Industrial Way, Sydney",5301,6426.67,vip,2024-03-20
+CUST-00492,Carlos Reyes,carlos.reyes492@acme-global.net,+1-692-672-4245,"8003 Industrial Way, Sydney",4212,42109.51,vip,2023-09-10
+CUST-00493,Liam Kowalski,liam.kowalski493@synthetic-user.io,+1-995-540-6298,"9447 Industrial Way, London",2843,50397.48,enterprise,2024-01-10
+CUST-00494,Chen O'Connor,chen.o'connor494@synthetic-user.io,+1-552-708-1396,"5004 Industrial Way, Tokyo",6729,46235.76,enterprise,2024-09-30
+CUST-00495,Elena Santos,elena.santos495@example.corp,+1-439-304-7124,"2565 Industrial Way, London",2841,55481.64,silver,2025-08-29
+CUST-00496,Emily Reyes,emily.reyes496@synthetic-user.io,+1-214-451-2823,"5009 Industrial Way, San Francisco",8719,1754.97,silver,2025-01-27
+CUST-00497,Tariq O'Connor,tariq.o'connor497@acme-global.net,+1-759-635-5237,"9001 Industrial Way, San Francisco",3315,52145.58,standard,2024-01-21
+CUST-00498,Emily Tanaka,emily.tanaka498@example.corp,+1-461-274-1984,"4663 Industrial Way, Berlin",5444,4028.74,standard,2023-03-10
+CUST-00499,David Tanaka,david.tanaka499@synthetic-user.io,+1-878-972-6901,"1777 Industrial Way, New York",5792,65062.41,enterprise,2023-08-25
+CUST-00500,David Al-Mansoor,david.al-mansoor500@example.corp,+1-523-596-9709,"1452 Industrial Way, Tokyo",4258,37573.78,enterprise,2024-07-28

@@ -1,0 +1,151 @@
+employee_id,full_name,email,department,role,access_level,status
+EMP-0001,Yuki Diallo,yuki.diallo@internal.corp,Sales,Sales Manager,read_only,active
+EMP-0002,Liam Vance,liam.vance@internal.corp,Customer Success,Customer Success Analyst,standard,active
+EMP-0003,Sarah Reyes,sarah.reyes@internal.corp,Sales,Sales Director,read_only,active
+EMP-0004,Emily Wei,emily.wei@internal.corp,Sales,Sales Lead,read_only,active
+EMP-0005,David O'Connor,david.o'connor@internal.corp,Finance,Finance Manager,standard,active
+EMP-0006,Emily Tanaka,emily.tanaka@internal.corp,Customer Success,Customer Success Analyst,read_only,active
+EMP-0007,David Reyes,david.reyes@internal.corp,Legal,Legal Manager,read_only,active
+EMP-0008,Elena Miller,elena.miller@internal.corp,Sales,Sales Director,standard,active
+EMP-0009,David O'Connor,david.o'connor@internal.corp,SecOps,SecOps VP,standard,active
+EMP-0010,Tariq Kowalski,tariq.kowalski@internal.corp,Legal,Legal Director,elevated,active
+EMP-0011,Yuki Diallo,yuki.diallo@internal.corp,Finance,Finance Lead,elevated,active
+EMP-0012,Liam Kowalski,liam.kowalski@internal.corp,SecOps,SecOps Analyst,elevated,active
+EMP-0013,Sarah Tanaka,sarah.tanaka@internal.corp,Finance,Finance Lead,standard,active
+EMP-0014,Emily Gomez,emily.gomez@internal.corp,Finance,Finance Analyst,read_only,active
+EMP-0015,David Vance,david.vance@internal.corp,Legal,Legal VP,standard,active
+EMP-0016,Sofia Tanaka,sofia.tanaka@internal.corp,Legal,Legal Engineer,standard,active
+EMP-0017,Liam Tanaka,liam.tanaka@internal.corp,Engineering,Engineering Engineer,standard,active
+EMP-0018,Tariq O'Connor,tariq.o'connor@internal.corp,Legal,Legal Manager,elevated,active
+EMP-0019,Yuki Vance,yuki.vance@internal.corp,Sales,Sales Analyst,standard,active
+EMP-0020,Yuki Vance,yuki.vance@internal.corp,Legal,Legal Director,standard,active
+EMP-0021,Marcus Santos,marcus.santos@internal.corp,Finance,Finance Analyst,standard,active
+EMP-0022,Elena Diallo,elena.diallo@internal.corp,Sales,Sales Lead,standard,active
+EMP-0023,Marcus Santos,marcus.santos@internal.corp,Sales,Sales Lead,elevated,active
+EMP-0024,Marcus Santos,marcus.santos@internal.corp,SecOps,SecOps Manager,standard,active
+EMP-0025,Sofia Tanaka,sofia.tanaka@internal.corp,SecOps,SecOps Lead,read_only,active
+EMP-0026,David Miller,david.miller@internal.corp,Sales,Sales VP,elevated,active
+EMP-0027,Elena Reyes,elena.reyes@internal.corp,Sales,Sales Analyst,standard,active
+EMP-0028,Yuki Zhao,yuki.zhao@internal.corp,Legal,Legal Director,standard,active
+EMP-0029,Marcus Wei,marcus.wei@internal.corp,Sales,Sales Manager,read_only,active
+EMP-0030,Emily Al-Mansoor,emily.al-mansoor@internal.corp,SecOps,SecOps Lead,read_only,active
+EMP-0031,Carlos Diallo,carlos.diallo@internal.corp,SecOps,SecOps Lead,read_only,active
+EMP-0032,Sarah Al-Mansoor,sarah.al-mansoor@internal.corp,SecOps,SecOps Director,admin,active
+EMP-0033,Tariq Reyes,tariq.reyes@internal.corp,Engineering,Engineering Engineer,standard,active
+EMP-0034,Liam Vance,liam.vance@internal.corp,Sales,Sales Lead,standard,active
+EMP-0035,Marcus Gomez,marcus.gomez@internal.corp,Legal,Legal Lead,elevated,active
+EMP-0036,Amina Santos,amina.santos@internal.corp,Engineering,Engineering Analyst,elevated,active
+EMP-0037,Carlos Al-Mansoor,carlos.al-mansoor@internal.corp,Legal,Legal Engineer,elevated,active
+EMP-0038,Carlos Santos,carlos.santos@internal.corp,Customer Success,Customer Success Director,elevated,active
+EMP-0039,Liam Diallo,liam.diallo@internal.corp,Engineering,Engineering Lead,read_only,active
+EMP-0040,Carlos Diallo,carlos.diallo@internal.corp,Customer Success,Customer Success Analyst,read_only,active
+EMP-0041,Emily Diallo,emily.diallo@internal.corp,Engineering,Engineering Lead,read_only,active
+EMP-0042,Sofia Miller,sofia.miller@internal.corp,Customer Success,Customer Success Manager,read_only,active
+EMP-0043,Carlos Diallo,carlos.diallo@internal.corp,Sales,Sales Director,standard,active
+EMP-0044,Emily Miller,emily.miller@internal.corp,Customer Success,Customer Success Lead,read_only,active
+EMP-0045,Chen Wei,chen.wei@internal.corp,Legal,Legal Analyst,elevated,active
+EMP-0046,Elena Vance,elena.vance@internal.corp,Finance,Finance Engineer,read_only,active
+EMP-0047,David Diallo,david.diallo@internal.corp,Finance,Finance VP,read_only,active
+EMP-0048,Chen Miller,chen.miller@internal.corp,SecOps,SecOps Analyst,standard,active
+EMP-0049,Chen Miller,chen.miller@internal.corp,Engineering,Engineering Engineer,standard,active
+EMP-0050,Marcus O'Connor,marcus.o'connor@internal.corp,Legal,Legal Engineer,elevated,active
+EMP-0051,Elena Wei,elena.wei@internal.corp,SecOps,SecOps Analyst,elevated,active
+EMP-0052,Carlos Vance,carlos.vance@internal.corp,Legal,Legal Engineer,standard,active
+EMP-0053,Sofia Zhao,sofia.zhao@internal.corp,Sales,Sales Lead,read_only,active
+EMP-0054,Marcus Miller,marcus.miller@internal.corp,Sales,Sales Director,standard,active
+EMP-0055,Tariq O'Connor,tariq.o'connor@internal.corp,SecOps,SecOps Director,admin,active
+EMP-0056,Amina Gomez,amina.gomez@internal.corp,Finance,Finance VP,standard,active
+EMP-0057,Emily Tanaka,emily.tanaka@internal.corp,Customer Success,Customer Success VP,elevated,active
+EMP-0058,Chen Wei,chen.wei@internal.corp,Engineering,Engineering Lead,standard,active
+EMP-0059,Sofia Santos,sofia.santos@internal.corp,SecOps,SecOps Engineer,elevated,active
+EMP-0060,Marcus Kowalski,marcus.kowalski@internal.corp,Customer Success,Customer Success Lead,read_only,active
+EMP-0061,Chen Zhao,chen.zhao@internal.corp,Customer Success,Customer Success Lead,read_only,active
+EMP-0062,Sarah Diallo,sarah.diallo@internal.corp,SecOps,SecOps VP,read_only,active
+EMP-0063,Sarah Santos,sarah.santos@internal.corp,Sales,Sales Lead,elevated,active
+EMP-0064,Sarah Al-Mansoor,sarah.al-mansoor@internal.corp,Finance,Finance Analyst,elevated,active
+EMP-0065,Yuki Vance,yuki.vance@internal.corp,SecOps,SecOps Manager,standard,active
+EMP-0066,David Gomez,david.gomez@internal.corp,Sales,Sales Engineer,elevated,active
+EMP-0067,Chen Miller,chen.miller@internal.corp,SecOps,SecOps Director,admin,active
+EMP-0068,Chen Santos,chen.santos@internal.corp,Finance,Finance Analyst,elevated,active
+EMP-0069,Amina Gomez,amina.gomez@internal.corp,Customer Success,Customer Success Manager,read_only,active
+EMP-0070,Marcus Wei,marcus.wei@internal.corp,Finance,Finance Analyst,standard,active
+EMP-0071,Liam Vance,liam.vance@internal.corp,SecOps,SecOps Lead,standard,active
+EMP-0072,Chen Gomez,chen.gomez@internal.corp,Legal,Legal Manager,standard,active
+EMP-0073,Elena Kowalski,elena.kowalski@internal.corp,Engineering,Engineering VP,elevated,active
+EMP-0074,Tariq Vance,tariq.vance@internal.corp,Legal,Legal Analyst,elevated,active
+EMP-0075,Sarah Kowalski,sarah.kowalski@internal.corp,SecOps,SecOps Engineer,standard,active
+EMP-0076,Amina Wei,amina.wei@internal.corp,Legal,Legal Director,elevated,active
+EMP-0077,Amina Gomez,amina.gomez@internal.corp,Engineering,Engineering Lead,read_only,active
+EMP-0078,Sofia Kowalski,sofia.kowalski@internal.corp,Engineering,Engineering Engineer,standard,active
+EMP-0079,Emily Miller,emily.miller@internal.corp,Legal,Legal Manager,read_only,active
+EMP-0080,Marcus Al-Mansoor,marcus.al-mansoor@internal.corp,Finance,Finance Lead,read_only,active
+EMP-0081,Sofia Tanaka,sofia.tanaka@internal.corp,Customer Success,Customer Success Engineer,elevated,active
+EMP-0082,Carlos Santos,carlos.santos@internal.corp,Engineering,Engineering Analyst,elevated,active
+EMP-0083,Amina Gomez,amina.gomez@internal.corp,SecOps,SecOps Engineer,read_only,active
+EMP-0084,Liam Tanaka,liam.tanaka@internal.corp,Legal,Legal VP,standard,active
+EMP-0085,Carlos Kowalski,carlos.kowalski@internal.corp,SecOps,SecOps Manager,standard,active
+EMP-0086,Liam Vance,liam.vance@internal.corp,Legal,Legal Lead,elevated,active
+EMP-0087,David O'Connor,david.o'connor@internal.corp,Customer Success,Customer Success Analyst,elevated,active
+EMP-0088,Liam Zhao,liam.zhao@internal.corp,Finance,Finance Director,elevated,active
+EMP-0089,Amina Gomez,amina.gomez@internal.corp,Customer Success,Customer Success VP,standard,active
+EMP-0090,Tariq Kowalski,tariq.kowalski@internal.corp,Engineering,Engineering Lead,elevated,active
+EMP-0091,David Santos,david.santos@internal.corp,Finance,Finance Director,standard,active
+EMP-0092,David O'Connor,david.o'connor@internal.corp,SecOps,SecOps Engineer,elevated,active
+EMP-0093,Elena Tanaka,elena.tanaka@internal.corp,Sales,Sales Director,read_only,active
+EMP-0094,Marcus Reyes,marcus.reyes@internal.corp,Customer Success,Customer Success Analyst,read_only,active
+EMP-0095,Marcus O'Connor,marcus.o'connor@internal.corp,SecOps,SecOps Manager,standard,active
+EMP-0096,Amina Vance,amina.vance@internal.corp,Customer Success,Customer Success VP,read_only,active
+EMP-0097,Sofia Wei,sofia.wei@internal.corp,Sales,Sales Analyst,read_only,active
+EMP-0098,Marcus Wei,marcus.wei@internal.corp,Customer Success,Customer Success Lead,standard,active
+EMP-0099,David Al-Mansoor,david.al-mansoor@internal.corp,Customer Success,Customer Success Director,elevated,active
+EMP-0100,Sarah Santos,sarah.santos@internal.corp,Sales,Sales Engineer,standard,active
+EMP-0101,Sarah Tanaka,sarah.tanaka@internal.corp,Customer Success,Customer Success VP,elevated,active
+EMP-0102,Liam Diallo,liam.diallo@internal.corp,Engineering,Engineering Manager,standard,active
+EMP-0103,Emily Diallo,emily.diallo@internal.corp,Finance,Finance Director,elevated,active
+EMP-0104,Tariq Miller,tariq.miller@internal.corp,SecOps,SecOps VP,standard,active
+EMP-0105,Yuki O'Connor,yuki.o'connor@internal.corp,SecOps,SecOps Lead,standard,active
+EMP-0106,Sarah Vance,sarah.vance@internal.corp,Finance,Finance Engineer,standard,active
+EMP-0107,Marcus Al-Mansoor,marcus.al-mansoor@internal.corp,SecOps,SecOps Engineer,standard,active
+EMP-0108,Emily Gomez,emily.gomez@internal.corp,Legal,Legal Manager,elevated,active
+EMP-0109,David Kowalski,david.kowalski@internal.corp,Engineering,Engineering VP,read_only,active
+EMP-0110,Amina Santos,amina.santos@internal.corp,Engineering,Engineering Lead,standard,active
+EMP-0111,Chen Tanaka,chen.tanaka@internal.corp,Sales,Sales VP,read_only,active
+EMP-0112,Amina Gomez,amina.gomez@internal.corp,SecOps,SecOps Analyst,standard,active
+EMP-0113,Tariq Gomez,tariq.gomez@internal.corp,Finance,Finance Manager,read_only,active
+EMP-0114,Amina Gomez,amina.gomez@internal.corp,Engineering,Engineering Lead,elevated,active
+EMP-0115,Yuki Kowalski,yuki.kowalski@internal.corp,Engineering,Engineering Lead,elevated,active
+EMP-0116,Sofia Reyes,sofia.reyes@internal.corp,SecOps,SecOps VP,elevated,active
+EMP-0117,David Wei,david.wei@internal.corp,SecOps,SecOps Lead,elevated,active
+EMP-0118,Marcus Reyes,marcus.reyes@internal.corp,Legal,Legal Analyst,read_only,active
+EMP-0119,Chen Santos,chen.santos@internal.corp,Finance,Finance Analyst,elevated,active
+EMP-0120,Liam Santos,liam.santos@internal.corp,SecOps,SecOps Analyst,standard,active
+EMP-0121,Emily Tanaka,emily.tanaka@internal.corp,Sales,Sales Lead,read_only,active
+EMP-0122,Tariq Reyes,tariq.reyes@internal.corp,Engineering,Engineering Analyst,standard,active
+EMP-0123,Amina Gomez,amina.gomez@internal.corp,Sales,Sales Manager,elevated,active
+EMP-0124,Carlos Wei,carlos.wei@internal.corp,Finance,Finance Engineer,read_only,active
+EMP-0125,Sofia Diallo,sofia.diallo@internal.corp,Sales,Sales Manager,standard,active
+EMP-0126,Chen Diallo,chen.diallo@internal.corp,Legal,Legal Engineer,read_only,active
+EMP-0127,Yuki Zhao,yuki.zhao@internal.corp,Customer Success,Customer Success Analyst,elevated,active
+EMP-0128,Yuki Al-Mansoor,yuki.al-mansoor@internal.corp,Legal,Legal VP,standard,active
+EMP-0129,Elena Miller,elena.miller@internal.corp,Engineering,Engineering VP,standard,active
+EMP-0130,Chen Santos,chen.santos@internal.corp,SecOps,SecOps Lead,read_only,active
+EMP-0131,Carlos Gomez,carlos.gomez@internal.corp,Customer Success,Customer Success Engineer,standard,active
+EMP-0132,Carlos Kowalski,carlos.kowalski@internal.corp,Engineering,Engineering Manager,read_only,active
+EMP-0133,Marcus Diallo,marcus.diallo@internal.corp,Legal,Legal VP,read_only,active
+EMP-0134,Sofia Al-Mansoor,sofia.al-mansoor@internal.corp,Engineering,Engineering Engineer,read_only,active
+EMP-0135,Chen Wei,chen.wei@internal.corp,Customer Success,Customer Success Director,elevated,active
+EMP-0136,Amina Diallo,amina.diallo@internal.corp,Engineering,Engineering Analyst,read_only,active
+EMP-0137,Tariq Gomez,tariq.gomez@internal.corp,Sales,Sales Director,standard,active
+EMP-0138,David Santos,david.santos@internal.corp,Finance,Finance Engineer,elevated,active
+EMP-0139,Marcus Vance,marcus.vance@internal.corp,Customer Success,Customer Success VP,standard,active
+EMP-0140,Sofia Tanaka,sofia.tanaka@internal.corp,Engineering,Engineering Director,admin,active
+EMP-0141,Amina Zhao,amina.zhao@internal.corp,Finance,Finance VP,standard,active
+EMP-0142,Amina Santos,amina.santos@internal.corp,Sales,Sales Analyst,elevated,active
+EMP-0143,Sarah Santos,sarah.santos@internal.corp,SecOps,SecOps Lead,elevated,active
+EMP-0144,Emily Kowalski,emily.kowalski@internal.corp,SecOps,SecOps Manager,elevated,active
+EMP-0145,Sarah Miller,sarah.miller@internal.corp,Sales,Sales VP,standard,active
+EMP-0146,Sarah Diallo,sarah.diallo@internal.corp,Engineering,Engineering Engineer,elevated,active
+EMP-0147,Tariq Tanaka,tariq.tanaka@internal.corp,Finance,Finance Lead,standard,active
+EMP-0148,Carlos Diallo,carlos.diallo@internal.corp,Engineering,Engineering VP,standard,active
+EMP-0149,David Zhao,david.zhao@internal.corp,SecOps,SecOps Engineer,standard,active
+EMP-0150,Sarah Santos,sarah.santos@internal.corp,Sales,Sales Lead,read_only,active
